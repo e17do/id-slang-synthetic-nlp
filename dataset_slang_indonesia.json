@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ID-NLP-001",
+    "konteks_percakapan": "Gak habis fikri sih sama layanan ekspedisinya, paket gue nyasar ke kota lain padahal alamatnya udah jelas banget.",
+    "ragam_slang": "Gak habis fikri (Gak habis pikir)",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta (Gen Z / Media Sosial)"
+  },
+  {
+    "id": "ID-NLP-002",
+    "konteks_pervakapan": "Santai aja kali bro, jangan bikin fomo anak-anak. Nanti juga kita kebagian tiket konsernya kalau emang rezeki.",
+    "ragam_slang": "Fomo (Fear of Missing Out)",
+    "sentimen_emosi": "Positif / Menenangkan",
+    "lokasi_dominan": "Urban / Kota Besar"
+  },
+  {
+    "id": "ID-NLP-003",
+    "konteks_percakapan": "Aplikasi ini rill cuy, baru coba lima menit langsung paham cara pakainya tanpa perlu baca panduan ribet.",
+    "ragam_slang": "Rill cuy (Real / Nyata)",
+    "sentimen_emosi": "Positif / Puas",
+    "lokasi_dominan": "Nasional (Komunitas Gaming/Meme)"
+  },
+  {
+    "id": "ID-NLP-004",
+    "konteks_percakapan": "Halah, skena banget lu tong, nongkrong di kopi ginian doang pake bawa kamera analog segala.",
+    "ragam_slang": "Skena (Stereotipe subkultur tertentu)",
+    "sentimen_emosi": "Negatif / Sindiran",
+    "lokasi_dominan": "Bandung / Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-005",
+    "konteks_percakapan": "Jangan mau kerja di sana, manajemennya red flag parah, lemburan gak dibayar terus bosnya suka gaslighting karyawan.",
+    "ragam_slang": "Red flag, Gaslighting",
+    "sentimen_emosi": "Negatif / Peringatan",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  }
+]
