@@ -18934,6 +18934,3471 @@
     "sentimen_emosi": "Terhibur / Terkejut",
     "lokasi_dominan": "Jakarta Selatan / Media Sosial"
   },
+    {
+    "id": "ID-NLP-2706",
+    "konteks_percakapan": "Baru lihat kejadian tadi, gue langsung kepikiran istilah absurd banget.",
+    "ragam_slang": "absurd banget",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2707",
+    "konteks_percakapan": "Teman gue nyeletuk “agak laen” dan semua orang langsung paham konteksnya.",
+    "ragam_slang": "agak laen",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2708",
+    "konteks_percakapan": "Kalau urusan beginian, gue sekarang lebih pilih gaya basi.",
+    "ragam_slang": "basi",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2709",
+    "konteks_percakapan": "Chat tadi mendadak berubah gara-gara ada yang bawa istilah berasa.",
+    "ragam_slang": "berasa",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2710",
+    "konteks_percakapan": "Seharian ketemu situasi begini bikin gue kepikiran soal biarin.",
+    "ragam_slang": "biarin",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2711",
+    "konteks_percakapan": "Dia cuma senyum waktu dibilang punya gaya bingits, padahal emang kelihatan.",
+    "ragam_slang": "bingits",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2712",
+    "konteks_percakapan": "Postingan itu langsung terasa punya nuansa blangsak sejak caption pertama.",
+    "ragam_slang": "blangsak",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2713",
+    "konteks_percakapan": "Yang bikin lucu justru cara dia memasukkan istilah blunder ke obrolan.",
+    "ragam_slang": "blunder",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2714",
+    "konteks_percakapan": "Gue tadinya biasa aja, tapi hasil akhirnya malah terasa seperti bocil.",
+    "ragam_slang": "bocil",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2715",
+    "konteks_percakapan": "Di grup tadi istilah buru-buru dipakai terus sampai jadi bahan bercandaan.",
+    "ragam_slang": "buru-buru",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2716",
+    "konteks_percakapan": "Kalau ketemu orang dengan gaya cakep, biasanya suasana cepat mencair.",
+    "ragam_slang": "cakep",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2717",
+    "konteks_percakapan": "Dia kirim voice note pendek, isinya cuma satu istilah: ceban.",
+    "ragam_slang": "ceban",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2718",
+    "konteks_percakapan": "Menurut gue respons paling aman untuk situasi itu adalah cepek, bukan ikut panas.",
+    "ragam_slang": "cepek",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2719",
+    "konteks_percakapan": "Baru lima menit online, timeline sudah penuh dengan konten bertema cengli.",
+    "ragam_slang": "cengli",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2720",
+    "konteks_percakapan": "Teman kantor gue menyebut situasinya sebagai cengli banget, lalu rapat malah jadi santai.",
+    "ragam_slang": "cengli banget",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2721",
+    "konteks_percakapan": "Gue ketawa sendiri pas sadar keputusan gue tadi ternyata cukup cengo.",
+    "ragam_slang": "cengo",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2722",
+    "konteks_percakapan": "Yang satu bilang ciyus, yang lain langsung ngakak karena merasa relate.",
+    "ragam_slang": "ciyus",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2723",
+    "konteks_percakapan": "Acara kemarin punya energi yang susah dijelaskan selain nuansa coblos.",
+    "ragam_slang": "coblos",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2724",
+    "konteks_percakapan": "Pas notifikasi masuk, suasana grup berubah jadi penuh cuan tipis.",
+    "ragam_slang": "cuan tipis",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2725",
+    "konteks_percakapan": "Gue nggak nyangka percakapan receh bisa membawa kita ke topik culik.",
+    "ragam_slang": "culik",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2726",
+    "konteks_percakapan": "Dia datang telat, tapi tetap berhasil bikin momen dengan gaya depo.",
+    "ragam_slang": "depo",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2727",
+    "konteks_percakapan": "Kalau sudah bahas topik ini, kakak gue biasanya langsung bilang derita.",
+    "ragam_slang": "derita",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2728",
+    "konteks_percakapan": "Komentarnya singkat, tapi aura diem-diem-nya tetap kerasa.",
+    "ragam_slang": "diem-diem",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2729",
+    "konteks_percakapan": "Sejak kejadian itu, istilah dingin aja jadi inside joke di tongkrongan kami.",
+    "ragam_slang": "dingin aja",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2730",
+    "konteks_percakapan": "Video tersebut terasa dongkol, sampai gue putar ulang dua kali.",
+    "ragam_slang": "dongkol",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2731",
+    "konteks_percakapan": "Daripada sok paham, gue mending mengakui kalau situasinya terkait drakor.",
+    "ragam_slang": "drakor",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2732",
+    "konteks_percakapan": "Orang rumah sampai ikut ketawa karena tingkahnya terasa seperti drama queen.",
+    "ragam_slang": "drama queen",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2733",
+    "konteks_percakapan": "Gue baru ngeh istilah duta ternyata cocok buat kejadian tadi.",
+    "ragam_slang": "duta",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2734",
+    "konteks_percakapan": "Di kampus, istilah embat malah dipakai mahasiswa buat bercanda.",
+    "ragam_slang": "embat",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2735",
+    "konteks_percakapan": "Teman kos gue bilang hidup akhir bulan kadang memang penuh emang iya.",
+    "ragam_slang": "emang iya",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2736",
+    "konteks_percakapan": "Begitu dia muncul di meeting, suasananya langsung masuk mode eneg.",
+    "ragam_slang": "eneg",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2737",
+    "konteks_percakapan": "Gue simpan postingan itu karena caption-nya membawa energi engap.",
+    "ragam_slang": "engap",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2738",
+    "konteks_percakapan": "Kalau lihat gaya chat-nya, kelihatan banget dia lagi dalam mode fomo-an.",
+    "ragam_slang": "fomo-an",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2739",
+    "konteks_percakapan": "Yang awalnya cuma candaan malah berubah jadi momen gabut akut.",
+    "ragam_slang": "gabut akut",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2740",
+    "konteks_percakapan": "Dia jawab seadanya, tapi justru terdengar seperti gelay.",
+    "ragam_slang": "gelay",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2741",
+    "konteks_percakapan": "Timeline gue hari ini isinya orang-orang yang lagi bahas gemas.",
+    "ragam_slang": "gemas",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2742",
+    "konteks_percakapan": "Pas ketemu langsung, ternyata orangnya nggak seperti stereotip gubrak.",
+    "ragam_slang": "gubrak",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2743",
+    "konteks_percakapan": "Menurut gue, kejadian kecil tadi punya unsur gubris yang cukup kuat.",
+    "ragam_slang": "gubris",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2744",
+    "konteks_percakapan": "Adik gue pakai istilah gudang meme sambil cerita soal sekolahnya.",
+    "ragam_slang": "gudang meme",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2745",
+    "konteks_percakapan": "Begitu lagu itu diputar, satu meja langsung masuk suasana hepi.",
+    "ragam_slang": "hepi",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2746",
+    "konteks_percakapan": "Gue nggak bilang itu buruk, cuma menurut gue ada sedikit unsur hiperbola.",
+    "ragam_slang": "hiperbola",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2747",
+    "konteks_percakapan": "Kalau sudah jam segini, otak gue mulai masuk mode hypebeast.",
+    "ragam_slang": "hypebeast",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2748",
+    "konteks_percakapan": "Dia malah memilih respons ilfeel ketika semua orang sedang serius.",
+    "ragam_slang": "ilfeel",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2749",
+    "konteks_percakapan": "Yang bikin ngakak bukan kejadiannya, tapi cara dia menjelaskannya dengan gaya jamet.",
+    "ragam_slang": "jamet",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2750",
+    "konteks_percakapan": "Postingan ini cocok masuk kategori japri, titik.",
+    "ragam_slang": "japri",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2751",
+    "konteks_percakapan": "Pas baca komentar pertama, gue sudah tahu bakal muncul drama bertema jokes bapak.",
+    "ragam_slang": "jokes bapak",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2752",
+    "konteks_percakapan": "Teman gue punya cara sendiri menjelaskan suasana: “Ini mah kece badai.”",
+    "ragam_slang": "kece badai",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2753",
+    "konteks_percakapan": "Gue baru sadar kebiasaan kecil itu ternyata cukup kepo maksimal.",
+    "ragam_slang": "kepo maksimal",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2754",
+    "konteks_percakapan": "Di perjalanan pulang, kami ngobrol soal kenapa orang sekarang suka bilang kikuk.",
+    "ragam_slang": "kikuk",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2755",
+    "konteks_percakapan": "Kalimat terakhirnya terdengar seperti kocak abis, sampai grup langsung kirim emoji ketawa.",
+    "ragam_slang": "kocak abis",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2756",
+    "konteks_percakapan": "Kalau gue lihat dari sisi santai, masalah ini sebenarnya berkaitan dengan komuk.",
+    "ragam_slang": "komuk",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2757",
+    "konteks_percakapan": "Dia masuk kelas dengan ekspresi yang langsung memancarkan lemes.",
+    "ragam_slang": "lemes",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2758",
+    "konteks_percakapan": "Baru buka laptop, sudah ada chat kantor yang nuansanya lebay.",
+    "ragam_slang": "lebay",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2759",
+    "konteks_percakapan": "Komentar netizen kali ini lebih banyak mengarah ke mampir daripada kritik biasa.",
+    "ragam_slang": "mampir",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2760",
+    "konteks_percakapan": "Teman lama gue masih pakai istilah mendadak, dan entah kenapa tetap cocok.",
+    "ragam_slang": "mendadak",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2761",
+    "konteks_percakapan": "Kalau suasananya sudah seperti ini, satu kata yang kepikiran cuma mewek.",
+    "ragam_slang": "mewek",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2762",
+    "konteks_percakapan": "Gue baca ulang chat itu karena penggunaan istilah mikir keras-nya unik juga.",
+    "ragam_slang": "mikir keras",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2763",
+    "konteks_percakapan": "Yang tadinya serius mendadak jadi lucu setelah seseorang menyebut miskin gaya.",
+    "ragam_slang": "miskin gaya",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2764",
+    "konteks_percakapan": "Pas nongkrong, pembahasan paling panjang justru soal fenomena miskin akhir bulan.",
+    "ragam_slang": "miskin akhir bulan",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2765",
+    "konteks_percakapan": "Menurut gue, istilah modus cukup pas menggambarkan kebiasaan itu.",
+    "ragam_slang": "modus",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2766",
+    "konteks_percakapan": "Dia nggak banyak ngomong, tapi responsnya menunjukkan vibe norak.",
+    "ragam_slang": "norak",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2767",
+    "konteks_percakapan": "Baru lihat kejadian tadi, gue langsung kepikiran istilah ngehe.",
+    "ragam_slang": "ngehe",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2768",
+    "konteks_percakapan": "Teman gue nyeletuk “ngejek” dan semua orang langsung paham konteksnya.",
+    "ragam_slang": "ngejek",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2769",
+    "konteks_percakapan": "Kalau urusan beginian, gue sekarang lebih pilih gaya ngelag.",
+    "ragam_slang": "ngelag",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2770",
+    "konteks_percakapan": "Chat tadi mendadak berubah gara-gara ada yang bawa istilah ngemeng.",
+    "ragam_slang": "ngemeng",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2771",
+    "konteks_percakapan": "Seharian ketemu situasi begini bikin gue kepikiran soal ngenes.",
+    "ragam_slang": "ngenes",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2772",
+    "konteks_percakapan": "Dia cuma senyum waktu dibilang punya gaya ngibul, padahal emang kelihatan.",
+    "ragam_slang": "ngibul",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2773",
+    "konteks_percakapan": "Postingan itu langsung terasa punya nuansa ngilang sejak caption pertama.",
+    "ragam_slang": "ngilang",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2774",
+    "konteks_percakapan": "Yang bikin lucu justru cara dia memasukkan istilah ngirit ke obrolan.",
+    "ragam_slang": "ngirit",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2775",
+    "konteks_percakapan": "Gue tadinya biasa aja, tapi hasil akhirnya malah terasa seperti ngobat.",
+    "ragam_slang": "ngobat",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2776",
+    "konteks_percakapan": "Di grup tadi istilah ngotot dipakai terus sampai jadi bahan bercandaan.",
+    "ragam_slang": "ngotot",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2777",
+    "konteks_percakapan": "Kalau ketemu orang dengan gaya ngulik, biasanya suasana cepat mencair.",
+    "ragam_slang": "ngulik",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2778",
+    "konteks_percakapan": "Dia kirim voice note pendek, isinya cuma satu istilah: ngumpet.",
+    "ragam_slang": "ngumpet",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2779",
+    "konteks_percakapan": "Menurut gue respons paling aman untuk situasi itu adalah ngunci, bukan ikut panas.",
+    "ragam_slang": "ngunci",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2780",
+    "konteks_percakapan": "Baru lima menit online, timeline sudah penuh dengan konten bertema ngutang.",
+    "ragam_slang": "ngutang",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2781",
+    "konteks_percakapan": "Teman kantor gue menyebut situasinya sebagai ngunyah, lalu rapat malah jadi santai.",
+    "ragam_slang": "ngunyah",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2782",
+    "konteks_percakapan": "Gue ketawa sendiri pas sadar keputusan gue tadi ternyata cukup njir.",
+    "ragam_slang": "njir",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2783",
+    "konteks_percakapan": "Yang satu bilang panik attack, yang lain langsung ngakak karena merasa relate.",
+    "ragam_slang": "panik attack",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2784",
+    "konteks_percakapan": "Acara kemarin punya energi yang susah dijelaskan selain nuansa parno.",
+    "ragam_slang": "parno",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2785",
+    "konteks_percakapan": "Pas notifikasi masuk, suasana grup berubah jadi penuh pewe.",
+    "ragam_slang": "pewe",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2786",
+    "konteks_percakapan": "Gue nggak nyangka percakapan receh bisa membawa kita ke topik planga-plongo.",
+    "ragam_slang": "planga-plongo",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2787",
+    "konteks_percakapan": "Dia datang telat, tapi tetap berhasil bikin momen dengan gaya rebahan.",
+    "ragam_slang": "rebahan",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2788",
+    "konteks_percakapan": "Kalau sudah bahas topik ini, kakak gue biasanya langsung bilang rempong.",
+    "ragam_slang": "rempong",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2789",
+    "konteks_percakapan": "Komentarnya singkat, tapi aura rese-nya tetap kerasa.",
+    "ragam_slang": "rese",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2790",
+    "konteks_percakapan": "Sejak kejadian itu, istilah ribet amat jadi inside joke di tongkrongan kami.",
+    "ragam_slang": "ribet amat",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2791",
+    "konteks_percakapan": "Video tersebut terasa senggol, sampai gue putar ulang dua kali.",
+    "ragam_slang": "senggol",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2792",
+    "konteks_percakapan": "Daripada sok paham, gue mending mengakui kalau situasinya terkait serba salah.",
+    "ragam_slang": "serba salah",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2793",
+    "konteks_percakapan": "Orang rumah sampai ikut ketawa karena tingkahnya terasa seperti setengah waras.",
+    "ragam_slang": "setengah waras",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2794",
+    "konteks_percakapan": "Gue baru ngeh istilah sotoy ternyata cocok buat kejadian tadi.",
+    "ragam_slang": "sotoy",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2795",
+    "konteks_percakapan": "Di kampus, istilah stalking malah dipakai mahasiswa buat bercanda.",
+    "ragam_slang": "stalking",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2796",
+    "konteks_percakapan": "Teman kos gue bilang hidup akhir bulan kadang memang penuh syok.",
+    "ragam_slang": "syok",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2797",
+    "konteks_percakapan": "Begitu dia muncul di meeting, suasananya langsung masuk mode tepar.",
+    "ragam_slang": "tepar",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2798",
+    "konteks_percakapan": "Gue simpan postingan itu karena caption-nya membawa energi tercyduk.",
+    "ragam_slang": "tercyduk",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2799",
+    "konteks_percakapan": "Kalau lihat gaya chat-nya, kelihatan banget dia lagi dalam mode terkini.",
+    "ragam_slang": "terkini",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2800",
+    "konteks_percakapan": "Yang awalnya cuma candaan malah berubah jadi momen terpaling.",
+    "ragam_slang": "terpaling",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2801",
+    "konteks_percakapan": "Dia jawab seadanya, tapi justru terdengar seperti tobat.",
+    "ragam_slang": "tobat",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2802",
+    "konteks_percakapan": "Timeline gue hari ini isinya orang-orang yang lagi bahas traktir.",
+    "ragam_slang": "traktir",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2803",
+    "konteks_percakapan": "Pas ketemu langsung, ternyata orangnya nggak seperti stereotip uwu.",
+    "ragam_slang": "uwu",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2804",
+    "konteks_percakapan": "Menurut gue, kejadian kecil tadi punya unsur waras yang cukup kuat.",
+    "ragam_slang": "waras",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2805",
+    "konteks_percakapan": "Adik gue pakai istilah abang none sambil cerita soal sekolahnya.",
+    "ragam_slang": "abang none",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2806",
+    "konteks_percakapan": "Begitu lagu itu diputar, satu meja langsung masuk suasana anak skena.",
+    "ragam_slang": "anak skena",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2807",
+    "konteks_percakapan": "Gue nggak bilang itu buruk, cuma menurut gue ada sedikit unsur anak tongkrongan.",
+    "ragam_slang": "anak tongkrongan",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2808",
+    "konteks_percakapan": "Kalau sudah jam segini, otak gue mulai masuk mode ape lu.",
+    "ragam_slang": "ape lu",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2809",
+    "konteks_percakapan": "Dia malah memilih respons ape kabar ketika semua orang sedang serius.",
+    "ragam_slang": "ape kabar",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2810",
+    "konteks_percakapan": "Yang bikin ngakak bukan kejadiannya, tapi cara dia menjelaskannya dengan gaya bodo amat.",
+    "ragam_slang": "bodo amat",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2811",
+    "konteks_percakapan": "Postingan ini cocok masuk kategori bodo amat dah, titik.",
+    "ragam_slang": "bodo amat dah",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2812",
+    "konteks_percakapan": "Pas baca komentar pertama, gue sudah tahu bakal muncul drama bertema cakepan.",
+    "ragam_slang": "cakepan",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2813",
+    "konteks_percakapan": "Teman gue punya cara sendiri menjelaskan suasana: “Ini mah cabs.”",
+    "ragam_slang": "cabs",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2814",
+    "konteks_percakapan": "Gue baru sadar kebiasaan kecil itu ternyata cukup ceban dulu.",
+    "ragam_slang": "ceban dulu",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2815",
+    "konteks_percakapan": "Di perjalanan pulang, kami ngobrol soal kenapa orang sekarang suka bilang cengli dah.",
+    "ragam_slang": "cengli dah",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2816",
+    "konteks_percakapan": "Kalimat terakhirnya terdengar seperti demen banget, sampai grup langsung kirim emoji ketawa.",
+    "ragam_slang": "demen banget",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2817",
+    "konteks_percakapan": "Kalau gue lihat dari sisi santai, masalah ini sebenarnya berkaitan dengan emang kenapa.",
+    "ragam_slang": "emang kenapa",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2818",
+    "konteks_percakapan": "Dia masuk kelas dengan ekspresi yang langsung memancarkan gue mah.",
+    "ragam_slang": "gue mah",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2819",
+    "konteks_percakapan": "Baru buka laptop, sudah ada chat kantor yang nuansanya kagaklah.",
+    "ragam_slang": "kagaklah",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2820",
+    "konteks_percakapan": "Komentar netizen kali ini lebih banyak mengarah ke kagak usah daripada kritik biasa.",
+    "ragam_slang": "kagak usah",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2821",
+    "konteks_percakapan": "Teman lama gue masih pakai istilah kece abis, dan entah kenapa tetap cocok.",
+    "ragam_slang": "kece abis",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2822",
+    "konteks_percakapan": "Kalau suasananya sudah seperti ini, satu kata yang kepikiran cuma kepo amat.",
+    "ragam_slang": "kepo amat",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2823",
+    "konteks_percakapan": "Gue baca ulang chat itu karena penggunaan istilah kicep dulu-nya unik juga.",
+    "ragam_slang": "kicep dulu",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2824",
+    "konteks_percakapan": "Yang tadinya serius mendadak jadi lucu setelah seseorang menyebut lah ya.",
+    "ragam_slang": "lah ya",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2825",
+    "konteks_percakapan": "Pas nongkrong, pembahasan paling panjang justru soal fenomena luweh.",
+    "ragam_slang": "luweh",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2826",
+    "konteks_percakapan": "Menurut gue, istilah maneh cukup pas menggambarkan kebiasaan itu.",
+    "ragam_slang": "maneh",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2827",
+    "konteks_percakapan": "Dia nggak banyak ngomong, tapi responsnya menunjukkan vibe mangkal.",
+    "ragam_slang": "mangkal",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2828",
+    "konteks_percakapan": "Baru lihat kejadian tadi, gue langsung kepikiran istilah males amat.",
+    "ragam_slang": "males amat",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2829",
+    "konteks_percakapan": "Teman gue nyeletuk “mantep jiwa” dan semua orang langsung paham konteksnya.",
+    "ragam_slang": "mantep jiwa",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2830",
+    "konteks_percakapan": "Kalau urusan beginian, gue sekarang lebih pilih gaya ngapain dah.",
+    "ragam_slang": "ngapain dah",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2831",
+    "konteks_percakapan": "Chat tadi mendadak berubah gara-gara ada yang bawa istilah ngapain sih.",
+    "ragam_slang": "ngapain sih",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2832",
+    "konteks_percakapan": "Seharian ketemu situasi begini bikin gue kepikiran soal ngasih.",
+    "ragam_slang": "ngasih",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2833",
+    "konteks_percakapan": "Dia cuma senyum waktu dibilang punya gaya ngegas duluan, padahal emang kelihatan.",
+    "ragam_slang": "ngegas duluan",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2834",
+    "konteks_percakapan": "Postingan itu langsung terasa punya nuansa ngehe banget sejak caption pertama.",
+    "ragam_slang": "ngehe banget",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2835",
+    "konteks_percakapan": "Yang bikin lucu justru cara dia memasukkan istilah ngemeng doang ke obrolan.",
+    "ragam_slang": "ngemeng doang",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2836",
+    "konteks_percakapan": "Gue tadinya biasa aja, tapi hasil akhirnya malah terasa seperti ngibul mulu.",
+    "ragam_slang": "ngibul mulu",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2837",
+    "konteks_percakapan": "Di grup tadi istilah ngilang mulu dipakai terus sampai jadi bahan bercandaan.",
+    "ragam_slang": "ngilang mulu",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2838",
+    "konteks_percakapan": "Kalau ketemu orang dengan gaya ngotot amat, biasanya suasana cepat mencair.",
+    "ragam_slang": "ngotot amat",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2839",
+    "konteks_percakapan": "Dia kirim voice note pendek, isinya cuma satu istilah: nyantai.",
+    "ragam_slang": "nyantai",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2840",
+    "konteks_percakapan": "Menurut gue respons paling aman untuk situasi itu adalah ogah, bukan ikut panas.",
+    "ragam_slang": "ogah",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2841",
+    "konteks_percakapan": "Baru lima menit online, timeline sudah penuh dengan konten bertema pede abis.",
+    "ragam_slang": "pede abis",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2842",
+    "konteks_percakapan": "Teman kantor gue menyebut situasinya sebagai santuy aja, lalu rapat malah jadi santai.",
+    "ragam_slang": "santuy aja",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2843",
+    "konteks_percakapan": "Gue ketawa sendiri pas sadar keputusan gue tadi ternyata cukup sok iye.",
+    "ragam_slang": "sok iye",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2844",
+    "konteks_percakapan": "Yang satu bilang sotoy banget, yang lain langsung ngakak karena merasa relate.",
+    "ragam_slang": "sotoy banget",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2845",
+    "konteks_percakapan": "Acara kemarin punya energi yang susah dijelaskan selain nuansa udah dah.",
+    "ragam_slang": "udah dah",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2846",
+    "konteks_percakapan": "Pas notifikasi masuk, suasana grup berubah jadi penuh udah deh.",
+    "ragam_slang": "udah deh",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2847",
+    "konteks_percakapan": "Gue nggak nyangka percakapan receh bisa membawa kita ke topik yaelah.",
+    "ragam_slang": "yaelah",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2848",
+    "konteks_percakapan": "Dia datang telat, tapi tetap berhasil bikin momen dengan gaya yaudah.",
+    "ragam_slang": "yaudah",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2849",
+    "konteks_percakapan": "Kalau sudah bahas topik ini, kakak gue biasanya langsung bilang ye kan.",
+    "ragam_slang": "ye kan",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2850",
+    "konteks_percakapan": "Komentarnya singkat, tapi aura yoi-nya tetap kerasa.",
+    "ragam_slang": "yoi",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2851",
+    "konteks_percakapan": "Sejak kejadian itu, istilah yuklah jadi inside joke di tongkrongan kami.",
+    "ragam_slang": "yuklah",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2852",
+    "konteks_percakapan": "Video tersebut terasa yuk gas, sampai gue putar ulang dua kali.",
+    "ragam_slang": "yuk gas",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2853",
+    "konteks_percakapan": "Daripada sok paham, gue mending mengakui kalau situasinya terkait kagak kuat.",
+    "ragam_slang": "kagak kuat",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2854",
+    "konteks_percakapan": "Orang rumah sampai ikut ketawa karena tingkahnya terasa seperti dah lah.",
+    "ragam_slang": "dah lah",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2855",
+    "konteks_percakapan": "Gue baru ngeh istilah awak ternyata cocok buat kejadian tadi.",
+    "ragam_slang": "awak",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2856",
+    "konteks_percakapan": "Di kampus, istilah bet malah dipakai mahasiswa buat bercanda.",
+    "ragam_slang": "bet",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2857",
+    "konteks_percakapan": "Teman kos gue bilang hidup akhir bulan kadang memang penuh bujur.",
+    "ragam_slang": "bujur",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2858",
+    "konteks_percakapan": "Begitu dia muncul di meeting, suasananya langsung masuk mode cemana.",
+    "ragam_slang": "cemana",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2859",
+    "konteks_percakapan": "Gue simpan postingan itu karena caption-nya membawa energi cakap kali.",
+    "ragam_slang": "cakap kali",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2860",
+    "konteks_percakapan": "Kalau lihat gaya chat-nya, kelihatan banget dia lagi dalam mode dak.",
+    "ragam_slang": "dak",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2861",
+    "konteks_percakapan": "Yang awalnya cuma candaan malah berubah jadi momen dimano.",
+    "ragam_slang": "dimano",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2862",
+    "konteks_percakapan": "Dia jawab seadanya, tapi justru terdengar seperti gakpapa.",
+    "ragam_slang": "gakpapa",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2863",
+    "konteks_percakapan": "Timeline gue hari ini isinya orang-orang yang lagi bahas gapuang.",
+    "ragam_slang": "gapuang",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2864",
+    "konteks_percakapan": "Pas ketemu langsung, ternyata orangnya nggak seperti stereotip iyo.",
+    "ragam_slang": "iyo",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2865",
+    "konteks_percakapan": "Menurut gue, kejadian kecil tadi punya unsur kelen yang cukup kuat.",
+    "ragam_slang": "kelen",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2866",
+    "konteks_percakapan": "Adik gue pakai istilah lahap sambil cerita soal sekolahnya.",
+    "ragam_slang": "lahap",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2867",
+    "konteks_percakapan": "Begitu lagu itu diputar, satu meja langsung masuk suasana mantap kali.",
+    "ragam_slang": "mantap kali",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2868",
+    "konteks_percakapan": "Gue nggak bilang itu buruk, cuma menurut gue ada sedikit unsur meraso.",
+    "ragam_slang": "meraso",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2869",
+    "konteks_percakapan": "Kalau sudah jam segini, otak gue mulai masuk mode napa kali.",
+    "ragam_slang": "napa kali",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2870",
+    "konteks_percakapan": "Dia malah memilih respons orang awak ketika semua orang sedang serius.",
+    "ragam_slang": "orang awak",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2871",
+    "konteks_percakapan": "Yang bikin ngakak bukan kejadiannya, tapi cara dia menjelaskannya dengan gaya pigi.",
+    "ragam_slang": "pigi",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2872",
+    "konteks_percakapan": "Postingan ini cocok masuk kategori pulo, titik.",
+    "ragam_slang": "pulo",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2873",
+    "konteks_percakapan": "Pas baca komentar pertama, gue sudah tahu bakal muncul drama bertema siko.",
+    "ragam_slang": "siko",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2874",
+    "konteks_percakapan": "Teman gue punya cara sendiri menjelaskan suasana: “Ini mah takana.”",
+    "ragam_slang": "takana",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2875",
+    "konteks_percakapan": "Gue baru sadar kebiasaan kecil itu ternyata cukup awak awak.",
+    "ragam_slang": "awak awak",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2876",
+    "konteks_percakapan": "Di perjalanan pulang, kami ngobrol soal kenapa orang sekarang suka bilang uda.",
+    "ragam_slang": "uda",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2877",
+    "konteks_percakapan": "Kalimat terakhirnya terdengar seperti uni, sampai grup langsung kirim emoji ketawa.",
+    "ragam_slang": "uni",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2878",
+    "konteks_percakapan": "Kalau gue lihat dari sisi santai, masalah ini sebenarnya berkaitan dengan ado.",
+    "ragam_slang": "ado",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2879",
+    "konteks_percakapan": "Dia masuk kelas dengan ekspresi yang langsung memancarkan cak mano.",
+    "ragam_slang": "cak mano",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2880",
+    "konteks_percakapan": "Baru buka laptop, sudah ada chat kantor yang nuansanya dak usah.",
+    "ragam_slang": "dak usah",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2881",
+    "konteks_percakapan": "Komentar netizen kali ini lebih banyak mengarah ke nian daripada kritik biasa.",
+    "ragam_slang": "nian",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2882",
+    "konteks_percakapan": "Teman lama gue masih pakai istilah nian kali, dan entah kenapa tetap cocok.",
+    "ragam_slang": "nian kali",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2883",
+    "konteks_percakapan": "Kalau suasananya sudah seperti ini, satu kata yang kepikiran cuma ngebut.",
+    "ragam_slang": "ngebut",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2884",
+    "konteks_percakapan": "Gue baca ulang chat itu karena penggunaan istilah arek-nya unik juga.",
+    "ragam_slang": "arek",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2885",
+    "konteks_percakapan": "Yang tadinya serius mendadak jadi lucu setelah seseorang menyebut nduk.",
+    "ragam_slang": "nduk",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2886",
+    "konteks_percakapan": "Pas nongkrong, pembahasan paling panjang justru soal fenomena le.",
+    "ragam_slang": "le",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2887",
+    "konteks_percakapan": "Menurut gue, istilah leh cukup pas menggambarkan kebiasaan itu.",
+    "ragam_slang": "leh",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2888",
+    "konteks_percakapan": "Dia nggak banyak ngomong, tapi responsnya menunjukkan vibe nggeh.",
+    "ragam_slang": "nggeh",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2889",
+    "konteks_percakapan": "Baru lihat kejadian tadi, gue langsung kepikiran istilah opo toh.",
+    "ragam_slang": "opo toh",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2890",
+    "konteks_percakapan": "Teman gue nyeletuk “piye” dan semua orang langsung paham konteksnya.",
+    "ragam_slang": "piye",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2891",
+    "konteks_percakapan": "Kalau urusan beginian, gue sekarang lebih pilih gaya tenan.",
+    "ragam_slang": "tenan",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2892",
+    "konteks_percakapan": "Chat tadi mendadak berubah gara-gara ada yang bawa istilah ndeso.",
+    "ragam_slang": "ndeso",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2893",
+    "konteks_percakapan": "Seharian ketemu situasi begini bikin gue kepikiran soal matur suwun.",
+    "ragam_slang": "matur suwun",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2894",
+    "konteks_percakapan": "Dia cuma senyum waktu dibilang punya gaya ora, padahal emang kelihatan.",
+    "ragam_slang": "ora",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2895",
+    "konteks_percakapan": "Postingan itu langsung terasa punya nuansa ora popo sejak caption pertama.",
+    "ragam_slang": "ora popo",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2896",
+    "konteks_percakapan": "Yang bikin lucu justru cara dia memasukkan istilah wis ke obrolan.",
+    "ragam_slang": "wis",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2897",
+    "konteks_percakapan": "Gue tadinya biasa aja, tapi hasil akhirnya malah terasa seperti wes.",
+    "ragam_slang": "wes",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2898",
+    "konteks_percakapan": "Di grup tadi istilah yo wis dipakai terus sampai jadi bahan bercandaan.",
+    "ragam_slang": "yo wis",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2899",
+    "konteks_percakapan": "Kalau ketemu orang dengan gaya mbok, biasanya suasana cepat mencair.",
+    "ragam_slang": "mbok",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2900",
+    "konteks_percakapan": "Dia kirim voice note pendek, isinya cuma satu istilah: ndang.",
+    "ragam_slang": "ndang",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2901",
+    "konteks_percakapan": "Menurut gue respons paling aman untuk situasi itu adalah ndang mangan, bukan ikut panas.",
+    "ragam_slang": "ndang mangan",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2902",
+    "konteks_percakapan": "Baru lima menit online, timeline sudah penuh dengan konten bertema ojo.",
+    "ragam_slang": "ojo",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2903",
+    "konteks_percakapan": "Teman kantor gue menyebut situasinya sebagai ojok, lalu rapat malah jadi santai.",
+    "ragam_slang": "ojok",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2904",
+    "konteks_percakapan": "Gue ketawa sendiri pas sadar keputusan gue tadi ternyata cukup gak usah.",
+    "ragam_slang": "gak usah",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2905",
+    "konteks_percakapan": "Yang satu bilang aing, yang lain langsung ngakak karena merasa relate.",
+    "ragam_slang": "aing",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2906",
+    "konteks_percakapan": "Acara kemarin punya energi yang susah dijelaskan selain nuansa ieu.",
+    "ragam_slang": "ieu",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2907",
+    "konteks_percakapan": "Pas notifikasi masuk, suasana grup berubah jadi penuh eta.",
+    "ragam_slang": "eta",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2908",
+    "konteks_percakapan": "Gue nggak nyangka percakapan receh bisa membawa kita ke topik kumaha.",
+    "ragam_slang": "kumaha",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2909",
+    "konteks_percakapan": "Dia datang telat, tapi tetap berhasil bikin momen dengan gaya kunaon.",
+    "ragam_slang": "kunaon",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2910",
+    "konteks_percakapan": "Kalau sudah bahas topik ini, kakak gue biasanya langsung bilang moal.",
+    "ragam_slang": "moal",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2911",
+    "konteks_percakapan": "Komentarnya singkat, tapi aura sok atuh-nya tetap kerasa.",
+    "ragam_slang": "sok atuh",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2912",
+    "konteks_percakapan": "Sejak kejadian itu, istilah punten jadi inside joke di tongkrongan kami.",
+    "ragam_slang": "punten",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2913",
+    "konteks_percakapan": "Video tersebut terasa urang, sampai gue putar ulang dua kali.",
+    "ragam_slang": "urang",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2914",
+    "konteks_percakapan": "Daripada sok paham, gue mending mengakui kalau situasinya terkait urang mah.",
+    "ragam_slang": "urang mah",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2915",
+    "konteks_percakapan": "Orang rumah sampai ikut ketawa karena tingkahnya terasa seperti belegug.",
+    "ragam_slang": "belegug",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2916",
+    "konteks_percakapan": "Gue baru ngeh istilah atuh ternyata cocok buat kejadian tadi.",
+    "ragam_slang": "atuh",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2917",
+    "konteks_percakapan": "Di kampus, istilah ieu teh malah dipakai mahasiswa buat bercanda.",
+    "ragam_slang": "ieu teh",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2918",
+    "konteks_percakapan": "Teman kos gue bilang hidup akhir bulan kadang memang penuh da.",
+    "ragam_slang": "da",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2919",
+    "konteks_percakapan": "Begitu dia muncul di meeting, suasananya langsung masuk mode nyak.",
+    "ragam_slang": "nyak",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2920",
+    "konteks_percakapan": "Gue simpan postingan itu karena caption-nya membawa energi kiye.",
+    "ragam_slang": "kiye",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2921",
+    "konteks_percakapan": "Kalau lihat gaya chat-nya, kelihatan banget dia lagi dalam mode miara.",
+    "ragam_slang": "miara",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2922",
+    "konteks_percakapan": "Yang awalnya cuma candaan malah berubah jadi momen pesse.",
+    "ragam_slang": "pesse",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2923",
+    "konteks_percakapan": "Dia jawab seadanya, tapi justru terdengar seperti tae.",
+    "ragam_slang": "tae",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2924",
+    "konteks_percakapan": "Timeline gue hari ini isinya orang-orang yang lagi bahas jiwa.",
+    "ragam_slang": "jiwa",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2925",
+    "konteks_percakapan": "Pas ketemu langsung, ternyata orangnya nggak seperti stereotip kiro.",
+    "ragam_slang": "kiro",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2926",
+    "konteks_percakapan": "Menurut gue, kejadian kecil tadi punya unsur daeng yang cukup kuat.",
+    "ragam_slang": "daeng",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2927",
+    "konteks_percakapan": "Adik gue pakai istilah puang sambil cerita soal sekolahnya.",
+    "ragam_slang": "puang",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2928",
+    "konteks_percakapan": "Begitu lagu itu diputar, satu meja langsung masuk suasana nakke.",
+    "ragam_slang": "nakke",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2929",
+    "konteks_percakapan": "Gue nggak bilang itu buruk, cuma menurut gue ada sedikit unsur iyye.",
+    "ragam_slang": "iyye",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2930",
+    "konteks_percakapan": "Kalau sudah jam segini, otak gue mulai masuk mode iye.",
+    "ragam_slang": "iye",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2931",
+    "konteks_percakapan": "Dia malah memilih respons kodong ketika semua orang sedang serius.",
+    "ragam_slang": "kodong",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2932",
+    "konteks_percakapan": "Yang bikin ngakak bukan kejadiannya, tapi cara dia menjelaskannya dengan gaya sikomo.",
+    "ragam_slang": "sikomo",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2933",
+    "konteks_percakapan": "Postingan ini cocok masuk kategori pammali, titik.",
+    "ragam_slang": "pammali",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2934",
+    "konteks_percakapan": "Pas baca komentar pertama, gue sudah tahu bakal muncul drama bertema tabe.",
+    "ragam_slang": "tabe",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2935",
+    "konteks_percakapan": "Teman gue punya cara sendiri menjelaskan suasana: “Ini mah mappoji.”",
+    "ragam_slang": "mappoji",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2936",
+    "konteks_percakapan": "Gue baru sadar kebiasaan kecil itu ternyata cukup jiwa makassar.",
+    "ragam_slang": "jiwa makassar",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2937",
+    "konteks_percakapan": "Di perjalanan pulang, kami ngobrol soal kenapa orang sekarang suka bilang bahenol.",
+    "ragam_slang": "bahenol",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2938",
+    "konteks_percakapan": "Kalimat terakhirnya terdengar seperti horas, sampai grup langsung kirim emoji ketawa.",
+    "ragam_slang": "horas",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2939",
+    "konteks_percakapan": "Kalau gue lihat dari sisi santai, masalah ini sebenarnya berkaitan dengan lae.",
+    "ragam_slang": "lae",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2940",
+    "konteks_percakapan": "Dia masuk kelas dengan ekspresi yang langsung memancarkan kawan.",
+    "ragam_slang": "kawan",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2941",
+    "konteks_percakapan": "Baru buka laptop, sudah ada chat kantor yang nuansanya cemana kali.",
+    "ragam_slang": "cemana kali",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2942",
+    "konteks_percakapan": "Komentar netizen kali ini lebih banyak mengarah ke betul kali daripada kritik biasa.",
+    "ragam_slang": "betul kali",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2943",
+    "konteks_percakapan": "Teman lama gue masih pakai istilah kali lah, dan entah kenapa tetap cocok.",
+    "ragam_slang": "kali lah",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2944",
+    "konteks_percakapan": "Kalau suasananya sudah seperti ini, satu kata yang kepikiran cuma pantek.",
+    "ragam_slang": "pantek",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2945",
+    "konteks_percakapan": "Gue baca ulang chat itu karena penggunaan istilah palak-nya unik juga.",
+    "ragam_slang": "palak",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2946",
+    "konteks_percakapan": "Yang tadinya serius mendadak jadi lucu setelah seseorang menyebut bokap.",
+    "ragam_slang": "bokap",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2947",
+    "konteks_percakapan": "Pas nongkrong, pembahasan paling panjang justru soal fenomena nyokap.",
+    "ragam_slang": "nyokap",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2948",
+    "konteks_percakapan": "Menurut gue, istilah aigoo cukup pas menggambarkan kebiasaan itu.",
+    "ragam_slang": "aigoo",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2949",
+    "konteks_percakapan": "Dia nggak banyak ngomong, tapi responsnya menunjukkan vibe anjay.",
+    "ragam_slang": "anjay",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2950",
+    "konteks_percakapan": "Baru lihat kejadian tadi, gue langsung kepikiran istilah anjir.",
+    "ragam_slang": "anjir",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2951",
+    "konteks_percakapan": "Teman gue nyeletuk “anjrit” dan semua orang langsung paham konteksnya.",
+    "ragam_slang": "anjrit",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2952",
+    "konteks_percakapan": "Kalau urusan beginian, gue sekarang lebih pilih gaya bestie coded.",
+    "ragam_slang": "bestie coded",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2953",
+    "konteks_percakapan": "Chat tadi mendadak berubah gara-gara ada yang bawa istilah bffr.",
+    "ragam_slang": "bffr",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2954",
+    "konteks_percakapan": "Seharian ketemu situasi begini bikin gue kepikiran soal big yikes.",
+    "ragam_slang": "big yikes",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2955",
+    "konteks_percakapan": "Dia cuma senyum waktu dibilang punya gaya brb, padahal emang kelihatan.",
+    "ragam_slang": "brb",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2956",
+    "konteks_percakapan": "Postingan itu langsung terasa punya nuansa canon event sejak caption pertama.",
+    "ragam_slang": "canon event",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2957",
+    "konteks_percakapan": "Yang bikin lucu justru cara dia memasukkan istilah catfish ke obrolan.",
+    "ragam_slang": "catfish",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2958",
+    "konteks_percakapan": "Gue tadinya biasa aja, tapi hasil akhirnya malah terasa seperti clout.",
+    "ragam_slang": "clout",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2959",
+    "konteks_percakapan": "Di grup tadi istilah clout chasing dipakai terus sampai jadi bahan bercandaan.",
+    "ragam_slang": "clout chasing",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2960",
+    "konteks_percakapan": "Kalau ketemu orang dengan gaya cringeable, biasanya suasana cepat mencair.",
+    "ragam_slang": "cringeable",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2961",
+    "konteks_percakapan": "Dia kirim voice note pendek, isinya cuma satu istilah: doomscroll.",
+    "ragam_slang": "doomscroll",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2962",
+    "konteks_percakapan": "Menurut gue respons paling aman untuk situasi itu adalah down bad, bukan ikut panas.",
+    "ragam_slang": "down bad",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2963",
+    "konteks_percakapan": "Baru lima menit online, timeline sudah penuh dengan konten bertema engagement bait.",
+    "ragam_slang": "engagement bait",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2964",
+    "konteks_percakapan": "Teman kantor gue menyebut situasinya sebagai era, lalu rapat malah jadi santai.",
+    "ragam_slang": "era",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2965",
+    "konteks_percakapan": "Gue ketawa sendiri pas sadar keputusan gue tadi ternyata cukup face card.",
+    "ragam_slang": "face card",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2966",
+    "konteks_percakapan": "Yang satu bilang fanwar, yang lain langsung ngakak karena merasa relate.",
+    "ragam_slang": "fanwar",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2967",
+    "konteks_percakapan": "Acara kemarin punya energi yang susah dijelaskan selain nuansa ghost.",
+    "ragam_slang": "ghost",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2968",
+    "konteks_percakapan": "Pas notifikasi masuk, suasana grup berubah jadi penuh hard launch.",
+    "ragam_slang": "hard launch",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2969",
+    "konteks_percakapan": "Gue nggak nyangka percakapan receh bisa membawa kita ke topik iykyk.",
+    "ragam_slang": "iykyk",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2970",
+    "konteks_percakapan": "Dia datang telat, tapi tetap berhasil bikin momen dengan gaya irl.",
+    "ragam_slang": "irl",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2971",
+    "konteks_percakapan": "Kalau sudah bahas topik ini, kakak gue biasanya langsung bilang it is what it is.",
+    "ragam_slang": "it is what it is",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2972",
+    "konteks_percakapan": "Komentarnya singkat, tapi aura mutualan-nya tetap kerasa.",
+    "ragam_slang": "mutualan",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2973",
+    "konteks_percakapan": "Sejak kejadian itu, istilah ngepost jadi inside joke di tongkrongan kami.",
+    "ragam_slang": "ngepost",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2974",
+    "konteks_percakapan": "Video tersebut terasa npc, sampai gue putar ulang dua kali.",
+    "ragam_slang": "npc",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2975",
+    "konteks_percakapan": "Daripada sok paham, gue mending mengakui kalau situasinya terkait oomf.",
+    "ragam_slang": "oomf",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2976",
+    "konteks_percakapan": "Orang rumah sampai ikut ketawa karena tingkahnya terasa seperti ootd.",
+    "ragam_slang": "ootd",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2977",
+    "konteks_percakapan": "Gue baru ngeh istilah pov ternyata cocok buat kejadian tadi.",
+    "ragam_slang": "pov",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2978",
+    "konteks_percakapan": "Di kampus, istilah ratio malah dipakai mahasiswa buat bercanda.",
+    "ragam_slang": "ratio",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2979",
+    "konteks_percakapan": "Teman kos gue bilang hidup akhir bulan kadang memang penuh receh banget.",
+    "ragam_slang": "receh banget",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2980",
+    "konteks_percakapan": "Begitu dia muncul di meeting, suasananya langsung masuk mode soft launch.",
+    "ragam_slang": "soft launch",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2981",
+    "konteks_percakapan": "Gue simpan postingan itu karena caption-nya membawa energi stan.",
+    "ragam_slang": "stan",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2982",
+    "konteks_percakapan": "Kalau lihat gaya chat-nya, kelihatan banget dia lagi dalam mode thread.",
+    "ragam_slang": "thread",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2983",
+    "konteks_percakapan": "Yang awalnya cuma candaan malah berubah jadi momen thirst trap.",
+    "ragam_slang": "thirst trap",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2984",
+    "konteks_percakapan": "Dia jawab seadanya, tapi justru terdengar seperti touch grass.",
+    "ragam_slang": "touch grass",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2985",
+    "konteks_percakapan": "Timeline gue hari ini isinya orang-orang yang lagi bahas unc.",
+    "ragam_slang": "unc",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2986",
+    "konteks_percakapan": "Pas ketemu langsung, ternyata orangnya nggak seperti stereotip viral.",
+    "ragam_slang": "viral",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2987",
+    "konteks_percakapan": "Menurut gue, kejadian kecil tadi punya unsur warganet yang cukup kuat.",
+    "ragam_slang": "warganet",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2988",
+    "konteks_percakapan": "Adik gue pakai istilah wibu sambil cerita soal sekolahnya.",
+    "ragam_slang": "wibu",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2989",
+    "konteks_percakapan": "Begitu lagu itu diputar, satu meja langsung masuk suasana yapping.",
+    "ragam_slang": "yapping",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2990",
+    "konteks_percakapan": "Gue nggak bilang itu buruk, cuma menurut gue ada sedikit unsur simp.",
+    "ragam_slang": "simp",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2991",
+    "konteks_percakapan": "Kalau sudah jam segini, otak gue mulai masuk mode simping.",
+    "ragam_slang": "simping",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2992",
+    "konteks_percakapan": "Dia malah memilih respons shipper ketika semua orang sedang serius.",
+    "ragam_slang": "shipper",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2993",
+    "konteks_percakapan": "Yang bikin ngakak bukan kejadiannya, tapi cara dia menjelaskannya dengan gaya ship.",
+    "ragam_slang": "ship",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-2994",
+    "konteks_percakapan": "Postingan ini cocok masuk kategori sus, titik.",
+    "ragam_slang": "sus",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-2995",
+    "konteks_percakapan": "Pas baca komentar pertama, gue sudah tahu bakal muncul drama bertema swipe.",
+    "ragam_slang": "swipe",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-2996",
+    "konteks_percakapan": "Teman gue punya cara sendiri menjelaskan suasana: “Ini mah timeline.”",
+    "ragam_slang": "timeline",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-2997",
+    "konteks_percakapan": "Gue baru sadar kebiasaan kecil itu ternyata cukup trend.",
+    "ragam_slang": "trend",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-2998",
+    "konteks_percakapan": "Di perjalanan pulang, kami ngobrol soal kenapa orang sekarang suka bilang unfollow.",
+    "ragam_slang": "unfollow",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-2999",
+    "konteks_percakapan": "Kalimat terakhirnya terdengar seperti vlog, sampai grup langsung kirim emoji ketawa.",
+    "ragam_slang": "vlog",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3000",
+    "konteks_percakapan": "Kalau gue lihat dari sisi santai, masalah ini sebenarnya berkaitan dengan viral banget.",
+    "ragam_slang": "viral banget",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3001",
+    "konteks_percakapan": "Dia masuk kelas dengan ekspresi yang langsung memancarkan random banget.",
+    "ragam_slang": "random banget",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3002",
+    "konteks_percakapan": "Baru buka laptop, sudah ada chat kantor yang nuansanya mood banget.",
+    "ragam_slang": "mood banget",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3003",
+    "konteks_percakapan": "Komentar netizen kali ini lebih banyak mengarah ke same energy daripada kritik biasa.",
+    "ragam_slang": "same energy",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3004",
+    "konteks_percakapan": "Teman lama gue masih pakai istilah no cap, dan entah kenapa tetap cocok.",
+    "ragam_slang": "no cap",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3005",
+    "konteks_percakapan": "Kalau suasananya sudah seperti ini, satu kata yang kepikiran cuma cap.",
+    "ragam_slang": "cap",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3006",
+    "konteks_percakapan": "Gue baca ulang chat itu karena penggunaan istilah facts-nya unik juga.",
+    "ragam_slang": "facts",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3007",
+    "konteks_percakapan": "Yang tadinya serius mendadak jadi lucu setelah seseorang menyebut real.",
+    "ragam_slang": "real",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3008",
+    "konteks_percakapan": "Pas nongkrong, pembahasan paling panjang justru soal fenomena real talk.",
+    "ragam_slang": "real talk",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3009",
+    "konteks_percakapan": "Menurut gue, istilah say less cukup pas menggambarkan kebiasaan itu.",
+    "ragam_slang": "say less",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3010",
+    "konteks_percakapan": "Dia nggak banyak ngomong, tapi responsnya menunjukkan vibe periodt.",
+    "ragam_slang": "periodt",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3011",
+    "konteks_percakapan": "Baru lihat kejadian tadi, gue langsung kepikiran istilah slayable.",
+    "ragam_slang": "slayable",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3012",
+    "konteks_percakapan": "Teman gue nyeletuk “ate” dan semua orang langsung paham konteksnya.",
+    "ragam_slang": "ate",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3013",
+    "konteks_percakapan": "Kalau urusan beginian, gue sekarang lebih pilih gaya ate that.",
+    "ragam_slang": "ate that",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3014",
+    "konteks_percakapan": "Chat tadi mendadak berubah gara-gara ada yang bawa istilah bussin.",
+    "ragam_slang": "bussin",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3015",
+    "konteks_percakapan": "Seharian ketemu situasi begini bikin gue kepikiran soal mid.",
+    "ragam_slang": "mid",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3016",
+    "konteks_percakapan": "Dia cuma senyum waktu dibilang punya gaya goated, padahal emang kelihatan.",
+    "ragam_slang": "goated",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3017",
+    "konteks_percakapan": "Postingan itu langsung terasa punya nuansa goat sejak caption pertama.",
+    "ragam_slang": "goat",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3018",
+    "konteks_percakapan": "Yang bikin lucu justru cara dia memasukkan istilah based ke obrolan.",
+    "ragam_slang": "based",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3019",
+    "konteks_percakapan": "Gue tadinya biasa aja, tapi hasil akhirnya malah terasa seperti based banget.",
+    "ragam_slang": "based banget",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3020",
+    "konteks_percakapan": "Di grup tadi istilah cope dipakai terus sampai jadi bahan bercandaan.",
+    "ragam_slang": "cope",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3021",
+    "konteks_percakapan": "Kalau ketemu orang dengan gaya copium, biasanya suasana cepat mencair.",
+    "ragam_slang": "copium",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3022",
+    "konteks_percakapan": "Dia kirim voice note pendek, isinya cuma satu istilah: ratioed.",
+    "ragam_slang": "ratioed",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3023",
+    "konteks_percakapan": "Menurut gue respons paling aman untuk situasi itu adalah caught in 4k, bukan ikut panas.",
+    "ragam_slang": "caught in 4k",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3024",
+    "konteks_percakapan": "Baru lima menit online, timeline sudah penuh dengan konten bertema rent free.",
+    "ragam_slang": "rent free",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3025",
+    "konteks_percakapan": "Teman kantor gue menyebut situasinya sebagai living rent free, lalu rapat malah jadi santai.",
+    "ragam_slang": "living rent free",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3026",
+    "konteks_percakapan": "Gue ketawa sendiri pas sadar keputusan gue tadi ternyata cukup skill issue.",
+    "ragam_slang": "skill issue",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3027",
+    "konteks_percakapan": "Yang satu bilang skill issue banget, yang lain langsung ngakak karena merasa relate.",
+    "ragam_slang": "skill issue banget",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3028",
+    "konteks_percakapan": "Acara kemarin punya energi yang susah dijelaskan selain nuansa let him cook.",
+    "ragam_slang": "let him cook",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3029",
+    "konteks_percakapan": "Pas notifikasi masuk, suasana grup berubah jadi penuh let her cook.",
+    "ragam_slang": "let her cook",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3030",
+    "konteks_percakapan": "Gue nggak nyangka percakapan receh bisa membawa kita ke topik cooked.",
+    "ragam_slang": "cooked",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3031",
+    "konteks_percakapan": "Dia datang telat, tapi tetap berhasil bikin momen dengan gaya cooking.",
+    "ragam_slang": "cooking",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3032",
+    "konteks_percakapan": "Kalau sudah bahas topik ini, kakak gue biasanya langsung bilang we listen and we dont judge.",
+    "ragam_slang": "we listen and we dont judge",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3033",
+    "konteks_percakapan": "Komentarnya singkat, tapi aura lore-nya tetap kerasa.",
+    "ragam_slang": "lore",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3034",
+    "konteks_percakapan": "Sejak kejadian itu, istilah deep lore jadi inside joke di tongkrongan kami.",
+    "ragam_slang": "deep lore",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3035",
+    "konteks_percakapan": "Video tersebut terasa plot twist, sampai gue putar ulang dua kali.",
+    "ragam_slang": "plot twist",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3036",
+    "konteks_percakapan": "Daripada sok paham, gue mending mengakui kalau situasinya terkait canon.",
+    "ragam_slang": "canon",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3037",
+    "konteks_percakapan": "Orang rumah sampai ikut ketawa karena tingkahnya terasa seperti fanum tax.",
+    "ragam_slang": "fanum tax",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3038",
+    "konteks_percakapan": "Gue baru ngeh istilah rizz ternyata cocok buat kejadian tadi.",
+    "ragam_slang": "rizz",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3039",
+    "konteks_percakapan": "Di kampus, istilah rizzler malah dipakai mahasiswa buat bercanda.",
+    "ragam_slang": "rizzler",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3040",
+    "konteks_percakapan": "Teman kos gue bilang hidup akhir bulan kadang memang penuh gyatt.",
+    "ragam_slang": "gyatt",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3041",
+    "konteks_percakapan": "Begitu dia muncul di meeting, suasananya langsung masuk mode sigma.",
+    "ragam_slang": "sigma",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3042",
+    "konteks_percakapan": "Gue simpan postingan itu karena caption-nya membawa energi skibidi.",
+    "ragam_slang": "skibidi",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3043",
+    "konteks_percakapan": "Kalau lihat gaya chat-nya, kelihatan banget dia lagi dalam mode aura.",
+    "ragam_slang": "aura",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3044",
+    "konteks_percakapan": "Yang awalnya cuma candaan malah berubah jadi momen aura points.",
+    "ragam_slang": "aura points",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3045",
+    "konteks_percakapan": "Dia jawab seadanya, tapi justru terdengar seperti aura farming.",
+    "ragam_slang": "aura farming",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3046",
+    "konteks_percakapan": "Timeline gue hari ini isinya orang-orang yang lagi bahas looksmaxxing.",
+    "ragam_slang": "looksmaxxing",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3047",
+    "konteks_percakapan": "Pas ketemu langsung, ternyata orangnya nggak seperti stereotip mogging.",
+    "ragam_slang": "mogging",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3048",
+    "konteks_percakapan": "Menurut gue, kejadian kecil tadi punya unsur brainrot era yang cukup kuat.",
+    "ragam_slang": "brainrot era",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3049",
+    "konteks_percakapan": "Adik gue pakai istilah yap sambil cerita soal sekolahnya.",
+    "ragam_slang": "yap",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3050",
+    "konteks_percakapan": "Begitu lagu itu diputar, satu meja langsung masuk suasana lock in.",
+    "ragam_slang": "lock in",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3051",
+    "konteks_percakapan": "Gue nggak bilang itu buruk, cuma menurut gue ada sedikit unsur locked in.",
+    "ragam_slang": "locked in",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3052",
+    "konteks_percakapan": "Kalau sudah jam segini, otak gue mulai masuk mode crash out.",
+    "ragam_slang": "crash out",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3053",
+    "konteks_percakapan": "Dia malah memilih respons rage quit ketika semua orang sedang serius.",
+    "ragam_slang": "rage quit",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3054",
+    "konteks_percakapan": "Yang bikin ngakak bukan kejadiannya, tapi cara dia menjelaskannya dengan gaya AFK dulu.",
+    "ragam_slang": "AFK dulu",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3055",
+    "konteks_percakapan": "Postingan ini cocok masuk kategori GG, titik.",
+    "ragam_slang": "GG",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3056",
+    "konteks_percakapan": "Pas baca komentar pertama, gue sudah tahu bakal muncul drama bertema GGWP.",
+    "ragam_slang": "GGWP",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3057",
+    "konteks_percakapan": "Teman gue punya cara sendiri menjelaskan suasana: “Ini mah EZ.”",
+    "ragam_slang": "EZ",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3058",
+    "konteks_percakapan": "Gue baru sadar kebiasaan kecil itu ternyata cukup WP.",
+    "ragam_slang": "WP",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3059",
+    "konteks_percakapan": "Di perjalanan pulang, kami ngobrol soal kenapa orang sekarang suka bilang NT.",
+    "ragam_slang": "NT",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3060",
+    "konteks_percakapan": "Kalimat terakhirnya terdengar seperti NGL, sampai grup langsung kirim emoji ketawa.",
+    "ragam_slang": "NGL",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3061",
+    "konteks_percakapan": "Kalau gue lihat dari sisi santai, masalah ini sebenarnya berkaitan dengan IMO.",
+    "ragam_slang": "IMO",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3062",
+    "konteks_percakapan": "Dia masuk kelas dengan ekspresi yang langsung memancarkan IMHO.",
+    "ragam_slang": "IMHO",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3063",
+    "konteks_percakapan": "Baru buka laptop, sudah ada chat kantor yang nuansanya TBH.",
+    "ragam_slang": "TBH",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3064",
+    "konteks_percakapan": "Komentar netizen kali ini lebih banyak mengarah ke TMI daripada kritik biasa.",
+    "ragam_slang": "TMI",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3065",
+    "konteks_percakapan": "Teman lama gue masih pakai istilah POV banget, dan entah kenapa tetap cocok.",
+    "ragam_slang": "POV banget",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3066",
+    "konteks_percakapan": "Kalau suasananya sudah seperti ini, satu kata yang kepikiran cuma FYP banget.",
+    "ragam_slang": "FYP banget",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3067",
+    "konteks_percakapan": "Gue baca ulang chat itu karena penggunaan istilah DM me-nya unik juga.",
+    "ragam_slang": "DM me",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3068",
+    "konteks_percakapan": "Yang tadinya serius mendadak jadi lucu setelah seseorang menyebut close friends.",
+    "ragam_slang": "close friends",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3069",
+    "konteks_percakapan": "Pas nongkrong, pembahasan paling panjang justru soal fenomena CF.",
+    "ragam_slang": "CF",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3070",
+    "konteks_percakapan": "Menurut gue, istilah tea cukup pas menggambarkan kebiasaan itu.",
+    "ragam_slang": "tea",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3071",
+    "konteks_percakapan": "Dia nggak banyak ngomong, tapi responsnya menunjukkan vibe receh core.",
+    "ragam_slang": "receh core",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3072",
+    "konteks_percakapan": "Baru lihat kejadian tadi, gue langsung kepikiran istilah meme lord.",
+    "ragam_slang": "meme lord",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3073",
+    "konteks_percakapan": "Teman gue nyeletuk “shitpost” dan semua orang langsung paham konteksnya.",
+    "ragam_slang": "shitpost",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3074",
+    "konteks_percakapan": "Kalau urusan beginian, gue sekarang lebih pilih gaya shitposting.",
+    "ragam_slang": "shitposting",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3075",
+    "konteks_percakapan": "Chat tadi mendadak berubah gara-gara ada yang bawa istilah copas.",
+    "ragam_slang": "copas",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3076",
+    "konteks_percakapan": "Seharian ketemu situasi begini bikin gue kepikiran soal quote tweet.",
+    "ragam_slang": "quote tweet",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3077",
+    "konteks_percakapan": "Dia cuma senyum waktu dibilang punya gaya retweet, padahal emang kelihatan.",
+    "ragam_slang": "retweet",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3078",
+    "konteks_percakapan": "Postingan itu langsung terasa punya nuansa repost sejak caption pertama.",
+    "ragam_slang": "repost",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3079",
+    "konteks_percakapan": "Yang bikin lucu justru cara dia memasukkan istilah duet ke obrolan.",
+    "ragam_slang": "duet",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3080",
+    "konteks_percakapan": "Gue tadinya biasa aja, tapi hasil akhirnya malah terasa seperti stitch.",
+    "ragam_slang": "stitch",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3081",
+    "konteks_percakapan": "Di grup tadi istilah live shopping dipakai terus sampai jadi bahan bercandaan.",
+    "ragam_slang": "live shopping",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3082",
+    "konteks_percakapan": "Kalau ketemu orang dengan gaya unboxing, biasanya suasana cepat mencair.",
+    "ragam_slang": "unboxing",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3083",
+    "konteks_percakapan": "Dia kirim voice note pendek, isinya cuma satu istilah: haul.",
+    "ragam_slang": "haul",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3084",
+    "konteks_percakapan": "Menurut gue respons paling aman untuk situasi itu adalah GRWM, bukan ikut panas.",
+    "ragam_slang": "GRWM",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3085",
+    "konteks_percakapan": "Baru lima menit online, timeline sudah penuh dengan konten bertema day in my life.",
+    "ragam_slang": "day in my life",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3086",
+    "konteks_percakapan": "Teman kantor gue menyebut situasinya sebagai photo dump, lalu rapat malah jadi santai.",
+    "ragam_slang": "photo dump",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3087",
+    "konteks_percakapan": "Gue ketawa sendiri pas sadar keputusan gue tadi ternyata cukup soft launching.",
+    "ragam_slang": "soft launching",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3088",
+    "konteks_percakapan": "Yang satu bilang hard launching, yang lain langsung ngakak karena merasa relate.",
+    "ragam_slang": "hard launching",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3089",
+    "konteks_percakapan": "Acara kemarin punya energi yang susah dijelaskan selain nuansa storytime.",
+    "ragam_slang": "storytime",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3090",
+    "konteks_percakapan": "Pas notifikasi masuk, suasana grup berubah jadi penuh storytelling.",
+    "ragam_slang": "storytelling",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3091",
+    "konteks_percakapan": "Gue nggak nyangka percakapan receh bisa membawa kita ke topik comment section.",
+    "ragam_slang": "comment section",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3092",
+    "konteks_percakapan": "Dia datang telat, tapi tetap berhasil bikin momen dengan gaya pinned comment.",
+    "ragam_slang": "pinned comment",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3093",
+    "konteks_percakapan": "Kalau sudah bahas topik ini, kakak gue biasanya langsung bilang ratio bait.",
+    "ragam_slang": "ratio bait",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3094",
+    "konteks_percakapan": "Komentarnya singkat, tapi aura engagement farming-nya tetap kerasa.",
+    "ragam_slang": "engagement farming",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3095",
+    "konteks_percakapan": "Sejak kejadian itu, istilah rage bait jadi inside joke di tongkrongan kami.",
+    "ragam_slang": "rage bait",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3096",
+    "konteks_percakapan": "Video tersebut terasa baiting, sampai gue putar ulang dua kali.",
+    "ragam_slang": "baiting",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3097",
+    "konteks_percakapan": "Daripada sok paham, gue mending mengakui kalau situasinya terkait alt account.",
+    "ragam_slang": "alt account",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3098",
+    "konteks_percakapan": "Orang rumah sampai ikut ketawa karena tingkahnya terasa seperti second account.",
+    "ragam_slang": "second account",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3099",
+    "konteks_percakapan": "Gue baru ngeh istilah burner account ternyata cocok buat kejadian tadi.",
+    "ragam_slang": "burner account",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3100",
+    "konteks_percakapan": "Di kampus, istilah private account malah dipakai mahasiswa buat bercanda.",
+    "ragam_slang": "private account",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3101",
+    "konteks_percakapan": "Teman kos gue bilang hidup akhir bulan kadang memang penuh finsta.",
+    "ragam_slang": "finsta",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3102",
+    "konteks_percakapan": "Begitu dia muncul di meeting, suasananya langsung masuk mode spam account.",
+    "ragam_slang": "spam account",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3103",
+    "konteks_percakapan": "Gue simpan postingan itu karena caption-nya membawa energi oomfie.",
+    "ragam_slang": "oomfie",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3104",
+    "konteks_percakapan": "Kalau lihat gaya chat-nya, kelihatan banget dia lagi dalam mode mutuals only.",
+    "ragam_slang": "mutuals only",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3105",
+    "konteks_percakapan": "Yang awalnya cuma candaan malah berubah jadi momen viral sound.",
+    "ragam_slang": "viral sound",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3106",
+    "konteks_percakapan": "Dia jawab seadanya, tapi justru terdengar seperti trending sound.",
+    "ragam_slang": "trending sound",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3107",
+    "konteks_percakapan": "Timeline gue hari ini isinya orang-orang yang lagi bahas audio viral.",
+    "ragam_slang": "audio viral",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3108",
+    "konteks_percakapan": "Pas ketemu langsung, ternyata orangnya nggak seperti stereotip template meme.",
+    "ragam_slang": "template meme",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3109",
+    "konteks_percakapan": "Menurut gue, kejadian kecil tadi punya unsur meme format yang cukup kuat.",
+    "ragam_slang": "meme format",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3110",
+    "konteks_percakapan": "Adik gue pakai istilah reaction pic sambil cerita soal sekolahnya.",
+    "ragam_slang": "reaction pic",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3111",
+    "konteks_percakapan": "Begitu lagu itu diputar, satu meja langsung masuk suasana reaction image.",
+    "ragam_slang": "reaction image",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3112",
+    "konteks_percakapan": "Gue nggak bilang itu buruk, cuma menurut gue ada sedikit unsur GIF-an.",
+    "ragam_slang": "GIF-an",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3113",
+    "konteks_percakapan": "Kalau sudah jam segini, otak gue mulai masuk mode stickeran.",
+    "ragam_slang": "stickeran",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3114",
+    "konteks_percakapan": "Dia malah memilih respons emoji spam ketika semua orang sedang serius.",
+    "ragam_slang": "emoji spam",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3115",
+    "konteks_percakapan": "Yang bikin ngakak bukan kejadiannya, tapi cara dia menjelaskannya dengan gaya typing bubble.",
+    "ragam_slang": "typing bubble",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3116",
+    "konteks_percakapan": "Postingan ini cocok masuk kategori left on read, titik.",
+    "ragam_slang": "left on read",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3117",
+    "konteks_percakapan": "Pas baca komentar pertama, gue sudah tahu bakal muncul drama bertema seen doang.",
+    "ragam_slang": "seen doang",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3118",
+    "konteks_percakapan": "Teman gue punya cara sendiri menjelaskan suasana: “Ini mah delivered doang.”",
+    "ragam_slang": "delivered doang",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3119",
+    "konteks_percakapan": "Gue baru sadar kebiasaan kecil itu ternyata cukup reply guy.",
+    "ragam_slang": "reply guy",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3120",
+    "konteks_percakapan": "Di perjalanan pulang, kami ngobrol soal kenapa orang sekarang suka bilang keyboard warrior.",
+    "ragam_slang": "keyboard warrior",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3121",
+    "konteks_percakapan": "Kalimat terakhirnya terdengar seperti netizen, sampai grup langsung kirim emoji ketawa.",
+    "ragam_slang": "netizen",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3122",
+    "konteks_percakapan": "Kalau gue lihat dari sisi santai, masalah ini sebenarnya berkaitan dengan warganet mode.",
+    "ragam_slang": "warganet mode",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3123",
+    "konteks_percakapan": "Dia masuk kelas dengan ekspresi yang langsung memancarkan internet uncle.",
+    "ragam_slang": "internet uncle",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3124",
+    "konteks_percakapan": "Baru buka laptop, sudah ada chat kantor yang nuansanya internet auntie.",
+    "ragam_slang": "internet auntie",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3125",
+    "konteks_percakapan": "Komentar netizen kali ini lebih banyak mengarah ke chronically online daripada kritik biasa.",
+    "ragam_slang": "chronically online",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3126",
+    "konteks_percakapan": "Teman lama gue masih pakai istilah touch grass moment, dan entah kenapa tetap cocok.",
+    "ragam_slang": "touch grass moment",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3127",
+    "konteks_percakapan": "Kalau suasananya sudah seperti ini, satu kata yang kepikiran cuma digital detox.",
+    "ragam_slang": "digital detox",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3128",
+    "konteks_percakapan": "Gue baca ulang chat itu karena penggunaan istilah screen time-nya unik juga.",
+    "ragam_slang": "screen time",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3129",
+    "konteks_percakapan": "Yang tadinya serius mendadak jadi lucu setelah seseorang menyebut parasocial.",
+    "ragam_slang": "parasocial",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3130",
+    "konteks_percakapan": "Pas nongkrong, pembahasan paling panjang justru soal fenomena parasocialan.",
+    "ragam_slang": "parasocialan",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3131",
+    "konteks_percakapan": "Menurut gue, istilah stan account cukup pas menggambarkan kebiasaan itu.",
+    "ragam_slang": "stan account",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3132",
+    "konteks_percakapan": "Dia nggak banyak ngomong, tapi responsnya menunjukkan vibe fan account.",
+    "ragam_slang": "fan account",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3133",
+    "konteks_percakapan": "Baru lihat kejadian tadi, gue langsung kepikiran istilah fanbase.",
+    "ragam_slang": "fanbase",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3134",
+    "konteks_percakapan": "Teman gue nyeletuk “fandom” dan semua orang langsung paham konteksnya.",
+    "ragam_slang": "fandom",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3135",
+    "konteks_percakapan": "Kalau urusan beginian, gue sekarang lebih pilih gaya bias.",
+    "ragam_slang": "bias",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3136",
+    "konteks_percakapan": "Chat tadi mendadak berubah gara-gara ada yang bawa istilah bias wrecker.",
+    "ragam_slang": "bias wrecker",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3137",
+    "konteks_percakapan": "Seharian ketemu situasi begini bikin gue kepikiran soal ult.",
+    "ragam_slang": "ult",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3138",
+    "konteks_percakapan": "Dia cuma senyum waktu dibilang punya gaya comeback, padahal emang kelihatan.",
+    "ragam_slang": "comeback",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3139",
+    "konteks_percakapan": "Postingan itu langsung terasa punya nuansa debut sejak caption pertama.",
+    "ragam_slang": "debut",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3140",
+    "konteks_percakapan": "Yang bikin lucu justru cara dia memasukkan istilah disband ke obrolan.",
+    "ragam_slang": "disband",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3141",
+    "konteks_percakapan": "Gue tadinya biasa aja, tapi hasil akhirnya malah terasa seperti ship wars.",
+    "ragam_slang": "ship wars",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3142",
+    "konteks_percakapan": "Di grup tadi istilah fanservice dipakai terus sampai jadi bahan bercandaan.",
+    "ragam_slang": "fanservice",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3143",
+    "konteks_percakapan": "Kalau ketemu orang dengan gaya spoiler alert, biasanya suasana cepat mencair.",
+    "ragam_slang": "spoiler alert",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3144",
+    "konteks_percakapan": "Dia kirim voice note pendek, isinya cuma satu istilah: no spoiler.",
+    "ragam_slang": "no spoiler",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3145",
+    "konteks_percakapan": "Menurut gue respons paling aman untuk situasi itu adalah trigger warning, bukan ikut panas.",
+    "ragam_slang": "trigger warning",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3146",
+    "konteks_percakapan": "Baru lima menit online, timeline sudah penuh dengan konten bertema content warning.",
+    "ragam_slang": "content warning",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3147",
+    "konteks_percakapan": "Teman kantor gue menyebut situasinya sebagai NSFW, lalu rapat malah jadi santai.",
+    "ragam_slang": "NSFW",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3148",
+    "konteks_percakapan": "Gue ketawa sendiri pas sadar keputusan gue tadi ternyata cukup SFW.",
+    "ragam_slang": "SFW",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3149",
+    "konteks_percakapan": "Yang satu bilang safe space, yang lain langsung ngakak karena merasa relate.",
+    "ragam_slang": "safe space",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3150",
+    "konteks_percakapan": "Acara kemarin punya energi yang susah dijelaskan selain nuansa cancel culture.",
+    "ragam_slang": "cancel culture",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3151",
+    "konteks_percakapan": "Pas notifikasi masuk, suasana grup berubah jadi penuh cancelled.",
+    "ragam_slang": "cancelled",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3152",
+    "konteks_percakapan": "Gue nggak nyangka percakapan receh bisa membawa kita ke topik problematic.",
+    "ragam_slang": "problematic",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3153",
+    "konteks_percakapan": "Dia datang telat, tapi tetap berhasil bikin momen dengan gaya unproblematic.",
+    "ragam_slang": "unproblematic",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3154",
+    "konteks_percakapan": "Kalau sudah bahas topik ini, kakak gue biasanya langsung bilang hot take.",
+    "ragam_slang": "hot take",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3155",
+    "konteks_percakapan": "Komentarnya singkat, tapi aura cold take-nya tetap kerasa.",
+    "ragam_slang": "cold take",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3156",
+    "konteks_percakapan": "Sejak kejadian itu, istilah unpopular opinion jadi inside joke di tongkrongan kami.",
+    "ragam_slang": "unpopular opinion",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3157",
+    "konteks_percakapan": "Video tersebut terasa POV creator, sampai gue putar ulang dua kali.",
+    "ragam_slang": "POV creator",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3158",
+    "konteks_percakapan": "Daripada sok paham, gue mending mengakui kalau situasinya terkait content creator.",
+    "ragam_slang": "content creator",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3159",
+    "konteks_percakapan": "Orang rumah sampai ikut ketawa karena tingkahnya terasa seperti creator economy.",
+    "ragam_slang": "creator economy",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3160",
+    "konteks_percakapan": "Gue baru ngeh istilah microinfluencer ternyata cocok buat kejadian tadi.",
+    "ragam_slang": "microinfluencer",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3161",
+    "konteks_percakapan": "Di kampus, istilah influencer malah dipakai mahasiswa buat bercanda.",
+    "ragam_slang": "influencer",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3162",
+    "konteks_percakapan": "Teman kos gue bilang hidup akhir bulan kadang memang penuh KOL.",
+    "ragam_slang": "KOL",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3163",
+    "konteks_percakapan": "Begitu dia muncul di meeting, suasananya langsung masuk mode endorse.",
+    "ragam_slang": "endorse",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3164",
+    "konteks_percakapan": "Gue simpan postingan itu karena caption-nya membawa energi paid promote.",
+    "ragam_slang": "paid promote",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3165",
+    "konteks_percakapan": "Kalau lihat gaya chat-nya, kelihatan banget dia lagi dalam mode promote.",
+    "ragam_slang": "promote",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3166",
+    "konteks_percakapan": "Yang awalnya cuma candaan malah berubah jadi momen collab.",
+    "ragam_slang": "collab",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3167",
+    "konteks_percakapan": "Dia jawab seadanya, tapi justru terdengar seperti collab-an.",
+    "ragam_slang": "collab-an",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3168",
+    "konteks_percakapan": "Timeline gue hari ini isinya orang-orang yang lagi bahas networking.",
+    "ragam_slang": "networking",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3169",
+    "konteks_percakapan": "Pas ketemu langsung, ternyata orangnya nggak seperti stereotip personal branding.",
+    "ragam_slang": "personal branding",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3170",
+    "konteks_percakapan": "Menurut gue, kejadian kecil tadi punya unsur digital footprint yang cukup kuat.",
+    "ragam_slang": "digital footprint",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3171",
+    "konteks_percakapan": "Adik gue pakai istilah online persona sambil cerita soal sekolahnya.",
+    "ragam_slang": "online persona",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3172",
+    "konteks_percakapan": "Begitu lagu itu diputar, satu meja langsung masuk suasana avatar.",
+    "ragam_slang": "avatar",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3173",
+    "konteks_percakapan": "Gue nggak bilang itu buruk, cuma menurut gue ada sedikit unsur profile pic.",
+    "ragam_slang": "profile pic",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3174",
+    "konteks_percakapan": "Kalau sudah jam segini, otak gue mulai masuk mode pfp.",
+    "ragam_slang": "pfp",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3175",
+    "konteks_percakapan": "Dia malah memilih respons bio check ketika semua orang sedang serius.",
+    "ragam_slang": "bio check",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3176",
+    "konteks_percakapan": "Yang bikin ngakak bukan kejadiannya, tapi cara dia menjelaskannya dengan gaya username check.",
+    "ragam_slang": "username check",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3177",
+    "konteks_percakapan": "Postingan ini cocok masuk kategori link in bio, titik.",
+    "ragam_slang": "link in bio",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3178",
+    "konteks_percakapan": "Pas baca komentar pertama, gue sudah tahu bakal muncul drama bertema linktree.",
+    "ragam_slang": "linktree",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3179",
+    "konteks_percakapan": "Teman gue punya cara sendiri menjelaskan suasana: “Ini mah reply-an.”",
+    "ragam_slang": "reply-an",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3180",
+    "konteks_percakapan": "Gue baru sadar kebiasaan kecil itu ternyata cukup mention-an.",
+    "ragam_slang": "mention-an",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3181",
+    "konteks_percakapan": "Di perjalanan pulang, kami ngobrol soal kenapa orang sekarang suka bilang tag-an.",
+    "ragam_slang": "tag-an",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3182",
+    "konteks_percakapan": "Kalimat terakhirnya terdengar seperti followback, sampai grup langsung kirim emoji ketawa.",
+    "ragam_slang": "followback",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3183",
+    "konteks_percakapan": "Kalau gue lihat dari sisi santai, masalah ini sebenarnya berkaitan dengan unfollowback.",
+    "ragam_slang": "unfollowback",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3184",
+    "konteks_percakapan": "Dia masuk kelas dengan ekspresi yang langsung memancarkan mutual follow.",
+    "ragam_slang": "mutual follow",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3185",
+    "konteks_percakapan": "Baru buka laptop, sudah ada chat kantor yang nuansanya verified.",
+    "ragam_slang": "verified",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3186",
+    "konteks_percakapan": "Komentar netizen kali ini lebih banyak mengarah ke blue tick daripada kritik biasa.",
+    "ragam_slang": "blue tick",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3187",
+    "konteks_percakapan": "Teman lama gue masih pakai istilah checkmark, dan entah kenapa tetap cocok.",
+    "ragam_slang": "checkmark",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3188",
+    "konteks_percakapan": "Kalau suasananya sudah seperti ini, satu kata yang kepikiran cuma algorithm.",
+    "ragam_slang": "algorithm",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3189",
+    "konteks_percakapan": "Gue baca ulang chat itu karena penggunaan istilah algoritma-nya unik juga.",
+    "ragam_slang": "algoritma",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3190",
+    "konteks_percakapan": "Yang tadinya serius mendadak jadi lucu setelah seseorang menyebut impression.",
+    "ragam_slang": "impression",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3191",
+    "konteks_percakapan": "Pas nongkrong, pembahasan paling panjang justru soal fenomena insight.",
+    "ragam_slang": "insight",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3192",
+    "konteks_percakapan": "Menurut gue, istilah analytics cukup pas menggambarkan kebiasaan itu.",
+    "ragam_slang": "analytics",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3193",
+    "konteks_percakapan": "Dia nggak banyak ngomong, tapi responsnya menunjukkan vibe content pillar.",
+    "ragam_slang": "content pillar",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3194",
+    "konteks_percakapan": "Baru lihat kejadian tadi, gue langsung kepikiran istilah content calendar.",
+    "ragam_slang": "content calendar",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3195",
+    "konteks_percakapan": "Teman gue nyeletuk “posting schedule” dan semua orang langsung paham konteksnya.",
+    "ragam_slang": "posting schedule",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3196",
+    "konteks_percakapan": "Kalau urusan beginian, gue sekarang lebih pilih gaya niche.",
+    "ragam_slang": "niche",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3197",
+    "konteks_percakapan": "Chat tadi mendadak berubah gara-gara ada yang bawa istilah micro niche.",
+    "ragam_slang": "micro niche",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3198",
+    "konteks_percakapan": "Seharian ketemu situasi begini bikin gue kepikiran soal community note.",
+    "ragam_slang": "community note",
+    "sentimen_emosi": "Bingung",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3199",
+    "konteks_percakapan": "Dia cuma senyum waktu dibilang punya gaya fact check, padahal emang kelihatan.",
+    "ragam_slang": "fact check",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3200",
+    "konteks_percakapan": "Postingan itu langsung terasa punya nuansa hoax sejak caption pertama.",
+    "ragam_slang": "hoax",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
   {
     "id": "ID-NLP-3201",
     "konteks_percakapan": "Harga turun sampai level yang gue tunggu, jadi gue mulai serok bawah pelan-pelan.",
