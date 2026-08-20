@@ -1,12 +1,120 @@
-# Python compiler files
+# ============================================================
+# id-slang-synthetic-nlp
+# Git ignore rules
+# ============================================================
+
+# ----------------------------
+# Python
+# ----------------------------
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyo
+*.pyd
 
-# OS system junk files
-.DS_Store
-Thumbs.db
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env/
+.python-version
 
-# Data temporary files
+# ----------------------------
+# Environment / secrets
+# ----------------------------
 .env
+.env.*
+!.env.example
+
+*.pem
+*.key
+secrets/
+credentials/
+private/
+private_data/
+local_data/
+
+# ----------------------------
+# Jupyter
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# IDE / editors
+# ----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ----------------------------
+# Operating system
+# ----------------------------
+.DS_Store
+.DS_Store?
+Thumbs.db
+Desktop.ini
+
+# ----------------------------
+# Logs / temporary files
+# ----------------------------
 *.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig
+
+# ----------------------------
+# Build / cache
+# ----------------------------
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# ----------------------------
+# Local generated / staging data
+# ----------------------------
+generated/
+staging/
+scratch/
+tmp/
+outputs/
+local_reports/
+
+# Local validation outputs
+quality_report.local.json
+validation_report.local.json
+statistics.local.json
+
+# ----------------------------
+# Large local artifacts
+# ----------------------------
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Temporary dataset artifacts
+*.json.tmp
+*.jsonl.tmp
+*.csv.tmp
+*.parquet.tmp
+
+# ----------------------------
+# Data science caches
+# ----------------------------
+.parquet/
+.dvc/cache/
+
+# ----------------------------
+# OS/editor lock files
+# ----------------------------
+*.lock
