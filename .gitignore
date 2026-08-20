@@ -1,0 +1,12 @@
+# Python compiler files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS system junk files
+.DS_Store
+Thumbs.db
+
+# Data temporary files
+.env
+*.log
