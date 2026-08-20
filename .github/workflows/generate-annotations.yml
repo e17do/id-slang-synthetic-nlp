@@ -20,23 +20,52 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
+      - name: Show repository structure
+        run: |
+          echo "=== Dataset ==="
+          ls -lh dataset/
+          echo "=== Annotations ==="
+          ls -lh annotations/
+          echo "=== Linguistic clusters ==="
+          ls -lh linguistic_clusters/
+          echo "=== Linguistic taxonomy ==="
+          ls -lh linguistic_taxonomy/
+
       - name: Generate annotations
         run: |
           python annotations/generate_annotations.py
 
+      - name: Verify generated file
+        run: |
+          echo "=== Generated annotation file ==="
+          ls -lh annotations/record_annotations.json
+          echo "=== File size ==="
+          wc -c annotations/record_annotations.json
+          echo "=== First records ==="
+          head -40 annotations/record_annotations.json
+
       - name: Validate generated annotations
         run: |
           python -m json.tool annotations/record_annotations.json > /dev/null
+          echo "JSON annotation validation: PASS"
 
       - name: Check generated file
         run: |
           test -s annotations/record_annotations.json
+          echo "Annotation file exists and is not empty."
+
+      - name: Check git status
+        run: |
+          git status --short
+          git diff --stat
 
       - name: Commit generated annotations
         run: |
@@ -49,5 +78,5 @@ jobs:
             echo "No annotation changes detected."
           else
             git commit -m "chore: update dataset annotations"
-            git push
+            git push origin HEAD:main
           fi
