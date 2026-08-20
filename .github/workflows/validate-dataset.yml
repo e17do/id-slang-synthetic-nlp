@@ -30,6 +30,16 @@ jobs:
         run: |
           python validation/validator.py
 
+      - name: Run quality audit
+        run: |
+          python quality/audit.py
+
+      - name: Upload audit summary
+        uses: actions/upload-artifact@v6
+        with:
+          name: audit-summary
+          path: reports/audit_summary.json
+
       - name: Upload quality report
         uses: actions/upload-artifact@v6
         with:
