@@ -1,0 +1,341 @@
+{
+  "schema_version": "1.0.0",
+  "description": "Regional linguistic style taxonomy for Indonesian synthetic casual-language data.",
+  "scope": "Synthetic linguistic-style classification. Regional labels describe simulated language style and must not be interpreted as verified speaker origin.",
+  "clusters": [
+    {
+      "cluster_id": "ID-REG-JKT",
+      "name": "Jakarta Urban",
+      "region": "DKI Jakarta",
+      "style_features": [
+        "urban casual Indonesian",
+        "Jakarta colloquial vocabulary",
+        "digital slang",
+        "rapid code-switching"
+      ],
+      "common_contexts": [
+        "social media",
+        "workplace",
+        "friend groups",
+        "entertainment"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-JAKSEL",
+      "name": "Jakarta Selatan Urban",
+      "region": "Jakarta Selatan",
+      "style_features": [
+        "Indonesian-English code-switching",
+        "urban professional slang",
+        "social-media expressions",
+        "casual English insertions"
+      ],
+      "common_contexts": [
+        "workplace",
+        "social media",
+        "lifestyle",
+        "networking"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-BDG",
+      "name": "Bandung / Priangan",
+      "region": "Jawa Barat",
+      "style_features": [
+        "Sundanese-influenced Indonesian",
+        "youth slang",
+        "casual urban speech"
+      ],
+      "common_contexts": [
+        "friend groups",
+        "campus",
+        "social media",
+        "culinary"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-CIREBON",
+      "name": "Cirebon",
+      "region": "Jawa Barat",
+      "style_features": [
+        "Cirebon-influenced Indonesian",
+        "Javanese-Sundanese contact features",
+        "regional casual vocabulary"
+      ],
+      "common_contexts": [
+        "daily conversation",
+        "family",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-JOG",
+      "name": "Yogyakarta",
+      "region": "DI Yogyakarta",
+      "style_features": [
+        "Javanese-influenced Indonesian",
+        "student and youth slang",
+        "casual conversational style"
+      ],
+      "common_contexts": [
+        "campus",
+        "friend groups",
+        "creative communities",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-SOLO",
+      "name": "Solo",
+      "region": "Jawa Tengah",
+      "style_features": [
+        "Javanese-influenced Indonesian",
+        "local colloquial expressions",
+        "casual urban speech"
+      ],
+      "common_contexts": [
+        "daily conversation",
+        "campus",
+        "community"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-SMG",
+      "name": "Semarang",
+      "region": "Jawa Tengah",
+      "style_features": [
+        "Central Javanese influence",
+        "urban Indonesian",
+        "youth expressions"
+      ],
+      "common_contexts": [
+        "workplace",
+        "campus",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-SBY",
+      "name": "Surabaya",
+      "region": "Jawa Timur",
+      "style_features": [
+        "East Javanese influence",
+        "direct conversational style",
+        "expressive youth slang"
+      ],
+      "common_contexts": [
+        "friend groups",
+        "gaming",
+        "social media",
+        "daily conversation"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-MLG",
+      "name": "Malang",
+      "region": "Jawa Timur",
+      "style_features": [
+        "East Javanese influence",
+        "youth vocabulary",
+        "campus-oriented casual language"
+      ],
+      "common_contexts": [
+        "campus",
+        "friend groups",
+        "gaming",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-MDN",
+      "name": "Medan",
+      "region": "Sumatera Utara",
+      "style_features": [
+        "North Sumatran colloquial influence",
+        "Medan urban slang",
+        "expressive casual speech"
+      ],
+      "common_contexts": [
+        "daily conversation",
+        "friend groups",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-BIN",
+      "name": "Binjai",
+      "region": "Sumatera Utara",
+      "style_features": [
+        "North Sumatran regional influence",
+        "urban casual Indonesian"
+      ],
+      "common_contexts": [
+        "daily conversation",
+        "community",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-PDG",
+      "name": "Padang",
+      "region": "Sumatera Barat",
+      "style_features": [
+        "Minangkabau-influenced Indonesian",
+        "regional casual vocabulary"
+      ],
+      "common_contexts": [
+        "daily conversation",
+        "family",
+        "community"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-PLB",
+      "name": "Palembang",
+      "region": "Sumatera Selatan",
+      "style_features": [
+        "South Sumatran influence",
+        "urban colloquial Indonesian"
+      ],
+      "common_contexts": [
+        "daily conversation",
+        "social media",
+        "community"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-PKU",
+      "name": "Pekanbaru",
+      "region": "Riau",
+      "style_features": [
+        "Malay-influenced Indonesian",
+        "urban casual language"
+      ],
+      "common_contexts": [
+        "workplace",
+        "daily conversation",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-MKS",
+      "name": "Makassar",
+      "region": "Sulawesi Selatan",
+      "style_features": [
+        "Makassar-influenced Indonesian",
+        "Eastern Indonesian urban style",
+        "expressive casual speech"
+      ],
+      "common_contexts": [
+        "daily conversation",
+        "friend groups",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-GOWA",
+      "name": "Gowa",
+      "region": "Sulawesi Selatan",
+      "style_features": [
+        "South Sulawesi regional influence",
+        "local casual Indonesian"
+      ],
+      "common_contexts": [
+        "community",
+        "daily conversation",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-MND",
+      "name": "Manado",
+      "region": "Sulawesi Utara",
+      "style_features": [
+        "Manado Malay influence",
+        "Eastern Indonesian colloquial style"
+      ],
+      "common_contexts": [
+        "daily conversation",
+        "friend groups",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-BJM",
+      "name": "Banjarmasin",
+      "region": "Kalimantan Selatan",
+      "style_features": [
+        "South Kalimantan influence",
+        "urban casual Indonesian"
+      ],
+      "common_contexts": [
+        "daily conversation",
+        "community",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-SMR",
+      "name": "Samarinda",
+      "region": "Kalimantan Timur",
+      "style_features": [
+        "East Kalimantan urban Indonesian",
+        "regional casual expressions"
+      ],
+      "common_contexts": [
+        "workplace",
+        "community",
+        "social media"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-DPS",
+      "name": "Denpasar Urban",
+      "region": "Bali",
+      "style_features": [
+        "Balinese-influenced Indonesian",
+        "urban multilingual environment",
+        "tourism-related vocabulary"
+      ],
+      "common_contexts": [
+        "workplace",
+        "tourism",
+        "social media",
+        "lifestyle"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-URBAN",
+      "name": "General Indonesian Urban",
+      "region": "Indonesia",
+      "style_features": [
+        "cross-regional internet slang",
+        "platform-native vocabulary",
+        "general urban casual Indonesian"
+      ],
+      "common_contexts": [
+        "social media",
+        "gaming",
+        "workplace",
+        "messaging"
+      ]
+    },
+    {
+      "cluster_id": "ID-REG-GAMING",
+      "name": "Indonesian Gaming Community",
+      "region": "Cross-regional",
+      "style_features": [
+        "gaming terminology",
+        "abbreviations",
+        "English-Indonesian code-switching",
+        "competitive gaming slang"
+      ],
+      "common_contexts": [
+        "online games",
+        "Discord",
+        "streaming",
+        "competitive gaming"
+      ]
+    }
+  ]
+}
