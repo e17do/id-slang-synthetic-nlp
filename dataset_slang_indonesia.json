@@ -246,9 +246,7 @@
     "ragam_slang": "worth it",
     "sentimen_emosi": "puas",
     "lokasi_dominan": "Bandung"
-  }
-]
-[
+  },
   {
     "id": "ID-NLP-006",
     "konteks_percakapan": "Gue AFK sebentar, mau ambil paket di depan rumah.",
@@ -1648,9 +1646,7 @@
     "ragam_slang": "rek",
     "sentimen_emosi": "Akrab / Mengingatkan",
     "lokasi_dominan": "Surabaya / Jawa"
-  }
-]
-[
+  },
   {
     "id": "ID-NLP-206",
     "konteks_percakapan": "Di office tadi, gue literally kalau timeline-nya dimajuin tanpa kabar.",
@@ -5150,9 +5146,7 @@
     "ragam_slang": "menyala abangkuh",
     "sentimen_emosi": "FOMO",
     "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
-  }
-]
-[
+  },
   {
     "id": "ID-NLP-706",
     "konteks_percakapan": "Gue lagi alay hari ini, jadi jangan ajak debat dulu.",
@@ -19152,10 +19146,7 @@
     "ragam_slang": "geer-scene",
     "sentimen_emosi": "Terhibur / Terkejut",
     "lokasi_dominan": "Jakarta Selatan / Media Sosial"
-  }
-]
-```json
-[
+  },
   {
     "id": "ID-NLP-3201",
     "konteks_percakapan": "Harga turun sampai level yang gue tunggu, jadi gue mulai serok bawah pelan-pelan.",
