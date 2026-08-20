@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0.0",
+  "description": "Multidimensional linguistic taxonomy for Indonesian synthetic casual-language data.",
+  "dimensions": {
+    "domain": [
+      {
+        "id": "DOMAIN-SOCIAL",
+        "name": "Social Media",
+        "description": "Language used in social-media posts, comments, replies, captions, and interactions."
+      },
+      {
+        "id": "DOMAIN-GAMING",
+        "name": "Gaming",
+        "description": "Language used in online games, multiplayer communities, streaming, and gaming chats."
+      },
+      {
+        "id": "DOMAIN-FINTECH",
+        "name": "Fintech",
+        "description": "Casual language related to digital payments, e-wallets, paylater, lending, and financial applications."
+      },
+      {
+        "id": "DOMAIN-FINANCE",
+        "name": "Personal Finance",
+        "description": "Casual language related to saving, investing, budgeting, income, spending, and financial goals."
+      },
+      {
+        "id": "DOMAIN-CRYPTO",
+        "name": "Cryptocurrency",
+        "description": "Language used around cryptocurrency, trading, tokens, market movements, and crypto communities."
+      },
+      {
+        "id": "DOMAIN-WORK",
+        "name": "Workplace",
+        "description": "Casual language used in professional, office, freelance, startup, and remote-work environments."
+      },
+      {
+        "id": "DOMAIN-EDUCATION",
+        "name": "Education",
+        "description": "Language used in school, university, courses, study groups, and educational communities."
+      },
+      {
+        "id": "DOMAIN-TECH",
+        "name": "Technology",
+        "description": "Casual language related to software, hardware, AI, programming, and digital technology."
+      },
+      {
+        "id": "DOMAIN-ECOMMERCE",
+        "name": "E-commerce",
+        "description": "Language used around online shopping, marketplaces, promotions, checkout, delivery, and product discovery."
+      },
+      {
+        "id": "DOMAIN-DATING",
+        "name": "Dating and Relationships",
+        "description": "Casual language involving dating, friendship, relationships, attraction, and interpersonal interaction."
+      },
+      {
+        "id": "DOMAIN-ENTERTAINMENT",
+        "name": "Entertainment",
+        "description": "Language related to music, movies, television, celebrities, fandoms, and popular culture."
+      },
+      {
+        "id": "DOMAIN-LIFESTYLE",
+        "name": "Lifestyle",
+        "description": "Language related to fashion, travel, wellness, hobbies, food, leisure, and everyday lifestyle."
+      },
+      {
+        "id": "DOMAIN-FOOD",
+        "name": "Food and Culinary",
+        "description": "Casual language related to food, restaurants, cooking, beverages, and culinary experiences."
+      },
+      {
+        "id": "DOMAIN-MEME",
+        "name": "Meme and Internet Humor",
+        "description": "Language associated with memes, viral expressions, humorous formats, and internet culture."
+      },
+      {
+        "id": "DOMAIN-COMMUNITY",
+        "name": "Community",
+        "description": "Language used within local, hobby, interest-based, or online communities."
+      }
+    ],
+    "generation": [
+      {
+        "id": "GEN-ALPHA",
+        "name": "Gen Alpha",
+        "description": "Contemporary youth-oriented digital language patterns."
+      },
+      {
+        "id": "GEN-Z",
+        "name": "Gen Z",
+        "description": "Digital-native casual language associated with younger Indonesian internet users."
+      },
+      {
+        "id": "GEN-MILLENNIAL",
+        "name": "Millennial",
+        "description": "Casual language associated with Indonesian millennial internet and workplace culture."
+      },
+      {
+        "id": "GEN-CROSS",
+        "name": "Cross-generation",
+        "description": "Expressions commonly understandable across multiple generations."
+      }
+    ],
+    "register": [
+      {
+        "id": "REG-CASUAL",
+        "name": "Casual",
+        "description": "Informal everyday conversational language."
+      },
+      {
+        "id": "REG-INTERNET",
+        "name": "Internet Casual",
+        "description": "Language strongly associated with online communication."
+      },
+      {
+        "id": "REG-URBAN",
+        "name": "Urban Casual",
+        "description": "Informal language associated with urban Indonesian communication."
+      },
+      {
+        "id": "REG-WORKPLACE",
+        "name": "Professional Casual",
+        "description": "Informal but workplace-compatible communication."
+      },
+      {
+        "id": "REG-HUMOR",
+        "name": "Humorous",
+        "description": "Language primarily used for jokes, irony, memes, or playful interaction."
+      },
+      {
+        "id": "REG-SARCASTIC",
+        "name": "Sarcastic",
+        "description": "Language using irony, mockery, or indirect criticism."
+      },
+      {
+        "id": "REG-EMOTIVE",
+        "name": "Highly Emotive",
+        "description": "Language with strong emotional or expressive characteristics."
+      }
+    ],
+    "code_switching": [
+      {
+        "id": "CS-NONE",
+        "name": "Indonesian Only",
+        "description": "Primarily Indonesian without meaningful language switching."
+      },
+      {
+        "id": "CS-ID-EN",
+        "name": "Indonesian-English",
+        "description": "Indonesian combined with English words or phrases."
+      },
+      {
+        "id": "CS-ID-SUN",
+        "name": "Indonesian-Sundanese",
+        "description": "Indonesian combined with Sundanese expressions."
+      },
+      {
+        "id": "CS-ID-JAV",
+        "name": "Indonesian-Javanese",
+        "description": "Indonesian combined with Javanese expressions."
+      },
+      {
+        "id": "CS-ID-MIN",
+        "name": "Indonesian-Minangkabau",
+        "description": "Indonesian combined with Minangkabau expressions."
+      },
+      {
+        "id": "CS-ID-MKS",
+        "name": "Indonesian-Makassar",
+        "description": "Indonesian combined with Makassar expressions."
+      },
+      {
+        "id": "CS-ID-MAN",
+        "name": "Indonesian-Manado Malay",
+        "description": "Indonesian combined with Manado Malay expressions."
+      },
+      {
+        "id": "CS-MULTI",
+        "name": "Multilingual",
+        "description": "Meaningful combination of Indonesian and multiple other languages."
+      }
+    ]
+  }
+}
