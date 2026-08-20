@@ -248,5 +248,4907 @@
     "lokasi_dominan": "Bandung"
   }
 ]
-```
-
+[
+  {
+    "id": "ID-NLP-006",
+    "konteks_percakapan": "Gue AFK sebentar, mau ambil paket di depan rumah.",
+    "ragam_slang": "AFK",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Komunitas Gaming"
+  },
+  {
+    "id": "ID-NLP-007",
+    "konteks_percakapan": "Tempatnya tenang dan musiknya pas, vibes-nya enak banget.",
+    "ragam_slang": "vibes",
+    "sentimen_emosi": "Positif / Nyaman",
+    "lokasi_dominan": "Malang"
+  },
+  {
+    "id": "ID-NLP-008",
+    "konteks_percakapan": "Spill dong tempat makan yang nasinya bisa nambah gratis.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Positif / Ingin tahu",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-009",
+    "konteks_percakapan": "Gue lowkey pengin ikut, tapi masih lihat budget dulu.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Netral / Ragu",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-010",
+    "konteks_percakapan": "Tiba-tiba dia kirim foto kucing jam dua pagi, random banget.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Terkejut / Humor",
+    "lokasi_dominan": "Urban / Kota Besar"
+  },
+  {
+    "id": "ID-NLP-011",
+    "konteks_percakapan": "Gue pindahkan barang itu ke wishlist dulu, belum berani check out.",
+    "ragam_slang": "check out",
+    "sentimen_emosi": "Berhati-hati",
+    "lokasi_dominan": "Bogor"
+  },
+  {
+    "id": "ID-NLP-012",
+    "konteks_percakapan": "Kalau bukti percakapan sudah jelas, jangan sampai orang lain bikin kita meragukan diri sendiri.",
+    "ragam_slang": "gaslighting",
+    "sentimen_emosi": "Negatif / Waspada",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-013",
+    "konteks_percakapan": "Goks, diskonnya ternyata sampai setengah harga hari ini.",
+    "ragam_slang": "goks",
+    "sentimen_emosi": "Terkejut / Senang",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-014",
+    "konteks_percakapan": "Euy, hujan kieu mah mending ngopi heula di dieu.",
+    "ragam_slang": "euy",
+    "sentimen_emosi": "Akrab / Santai",
+    "lokasi_dominan": "Bandung / Sunda"
+  },
+  {
+    "id": "ID-NLP-015",
+    "konteks_percakapan": "Dia bercanda bilang dirinya nolep karena seminggu ini jarang keluar kamar.",
+    "ragam_slang": "nolep",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-016",
+    "konteks_percakapan": "Humornya receh banget, tapi satu meja tetap ketawa.",
+    "ragam_slang": "receh",
+    "sentimen_emosi": "Positif / Terhibur",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-017",
+    "konteks_percakapan": "Kedai kecil dekat pasar ini hidden gem, kopinya murah tapi enak.",
+    "ragam_slang": "hidden gem",
+    "sentimen_emosi": "Positif / Kagum",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-018",
+    "konteks_percakapan": "Santai ji, nanti saya bantu cek file-nya.",
+    "ragam_slang": "ji",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-019",
+    "konteks_percakapan": "Spill tea-nya pelan-pelan, jangan sampai satu grup langsung heboh.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Terhibur / Penasaran",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-020",
+    "konteks_percakapan": "Acara musik kecil itu memang ramai anak skena, tapi suasananya nyaman.",
+    "ragam_slang": "skena",
+    "sentimen_emosi": "Netral / Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-021",
+    "konteks_percakapan": "Jangan julid sama orang yang baru mulai belajar, semua juga pernah pemula.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Menegur",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-022",
+    "konteks_percakapan": "Teman yang berani mengingatkan tanpa merendahkan itu green flag.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Positif / Kagum",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-023",
+    "konteks_percakapan": "Antre hampir sejam, tapi makanannya enak banget dan ternyata worth it.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Puas",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-024",
+    "konteks_percakapan": "Kalau mau selesai sebelum malam, kita gaspol dari sekarang.",
+    "ragam_slang": "gaspol",
+    "sentimen_emosi": "Antusias / Tegas",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-025",
+    "konteks_percakapan": "Macetnya parah sih, jarak dekat saja jadi hampir satu jam.",
+    "ragam_slang": "parah sih",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-026",
+    "konteks_percakapan": "Perjalanan dua jam terasa worth it setelah lihat pemandangan dari atas.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Puas / Kagum",
+    "lokasi_dominan": "Malang"
+  },
+  {
+    "id": "ID-NLP-027",
+    "konteks_percakapan": "Kalau semua sudah siap, gaskeun berangkat sebelum jalanan makin ramai.",
+    "ragam_slang": "gaskeun",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-028",
+    "konteks_percakapan": "Teh, punten, halte yang ke arah pusat kota lewat mana ya?",
+    "ragam_slang": "teh",
+    "sentimen_emosi": "Sopan / Ingin tahu",
+    "lokasi_dominan": "Bandung / Sunda"
+  },
+  {
+    "id": "ID-NLP-029",
+    "konteks_percakapan": "Dari pagi mood swing terus karena kurang tidur.",
+    "ragam_slang": "mood swing",
+    "sentimen_emosi": "Netral / Lelah",
+    "lokasi_dominan": "Urban / Kota Besar"
+  },
+  {
+    "id": "ID-NLP-030",
+    "konteks_percakapan": "Kalau semua sudah oke, gas kita mulai dari bagian pertama.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "Tegas / Antusias",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-031",
+    "konteks_percakapan": "Dia bilang sedang sibuk, lalu hilang tanpa kabar sampai sekarang. Ghosting banget.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-032",
+    "konteks_percakapan": "Btw, besok rapatnya jadi jam sepuluh atau dimajukan?",
+    "ragam_slang": "btw",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-033",
+    "konteks_percakapan": "Begitu lihat harga parkirnya, gue auto cari tempat lain.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "Terkejut / Kesal",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-034",
+    "konteks_percakapan": "Panasnya parah sih, baru keluar lima menit sudah cari tempat teduh.",
+    "ragam_slang": "parah sih",
+    "sentimen_emosi": "Keluhan",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-035",
+    "konteks_percakapan": "Punchline-nya receh, tapi timing-nya pas banget sampai semua ngakak.",
+    "ragam_slang": "receh",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-036",
+    "konteks_percakapan": "Video kucing tetangga mendadak FYP dan pemiliknya ikut terkenal.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Nasional / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-037",
+    "konteks_percakapan": "Besok gue follow up vendor kalau invoice-nya belum masuk.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-038",
+    "konteks_percakapan": "Dia terus bilang gue yang salah ingat padahal chat-nya masih ada. Berasa gaslighting.",
+    "ragam_slang": "gaslighting",
+    "sentimen_emosi": "Negatif / Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-039",
+    "konteks_percakapan": "Begitu lampu mati, anak-anak satu kos auto keluar kamar.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "Terkejut / Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-040",
+    "konteks_percakapan": "Kalau cuaca begini, fix kita pindah nongkrong ke dalam.",
+    "ragam_slang": "fix",
+    "sentimen_emosi": "Yakin",
+    "lokasi_dominan": "Bogor"
+  },
+  {
+    "id": "ID-NLP-041",
+    "konteks_percakapan": "Meeting-nya mundur dua jam, literally bikin jadwal gue berantakan.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-042",
+    "konteks_percakapan": "Lihat ekspresi dia pas salah masuk kelas bikin gue ngakak.",
+    "ragam_slang": "ngakak",
+    "sentimen_emosi": "Gembira",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-043",
+    "konteks_percakapan": "My bad, tadi gue salah attach file.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Menyesal",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-044",
+    "konteks_percakapan": "Deadline numpuk, tapi gwenchana, kita kerjain satu-satu dulu.",
+    "ragam_slang": "gwenchana",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-045",
+    "konteks_percakapan": "Baru pertengahan bulan tapi dompet sudah bokek karena kebanyakan jajan.",
+    "ragam_slang": "bokek",
+    "sentimen_emosi": "Negatif / Cemas",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-046",
+    "konteks_percakapan": "Baru kenal lima menit sudah sok asik ngajak semua orang bercanda.",
+    "ragam_slang": "sok asik",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-047",
+    "konteks_percakapan": "Kalau mau cepat, lewat sini ki, jalannya lebih sepi.",
+    "ragam_slang": "ki",
+    "sentimen_emosi": "Akrab / Membantu",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-048",
+    "konteks_percakapan": "Malam ini mabar lagi nggak? Kemarin seru banget sampai lupa waktu.",
+    "ragam_slang": "mabar",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Komunitas Gaming"
+  },
+  {
+    "id": "ID-NLP-049",
+    "konteks_percakapan": "Obrolan berhenti total setelah pertanyaan itu, suasananya jadi awkward.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Canggung",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-050",
+    "konteks_percakapan": "Dia highkey senang ketika hasil kerjanya dipuji klien.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Positif / Bangga",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-051",
+    "konteks_percakapan": "Kalau ongkos segini, fix lebih hemat naik kereta.",
+    "ragam_slang": "fix",
+    "sentimen_emosi": "Yakin",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-052",
+    "konteks_percakapan": "Kalau diskonnya memang sebesar itu, sikat sebelum habis.",
+    "ragam_slang": "sikat",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-053",
+    "konteks_percakapan": "Bestie, jangan lupa bawa charger karena kita bakal seharian di luar.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Akrab / Mengingatkan",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-054",
+    "konteks_percakapan": "Teman-teman sudah pada beli tiket, gue mulai FOMO padahal awalnya nggak niat datang.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Urban / Kota Besar"
+  },
+  {
+    "id": "ID-NLP-055",
+    "konteks_percakapan": "Santai, nggak perlu ngegas cuma gara-gara pendapat kita beda.",
+    "ragam_slang": "ngegas",
+    "sentimen_emosi": "Menegur / Menenangkan",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-056",
+    "konteks_percakapan": "Keluhan soal macet pagi ini valid banget, perjalanan gue juga dua kali lebih lama.",
+    "ragam_slang": "valid",
+    "sentimen_emosi": "Positif / Setuju",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-057",
+    "konteks_percakapan": "Aplikasi ini rill membantu kalau lagi buru-buru cari transportasi.",
+    "ragam_slang": "rill",
+    "sentimen_emosi": "Positif / Puas",
+    "lokasi_dominan": "Urban / Kota Besar"
+  },
+  {
+    "id": "ID-NLP-058",
+    "konteks_percakapan": "Dari tadi dia belum balas, tapi jangan overthinking dulu sebelum tahu alasannya.",
+    "ragam_slang": "overthinking",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-059",
+    "konteks_percakapan": "My bad, gue baca jadwalnya salah dan datang terlalu cepat.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Menyesal",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-060",
+    "konteks_percakapan": "Foto kelompoknya bagus banget, ekspresinya natural semua. Mantul.",
+    "ragam_slang": "mantul",
+    "sentimen_emosi": "Positif / Puas",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-061",
+    "konteks_percakapan": "Warung kecil di gang ini hidden gem, sambalnya malah juara.",
+    "ragam_slang": "hidden gem",
+    "sentimen_emosi": "Positif / Kagum",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-062",
+    "konteks_percakapan": "Bakso kuah pas hujan begini memang juara, no debat.",
+    "ragam_slang": "no debat",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-063",
+    "konteks_percakapan": "Kalau semua sudah selesai, kita cabut duluan ya.",
+    "ragam_slang": "cabut",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-064",
+    "konteks_percakapan": "Euy, mun datang ka dieu mah cobaan mie yaminna.",
+    "ragam_slang": "euy",
+    "sentimen_emosi": "Positif / Rekomendasi",
+    "lokasi_dominan": "Bandung / Sunda"
+  },
+  {
+    "id": "ID-NLP-065",
+    "konteks_percakapan": "Aman ji, saya sudah cek ulang datanya.",
+    "ragam_slang": "ji",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-066",
+    "konteks_percakapan": "File belum tersimpan, panik dikit tapi akhirnya ketemu backup-nya.",
+    "ragam_slang": "panik dikit",
+    "sentimen_emosi": "Cemas / Lega",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-067",
+    "konteks_percakapan": "Meeting pagi ini singkat banget, semua orang langsung sepakat.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Positif / Lega",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-068",
+    "konteks_percakapan": "Keranjang belanja sudah penuh, tapi gue tahan dulu sebelum check out.",
+    "ragam_slang": "check out",
+    "sentimen_emosi": "Menahan diri",
+    "lokasi_dominan": "Urban / Kota Besar"
+  },
+  {
+    "id": "ID-NLP-069",
+    "konteks_percakapan": "Tabungan aman dan cuti sudah disetujui, YOLO kali ini gue mau solo trip.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "Positif / Berani",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-070",
+    "konteks_percakapan": "Goks, satu episode ternyata sudah bikin gue penasaran sampai season berikutnya.",
+    "ragam_slang": "goks",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-071",
+    "konteks_percakapan": "Sudah dapat izin, gas terus sampai proyeknya selesai.",
+    "ragam_slang": "gas terus",
+    "sentimen_emosi": "Antusias / Tegas",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-072",
+    "konteks_percakapan": "Besok sore ada yang mau nongki dekat kampus?",
+    "ragam_slang": "nongki",
+    "sentimen_emosi": "Akrab / Antusias",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-073",
+    "konteks_percakapan": "Baru turun dari mobil langsung pasang gaya, starboy mode-nya aktif lagi.",
+    "ragam_slang": "starboy",
+    "sentimen_emosi": "Sindiran / Humor",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-074",
+    "konteks_percakapan": "Feed gue sekarang isinya coffee shop, tote bag, dan outfit earth tone. Coffee-shop core banget.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Netral / Humor",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-075",
+    "konteks_percakapan": "Maaf tadi AFK, koneksi rumah tiba-tiba drop.",
+    "ragam_slang": "AFK",
+    "sentimen_emosi": "Netral / Meminta maaf",
+    "lokasi_dominan": "Komunitas Gaming"
+  },
+  {
+    "id": "ID-NLP-076",
+    "konteks_percakapan": "Cuy, tempat makan baru dekat kampus ternyata enak juga.",
+    "ragam_slang": "cuy",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-077",
+    "konteks_percakapan": "Kamar penuh poster, lampu redup, dan playlist lawas. Anak warnet core.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Humor / Nostalgia",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-078",
+    "konteks_percakapan": "Gue salah kirim file ke grup keluarga, wkwk malu sendiri jadinya.",
+    "ragam_slang": "wkwk",
+    "sentimen_emosi": "Malu / Humor",
+    "lokasi_dominan": "Nasional / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-079",
+    "konteks_percakapan": "Ngab, kalau jadi berangkat kabarin dari sekarang biar gue nggak kesiangan.",
+    "ragam_slang": "ngab",
+    "sentimen_emosi": "Akrab / Mengingatkan",
+    "lokasi_dominan": "Bekasi"
+  },
+  {
+    "id": "ID-NLP-080",
+    "konteks_percakapan": "Vibes-nya santai, cocok buat ngobrol lama sambil ngopi.",
+    "ragam_slang": "vibes-nya",
+    "sentimen_emosi": "Positif / Nyaman",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-081",
+    "konteks_percakapan": "Capek setelah perjalanan panjang itu valid, jadi istirahat dulu nggak apa-apa.",
+    "ragam_slang": "valid",
+    "sentimen_emosi": "Empati / Menenangkan",
+    "lokasi_dominan": "Nasional"
+  },
+  {
+    "id": "ID-NLP-082",
+    "konteks_percakapan": "Cak, ojok keburu ngegas. Tak jelasin pelan-pelan.",
+    "ragam_slang": "cak",
+    "sentimen_emosi": "Menegur / Menenangkan",
+    "lokasi_dominan": "Surabaya / Jawa"
+  },
+  {
+    "id": "ID-NLP-083",
+    "konteks_percakapan": "Dia datang paling telat tapi gayanya tetap starboy banget.",
+    "ragam_slang": "starboy",
+    "sentimen_emosi": "Sindiran / Humor",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-084",
+    "konteks_percakapan": "Cara dia menjelaskan masalah itu kocak tapi tetap gampang dipahami.",
+    "ragam_slang": "kocak",
+    "sentimen_emosi": "Positif / Terhibur",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-085",
+    "konteks_percakapan": "Teh, ieu tempatna masih buka teu?",
+    "ragam_slang": "teh",
+    "sentimen_emosi": "Netral / Ingin tahu",
+    "lokasi_dominan": "Bandung / Sunda"
+  },
+  {
+    "id": "ID-NLP-086",
+    "konteks_percakapan": "Baru ngobrol intens seminggu, habis itu dia ghosting tanpa kabar.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Negatif / Kecewa",
+    "lokasi_dominan": "Urban / Kota Besar"
+  },
+  {
+    "id": "ID-NLP-087",
+    "konteks_percakapan": "Presentasinya rapi dan penjelasannya jelas, mantul banget.",
+    "ragam_slang": "mantul",
+    "sentimen_emosi": "Positif / Puas",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-088",
+    "konteks_percakapan": "Outfit presentasinya rapi banget, benar-benar slay tanpa kelihatan berlebihan.",
+    "ragam_slang": "slay",
+    "sentimen_emosi": "Positif / Kagum",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-089",
+    "konteks_percakapan": "Gue relate sama yang bilang uang habis bukan karena belanja besar, tapi jajan kecil tiap hari.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Positif / Humor",
+    "lokasi_dominan": "Depok"
+  },
+  {
+    "id": "ID-NLP-090",
+    "konteks_percakapan": "Dapat kabar teman lama datang berkunjung, gue auto senyum.",
+    "ragam_slang": "auto senyum",
+    "sentimen_emosi": "Senang",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-091",
+    "konteks_percakapan": "Lihat meme anak kos itu gue langsung relate, saldo tipis sebelum akhir bulan.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Positif / Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-092",
+    "konteks_percakapan": "Dia memang ceplas-ceplos, tapi biasanya maksudnya nggak jahat.",
+    "ragam_slang": "ceplas-ceplos",
+    "sentimen_emosi": "Netral / Akrab",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-093",
+    "konteks_percakapan": "Kalau tiap ngobrol isinya saling menjatuhkan, itu sudah toxic.",
+    "ragam_slang": "toxic",
+    "sentimen_emosi": "Negatif / Peringatan",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-094",
+    "konteks_percakapan": "Kuy makan dulu sebelum lanjut kerja.",
+    "ragam_slang": "kuy",
+    "sentimen_emosi": "Akrab / Santai",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-095",
+    "konteks_percakapan": "Kopi barunya kelihatan fancy, tapi rasanya kureng menurut lidah gue.",
+    "ragam_slang": "kureng",
+    "sentimen_emosi": "Negatif / Kecewa",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-096",
+    "konteks_percakapan": "Sepatunya masuk wishlist dulu, bulan ini lagi harus hemat.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Netral / Berhati-hati",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-097",
+    "konteks_percakapan": "Nasi padang buat makan siang setelah lembur, no debat.",
+    "ragam_slang": "no debat",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-098",
+    "konteks_percakapan": "Kepo amat soal chat orang, mending tanya langsung kalau penasaran.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Menegur",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-099",
+    "konteks_percakapan": "Komentar itu bukan serangan pribadi, jangan baper dulu.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Menegur",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-100",
+    "konteks_percakapan": "Hasil pertama belum bagus, tapi keep going dulu.",
+    "ragam_slang": "keep going",
+    "sentimen_emosi": "Menenangkan / Motivasi",
+    "lokasi_dominan": "Nasional / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-101",
+    "konteks_percakapan": "Baru kelar presentasi, dosen sampai bilang hasilnya keren. Menyala abangkuh!",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-102",
+    "konteks_percakapan": "Bah, cepat kali berubah cuacanya dari panas jadi hujan.",
+    "ragam_slang": "bah",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-103",
+    "konteks_percakapan": "Bah, harga cabai naik lagi. Mau masak apa kita minggu ini?",
+    "ragam_slang": "bah",
+    "sentimen_emosi": "Terkejut / Khawatir",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-104",
+    "konteks_percakapan": "Baru disapa orang yang disuka sudah salting sendiri.",
+    "ragam_slang": "salting",
+    "sentimen_emosi": "Malu / Senang",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-105",
+    "konteks_percakapan": "Perusahaan minta lembur rutin tanpa kompensasi, itu sudah red flag buat gue.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Negatif / Peringatan",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-106",
+    "konteks_percakapan": "Gue update lagi setelah dapat konfirmasi dari bagian gudang.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-107",
+    "konteks_percakapan": "Caption-nya terlalu dipaksakan sampai terasa cringe.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Negatif / Sindiran",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-108",
+    "konteks_percakapan": "Kalau deadline-nya besok, malam ini gue harus fokus.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Tegas / Tertekan",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-109",
+    "konteks_percakapan": "Meeting siang tadi efektif, cuma dua puluh menit sudah dapat keputusan.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Positif / Lega",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-110",
+    "konteks_percakapan": "Ngab, nanti sore jadi ngopi atau batal?",
+    "ragam_slang": "ngab",
+    "sentimen_emosi": "Netral / Akrab",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-111",
+    "konteks_percakapan": "Kalau prioritasnya deadline, keputusan itu make sense sih.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Positif / Setuju",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-112",
+    "konteks_percakapan": "Nggak jauh kok, di Bandung mah macetnya yang bikin lama.",
+    "ragam_slang": "mah",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Bandung / Sunda"
+  },
+  {
+    "id": "ID-NLP-113",
+    "konteks_percakapan": "Nggak perlu banyak basa-basi kalau sama cees, sudah saling ngerti.",
+    "ragam_slang": "cees",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-114",
+    "konteks_percakapan": "Kalau mau debat, kasih alasan yang jelas, jangan langsung ngegas.",
+    "ragam_slang": "ngegas",
+    "sentimen_emosi": "Menegur",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-115",
+    "konteks_percakapan": "Menu itu terlalu pedas buat gue, jadi skip dulu.",
+    "ragam_slang": "skip",
+    "sentimen_emosi": "Netral / Menolak",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-116",
+    "konteks_percakapan": "Setelah sebulan lembur, gue kasih diri sendiri sedikit self reward.",
+    "ragam_slang": "self reward",
+    "sentimen_emosi": "Positif / Puas",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-117",
+    "konteks_percakapan": "Rank tinggal satu kemenangan lagi, ayo mabar sampai naik tier.",
+    "ragam_slang": "mabar",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Komunitas Gaming"
+  },
+  {
+    "id": "ID-NLP-118",
+    "konteks_percakapan": "Nanti gue update kalau barangnya sudah sampai.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Urban / Kota Besar"
+  },
+  {
+    "id": "ID-NLP-119",
+    "konteks_percakapan": "Videonya sebenarnya bagus, cuma caption-nya agak cringe.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Negatif / Sindiran",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-120",
+    "konteks_percakapan": "Lelucon terakhirnya garing sampai satu meja cuma saling lihat.",
+    "ragam_slang": "garing",
+    "sentimen_emosi": "Negatif / Humor",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-121",
+    "konteks_percakapan": "Dia memang partner kerja, tapi sudah gue anggap cees sendiri.",
+    "ragam_slang": "cees",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-122",
+    "konteks_percakapan": "Jam delapan malam masih sabi kalau tempatnya dekat.",
+    "ragam_slang": "sabi",
+    "sentimen_emosi": "Positif / Fleksibel",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-123",
+    "konteks_percakapan": "Dia highkey bangga sama hasil desainnya, dan memang bagus.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Positif / Bangga",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-124",
+    "konteks_percakapan": "Ketemu mantan di lift kantor tadi awkward banget.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Canggung",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-125",
+    "konteks_percakapan": "Candaan dia receh abis, tapi suasana rapat jadi nggak tegang.",
+    "ragam_slang": "receh abis",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-126",
+    "konteks_percakapan": "Weekend ini bukan ansos, gue memang lagi butuh waktu sendiri.",
+    "ragam_slang": "ansos",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-127",
+    "konteks_percakapan": "Awan mulai cerah, gaskeun ke pantai sebelum matahari turun.",
+    "ragam_slang": "gaskeun",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-128",
+    "konteks_percakapan": "Kalau baru lihat satu foto terus sudah bikin skenario sendiri, itu halu namanya.",
+    "ragam_slang": "halu",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-129",
+    "konteks_percakapan": "Jangan ngadi-ngadi, tadi kita sudah sepakat jam tujuh.",
+    "ragam_slang": "ngadi-ngadi",
+    "sentimen_emosi": "Kesal / Menegur",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-130",
+    "konteks_percakapan": "Cak, iki file final ta? Biar tak kirim ke grup.",
+    "ragam_slang": "cak",
+    "sentimen_emosi": "Netral / Akrab",
+    "lokasi_dominan": "Surabaya / Jawa"
+  },
+  {
+    "id": "ID-NLP-131",
+    "konteks_percakapan": "Kerjaan ini sebenarnya simpel, tinggal sat set beres sebelum makan siang.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "Positif / Efisien",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-132",
+    "konteks_percakapan": "Cuy, charger gue ketinggalan. Ada yang bawa cadangan?",
+    "ragam_slang": "cuy",
+    "sentimen_emosi": "Panik / Akrab",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-133",
+    "konteks_percakapan": "Ekspektasi gue tinggi karena review-nya bagus, ternyata produknya kureng.",
+    "ragam_slang": "kureng",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-134",
+    "konteks_percakapan": "Sebelum tidur jangan overthinking soal komentar orang yang belum tentu penting.",
+    "ragam_slang": "overthinking",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-135",
+    "konteks_percakapan": "Hujan dari siang bikin gue cuma rebahan dan akhirnya gabut di kos.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Netral / Bosan",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-136",
+    "konteks_percakapan": "Kalau memang belum siap, ndak usah dipaksa hari ini.",
+    "ragam_slang": "ndak",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-137",
+    "konteks_percakapan": "Cerita bangun kesiangan lalu buru-buru siap itu relatable banget.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-138",
+    "konteks_percakapan": "Di sini mah kalau jam pulang kantor memang selalu ramai.",
+    "ragam_slang": "mah",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Bandung / Sunda"
+  },
+  {
+    "id": "ID-NLP-139",
+    "konteks_percakapan": "Nggak usah buru-buru, santuy saja sambil tunggu yang lain.",
+    "ragam_slang": "santuy",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-140",
+    "konteks_percakapan": "Dia mulai ngablu karena kurang tidur, jadi obrolannya makin random.",
+    "ragam_slang": "ngablu",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-141",
+    "konteks_percakapan": "Spill dong, tempat servis laptop yang aman di sekitar sini.",
+    "ragam_slang": "spill dong",
+    "sentimen_emosi": "Ingin tahu",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-142",
+    "konteks_percakapan": "Dia selalu kabarin kalau sibuk dan menghargai waktu orang lain. Green flag sih.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Positif / Kagum",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-143",
+    "konteks_percakapan": "Kalau terus nunggu waktu yang pas, nggak jalan-jalan juga. YOLO aja akhir pekan ini.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "Positif / Berani",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-144",
+    "konteks_percakapan": "Presentasinya tadi agak berantakan, gwenchana, besok kita evaluasi.",
+    "ragam_slang": "gwenchana",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-145",
+    "konteks_percakapan": "Teman lama ketemu lagi, ternyata dia glow up banget sejak kuliah.",
+    "ragam_slang": "glow up",
+    "sentimen_emosi": "Kagum",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-146",
+    "konteks_percakapan": "Kirain dapat kursi depan, pas masuk ternyata zonk dan kebagian paling belakang.",
+    "ragam_slang": "zonk",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-147",
+    "konteks_percakapan": "Komentarnya nyinyir terus padahal orang lain tidak merugikan dia.",
+    "ragam_slang": "nyinyir",
+    "sentimen_emosi": "Negatif / Menegur",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-148",
+    "konteks_percakapan": "Kalau hujan deras begini, ndak usah dipaksakan berangkat.",
+    "ragam_slang": "ndak",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-149",
+    "konteks_percakapan": "Kalau ada perubahan jadwal, kasih kabar gercep supaya semua bisa menyesuaikan.",
+    "ragam_slang": "gercep",
+    "sentimen_emosi": "Tegas / Profesional",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-150",
+    "konteks_percakapan": "Hari ini dia datang sendiri dan keliling kota, main character banget.",
+    "ragam_slang": "main character",
+    "sentimen_emosi": "Positif / Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-151",
+    "konteks_percakapan": "Bjir, baru lima menit buka aplikasi ini kok notifikasinya sudah numpuk.",
+    "ragam_slang": "bjir",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Urban / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-152",
+    "konteks_percakapan": "Kalau sudah siap cerita, spill tea lengkapnya dong.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Penasaran / Terhibur",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-153",
+    "konteks_percakapan": "Desain posternya akhirnya jadi juga setelah revisi berkali-kali. Menyala abangkuh!",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "Puas / Antusias",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-154",
+    "konteks_percakapan": "Teman gue lagi mageran, jadi rapat kecilnya pindah online.",
+    "ragam_slang": "mageran",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Depok"
+  },
+  {
+    "id": "ID-NLP-155",
+    "konteks_percakapan": "Rek, nanti malam jadi nongkrong atau lanjut kerja?",
+    "ragam_slang": "rek",
+    "sentimen_emosi": "Akrab",
+    "lokasi_dominan": "Surabaya / Jawa"
+  },
+  {
+    "id": "ID-NLP-156",
+    "konteks_percakapan": "Gaya nongkrongnya kelihatan skena banget, kamera analognya ikut dibawa ke mana-mana.",
+    "ragam_slang": "skena",
+    "sentimen_emosi": "Sindiran / Humor",
+    "lokasi_dominan": "Bandung / Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-157",
+    "konteks_percakapan": "Btw, file revisi terakhir sudah masuk folder bersama belum?",
+    "ragam_slang": "btw",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-158",
+    "konteks_percakapan": "Gue follow up lagi sore ini kalau belum ada balasan.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-159",
+    "konteks_percakapan": "Bjir, saldo e-wallet gue kepotong dua kali buat transaksi yang sama.",
+    "ragam_slang": "bjir",
+    "sentimen_emosi": "Terkejut / Kesal",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-160",
+    "konteks_percakapan": "Jangan baper dulu, dia belum balas karena lagi rapat.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-161",
+    "konteks_percakapan": "Semua teman kantor ikut kelas itu, gue takut FOMO kalau malah nggak daftar.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "Cemas / FOMO",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-162",
+    "konteks_percakapan": "Janjinya jam tujuh, datang hampir setengah sembilan. Ngaret banget.",
+    "ragam_slang": "ngaret",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-163",
+    "konteks_percakapan": "Netizen jangan julid dulu sebelum lihat videonya sampai selesai.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Menegur",
+    "lokasi_dominan": "Nasional / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-164",
+    "konteks_percakapan": "Kalau alasannya begitu, fair enough, gue bisa ngerti.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Positif / Menerima",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-165",
+    "konteks_percakapan": "Teman gue bucin akut, jadwal nongkrong saja menyesuaikan jadwal pasangannya.",
+    "ragam_slang": "bucin akut",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-166",
+    "konteks_percakapan": "Bestie, jangan overbudget cuma gara-gara ada flash sale.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Akrab / Mengingatkan",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-167",
+    "konteks_percakapan": "Kalau mau menghemat waktu, pilih rute itu memang make sense.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Positif / Setuju",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-168",
+    "konteks_percakapan": "Kerjaan selesai lebih cepat, sekarang malah gabut nunggu jam pulang.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Netral / Bosan",
+    "lokasi_dominan": "Semarang"
+  },
+  {
+    "id": "ID-NLP-169",
+    "konteks_percakapan": "Begitu dipuji di depan orang banyak, dia auto salting.",
+    "ragam_slang": "auto salting",
+    "sentimen_emosi": "Malu / Senang",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-170",
+    "konteks_percakapan": "Mau ikut nongkrong sebenarnya, cuma badan lagi mager keluar rumah.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Netral / Malas",
+    "lokasi_dominan": "Depok"
+  },
+  {
+    "id": "ID-NLP-171",
+    "konteks_percakapan": "Pelayanannya lama banget, suasananya jadi malesin.",
+    "ragam_slang": "malesin",
+    "sentimen_emosi": "Negatif / Kesal",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-172",
+    "konteks_percakapan": "Grup itu toxic banget sampai orang takut menyampaikan pendapat.",
+    "ragam_slang": "toxic banget",
+    "sentimen_emosi": "Negatif / Frustrasi",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-173",
+    "konteks_percakapan": "Pertanyaan itu random banget, tapi ternyata jawabannya menarik.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Terkejut / Terhibur",
+    "lokasi_dominan": "Urban / Kota Besar"
+  },
+  {
+    "id": "ID-NLP-174",
+    "konteks_percakapan": "Gue bukan nggak mau ikut, cuma lagi bokek sampai gajian.",
+    "ragam_slang": "bokek",
+    "sentimen_emosi": "Cemas / Berhemat",
+    "lokasi_dominan": "Tangerang"
+  },
+  {
+    "id": "ID-NLP-175",
+    "konteks_percakapan": "Kalau deadline dimajukan sehari, kita perlu atur ulang pembagian tugas.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Tertekan / Profesional",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-176",
+    "konteks_percakapan": "Lima menit sebelum presentasi listrik mati, literally bikin panik satu ruangan.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Panik / Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-177",
+    "konteks_percakapan": "Spill resep sambalnya dong, rasanya nagih banget.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Antusias / Ingin tahu",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-178",
+    "konteks_percakapan": "Kalau kepo soal hasilnya, tunggu pengumuman resmi saja.",
+    "ragam_slang": "kepo",
+    "sentimen_emosi": "Netral / Menegur",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-179",
+    "konteks_percakapan": "Besok pagi berangkatki lebih awal supaya tidak kena macet.",
+    "ragam_slang": "ki",
+    "sentimen_emosi": "Akrab / Mengingatkan",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-180",
+    "konteks_percakapan": "Grup chat para gabuters langsung ramai begitu ada yang ngajak main.",
+    "ragam_slang": "gabuters",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Nasional / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-181",
+    "konteks_percakapan": "Video masak sederhana itu malah masuk FYP dan views-nya naik terus.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Nasional / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-182",
+    "konteks_percakapan": "Promo besar ternyata stoknya habis pas gue sampai. Zonk.",
+    "ragam_slang": "zonk",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-183",
+    "konteks_percakapan": "Rill, tidur cukup bikin kerja pagi jauh lebih enak.",
+    "ragam_slang": "rill",
+    "sentimen_emosi": "Positif / Setuju",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-184",
+    "konteks_percakapan": "Hari Minggu begini paling enak rebahan, gue lagi mager ke mana-mana.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Santai / Malas",
+    "lokasi_dominan": "Bogor"
+  },
+  {
+    "id": "ID-NLP-185",
+    "konteks_percakapan": "Gue niatnya dengar penjelasan, malah salfok sama suara kucing di belakang.",
+    "ragam_slang": "salfok",
+    "sentimen_emosi": "Terhibur",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-186",
+    "konteks_percakapan": "Hari ini mood gue bagus karena kerjaan selesai lebih cepat.",
+    "ragam_slang": "mood",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta"
+  },
+  {
+    "id": "ID-NLP-187",
+    "konteks_percakapan": "Kalau proposalnya sudah oke, gas kirim ke klien sekarang.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "Antusias / Tegas",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-188",
+    "konteks_percakapan": "Akhir pekan ini gue mau healing sebentar ke tempat yang sepi.",
+    "ragam_slang": "healing",
+    "sentimen_emosi": "Positif / Lega",
+    "lokasi_dominan": "Bogor"
+  },
+  {
+    "id": "ID-NLP-189",
+    "konteks_percakapan": "Rutenya lebih pendek dan pemandangannya bagus, mantul abis.",
+    "ragam_slang": "mantul abis",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Malang"
+  },
+  {
+    "id": "ID-NLP-190",
+    "konteks_percakapan": "Kepoan banget, baru kenal sudah nanya gaji orang.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Kesal / Menegur",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-191",
+    "konteks_percakapan": "Jam kerja nggak jelas dan lembur nggak dihargai, buat gue itu red flag.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Negatif / Peringatan",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-192",
+    "konteks_percakapan": "Gue lowkey suka tempat ini karena nggak terlalu ramai.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-193",
+    "konteks_percakapan": "Kalau percobaan pertama gagal, keep going, cari cara lain.",
+    "ragam_slang": "keep going",
+    "sentimen_emosi": "Motivasi",
+    "lokasi_dominan": "Nasional / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-194",
+    "konteks_percakapan": "Kalau semua tanda tangan sudah masuk, kita sat set kirim dokumen final.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "Positif / Efisien",
+    "lokasi_dominan": "Profesional Muda / Milenial"
+  },
+  {
+    "id": "ID-NLP-195",
+    "konteks_percakapan": "Dia rela antre dua jam demi beliin makanan favorit pacarnya, bucin juga.",
+    "ragam_slang": "bucin",
+    "sentimen_emosi": "Humor / Kagum",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-196",
+    "konteks_percakapan": "Buku yang sudah lama ada di wishlist akhirnya diskon juga.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Senang",
+    "lokasi_dominan": "Semarang"
+  },
+  {
+    "id": "ID-NLP-197",
+    "konteks_percakapan": "Jangan biarkan satu komentar bikin kamu insecure soal hasil kerja sendiri.",
+    "ragam_slang": "insecure",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-198",
+    "konteks_percakapan": "Listrik mati dari sore, gabut maksimal satu rumah.",
+    "ragam_slang": "gabut maksimal",
+    "sentimen_emosi": "Bosan / Humor",
+    "lokasi_dominan": "Bogor"
+  },
+  {
+    "id": "ID-NLP-199",
+    "konteks_percakapan": "Adminnya gercep banget, baru komplain sebentar sudah ada solusi.",
+    "ragam_slang": "gercep banget",
+    "sentimen_emosi": "Positif / Puas",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-200",
+    "konteks_percakapan": "Niatnya mau hemat, ujung-ujungnya checkout makanan dua kali. Wkwk.",
+    "ragam_slang": "wkwk",
+    "sentimen_emosi": "Humor / Menyesal",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-201",
+    "konteks_percakapan": "Setelah ramai dibahas, menurut gue rasanya b aja.",
+    "ragam_slang": "b aja",
+    "sentimen_emosi": "Netral / Kecewa",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-202",
+    "konteks_percakapan": "Drama anak kos akhir bulan ini relatable banget.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Positif / Humor",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-203",
+    "konteks_percakapan": "Kalau belum baca informasinya, jangan sok tahu dulu.",
+    "ragam_slang": "sok tahu",
+    "sentimen_emosi": "Menegur",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-204",
+    "konteks_percakapan": "Oke, fair enough, kalau kondisinya begitu gue setuju revisi rencana.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Positif / Menerima",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-205",
+    "konteks_percakapan": "Rek, ojok lali bawa jaket, malam biasanya dingin.",
+    "ragam_slang": "rek",
+    "sentimen_emosi": "Akrab / Mengingatkan",
+    "lokasi_dominan": "Surabaya / Jawa"
+  }
+]
+[
+  {
+    "id": "ID-NLP-206",
+    "konteks_percakapan": "Di office tadi, gue literally kalau timeline-nya dimajuin tanpa kabar.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-207",
+    "konteks_percakapan": "Honestly, gue perlu literally ke client sebelum jam makan siang biar nggak ada miskom.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-208",
+    "konteks_percakapan": "Lowkey, kalau feedback-nya sudah jelas, menurut gue literally untuk langsung revisi.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-209",
+    "konteks_percakapan": "Meeting tadi literally, jadi kita bisa lanjut ke task berikutnya.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-210",
+    "konteks_percakapan": "Gue literally sama keputusan itu, terutama karena budget-nya masih aman.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-211",
+    "konteks_percakapan": "Jujur gue literally kalau diminta handle semuanya sendirian sih.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-212",
+    "konteks_percakapan": "Presentasi tadi literally; tinggal rapihin deck sebelum dikirim.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-213",
+    "konteks_percakapan": "Kalau bagian ini sudah di-approve, gue langsung literally ke tim finance kalau menurut gue.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-214",
+    "konteks_percakapan": "Gue masih butuh satu literally lagi sebelum finalisasi proposal.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-215",
+    "konteks_percakapan": "Daripada bolak-balik revisi, mending kita set literally dari awal di kondisi sekarang.",
+    "ragam_slang": "literally",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-216",
+    "konteks_percakapan": "Di office tadi, gue make sense kalau timeline-nya dimajuin tanpa kabar.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-217",
+    "konteks_percakapan": "Honestly, gue perlu make sense ke client sebelum jam makan siang biar nggak ada miskom.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-218",
+    "konteks_percakapan": "Lowkey, kalau feedback-nya sudah jelas, menurut gue make sense untuk langsung revisi.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-219",
+    "konteks_percakapan": "Meeting tadi make sense, jadi kita bisa lanjut ke task berikutnya.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-220",
+    "konteks_percakapan": "Gue make sense sama keputusan itu, terutama karena budget-nya masih aman.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-221",
+    "konteks_percakapan": "Jujur gue make sense kalau diminta handle semuanya sendirian sih.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-222",
+    "konteks_percakapan": "Presentasi tadi make sense; tinggal rapihin deck sebelum dikirim.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-223",
+    "konteks_percakapan": "Kalau bagian ini sudah di-approve, gue langsung make sense ke tim finance kalau menurut gue.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-224",
+    "konteks_percakapan": "Gue masih butuh satu make sense lagi sebelum finalisasi proposal.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-225",
+    "konteks_percakapan": "Daripada bolak-balik revisi, mending kita set make sense dari awal di kondisi sekarang.",
+    "ragam_slang": "make sense",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-226",
+    "konteks_percakapan": "Di office tadi, gue lowkey kalau timeline-nya dimajuin tanpa kabar.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-227",
+    "konteks_percakapan": "Honestly, gue perlu lowkey ke client sebelum jam makan siang biar nggak ada miskom.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-228",
+    "konteks_percakapan": "Lowkey, kalau feedback-nya sudah jelas, menurut gue lowkey untuk langsung revisi.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-229",
+    "konteks_percakapan": "Meeting tadi lowkey, jadi kita bisa lanjut ke task berikutnya.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-230",
+    "konteks_percakapan": "Gue lowkey sama keputusan itu, terutama karena budget-nya masih aman.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-231",
+    "konteks_percakapan": "Jujur gue lowkey kalau diminta handle semuanya sendirian sih.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-232",
+    "konteks_percakapan": "Presentasi tadi lowkey; tinggal rapihin deck sebelum dikirim.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-233",
+    "konteks_percakapan": "Kalau bagian ini sudah di-approve, gue langsung lowkey ke tim finance kalau menurut gue.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-234",
+    "konteks_percakapan": "Gue masih butuh satu lowkey lagi sebelum finalisasi proposal.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-235",
+    "konteks_percakapan": "Daripada bolak-balik revisi, mending kita set lowkey dari awal di kondisi sekarang.",
+    "ragam_slang": "lowkey",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-236",
+    "konteks_percakapan": "Di office tadi, gue highkey kalau timeline-nya dimajuin tanpa kabar.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-237",
+    "konteks_percakapan": "Honestly, gue perlu highkey ke client sebelum jam makan siang biar nggak ada miskom.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-238",
+    "konteks_percakapan": "Lowkey, kalau feedback-nya sudah jelas, menurut gue highkey untuk langsung revisi.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-239",
+    "konteks_percakapan": "Meeting tadi highkey, jadi kita bisa lanjut ke task berikutnya.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-240",
+    "konteks_percakapan": "Gue highkey sama keputusan itu, terutama karena budget-nya masih aman.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-241",
+    "konteks_percakapan": "Jujur gue highkey kalau diminta handle semuanya sendirian sih.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-242",
+    "konteks_percakapan": "Presentasi tadi highkey; tinggal rapihin deck sebelum dikirim.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-243",
+    "konteks_percakapan": "Kalau bagian ini sudah di-approve, gue langsung highkey ke tim finance kalau menurut gue.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-244",
+    "konteks_percakapan": "Gue masih butuh satu highkey lagi sebelum finalisasi proposal.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-245",
+    "konteks_percakapan": "Daripada bolak-balik revisi, mending kita set highkey dari awal di kondisi sekarang.",
+    "ragam_slang": "highkey",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-246",
+    "konteks_percakapan": "Di office tadi, gue fair enough kalau timeline-nya dimajuin tanpa kabar.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-247",
+    "konteks_percakapan": "Honestly, gue perlu fair enough ke client sebelum jam makan siang biar nggak ada miskom.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-248",
+    "konteks_percakapan": "Lowkey, kalau feedback-nya sudah jelas, menurut gue fair enough untuk langsung revisi.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-249",
+    "konteks_percakapan": "Meeting tadi fair enough, jadi kita bisa lanjut ke task berikutnya.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-250",
+    "konteks_percakapan": "Gue fair enough sama keputusan itu, terutama karena budget-nya masih aman.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-251",
+    "konteks_percakapan": "Jujur gue fair enough kalau diminta handle semuanya sendirian sih.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-252",
+    "konteks_percakapan": "Presentasi tadi fair enough; tinggal rapihin deck sebelum dikirim.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-253",
+    "konteks_percakapan": "Kalau bagian ini sudah di-approve, gue langsung fair enough ke tim finance kalau menurut gue.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-254",
+    "konteks_percakapan": "Gue masih butuh satu fair enough lagi sebelum finalisasi proposal.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-255",
+    "konteks_percakapan": "Daripada bolak-balik revisi, mending kita set fair enough dari awal di kondisi sekarang.",
+    "ragam_slang": "fair enough",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-256",
+    "konteks_percakapan": "Di office tadi, gue my bad kalau timeline-nya dimajuin tanpa kabar.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-257",
+    "konteks_percakapan": "Honestly, gue perlu my bad ke client sebelum jam makan siang biar nggak ada miskom.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-258",
+    "konteks_percakapan": "Lowkey, kalau feedback-nya sudah jelas, menurut gue my bad untuk langsung revisi.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-259",
+    "konteks_percakapan": "Meeting tadi my bad, jadi kita bisa lanjut ke task berikutnya.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-260",
+    "konteks_percakapan": "Gue my bad sama keputusan itu, terutama karena budget-nya masih aman.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-261",
+    "konteks_percakapan": "Jujur gue my bad kalau diminta handle semuanya sendirian sih.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-262",
+    "konteks_percakapan": "Presentasi tadi my bad; tinggal rapihin deck sebelum dikirim.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-263",
+    "konteks_percakapan": "Kalau bagian ini sudah di-approve, gue langsung my bad ke tim finance kalau menurut gue.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-264",
+    "konteks_percakapan": "Gue masih butuh satu my bad lagi sebelum finalisasi proposal.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-265",
+    "konteks_percakapan": "Daripada bolak-balik revisi, mending kita set my bad dari awal di kondisi sekarang.",
+    "ragam_slang": "my bad",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-266",
+    "konteks_percakapan": "Di office tadi, gue follow up kalau timeline-nya dimajuin tanpa kabar.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-267",
+    "konteks_percakapan": "Honestly, gue perlu follow up ke client sebelum jam makan siang biar nggak ada miskom.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-268",
+    "konteks_percakapan": "Lowkey, kalau feedback-nya sudah jelas, menurut gue follow up untuk langsung revisi.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-269",
+    "konteks_percakapan": "Meeting tadi follow up, jadi kita bisa lanjut ke task berikutnya.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-270",
+    "konteks_percakapan": "Gue follow up sama keputusan itu, terutama karena budget-nya masih aman.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-271",
+    "konteks_percakapan": "Jujur gue follow up kalau diminta handle semuanya sendirian sih.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-272",
+    "konteks_percakapan": "Presentasi tadi follow up; tinggal rapihin deck sebelum dikirim.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-273",
+    "konteks_percakapan": "Kalau bagian ini sudah di-approve, gue langsung follow up ke tim finance kalau menurut gue.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-274",
+    "konteks_percakapan": "Gue masih butuh satu follow up lagi sebelum finalisasi proposal.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-275",
+    "konteks_percakapan": "Daripada bolak-balik revisi, mending kita set follow up dari awal di kondisi sekarang.",
+    "ragam_slang": "follow up",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-276",
+    "konteks_percakapan": "Di office tadi, gue update kalau timeline-nya dimajuin tanpa kabar.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-277",
+    "konteks_percakapan": "Honestly, gue perlu update ke client sebelum jam makan siang biar nggak ada miskom.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-278",
+    "konteks_percakapan": "Lowkey, kalau feedback-nya sudah jelas, menurut gue update untuk langsung revisi.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-279",
+    "konteks_percakapan": "Meeting tadi update, jadi kita bisa lanjut ke task berikutnya.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-280",
+    "konteks_percakapan": "Gue update sama keputusan itu, terutama karena budget-nya masih aman.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-281",
+    "konteks_percakapan": "Jujur gue update kalau diminta handle semuanya sendirian sih.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-282",
+    "konteks_percakapan": "Presentasi tadi update; tinggal rapihin deck sebelum dikirim.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-283",
+    "konteks_percakapan": "Kalau bagian ini sudah di-approve, gue langsung update ke tim finance kalau menurut gue.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-284",
+    "konteks_percakapan": "Gue masih butuh satu update lagi sebelum finalisasi proposal.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-285",
+    "konteks_percakapan": "Daripada bolak-balik revisi, mending kita set update dari awal di kondisi sekarang.",
+    "ragam_slang": "update",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-286",
+    "konteks_percakapan": "Di office tadi, gue deadline kalau timeline-nya dimajuin tanpa kabar.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-287",
+    "konteks_percakapan": "Honestly, gue perlu deadline ke client sebelum jam makan siang biar nggak ada miskom.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-288",
+    "konteks_percakapan": "Lowkey, kalau feedback-nya sudah jelas, menurut gue deadline untuk langsung revisi.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-289",
+    "konteks_percakapan": "Meeting tadi deadline, jadi kita bisa lanjut ke task berikutnya.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-290",
+    "konteks_percakapan": "Gue deadline sama keputusan itu, terutama karena budget-nya masih aman.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-291",
+    "konteks_percakapan": "Jujur gue deadline kalau diminta handle semuanya sendirian sih.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-292",
+    "konteks_percakapan": "Presentasi tadi deadline; tinggal rapihin deck sebelum dikirim.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-293",
+    "konteks_percakapan": "Kalau bagian ini sudah di-approve, gue langsung deadline ke tim finance kalau menurut gue.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-294",
+    "konteks_percakapan": "Gue masih butuh satu deadline lagi sebelum finalisasi proposal.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-295",
+    "konteks_percakapan": "Daripada bolak-balik revisi, mending kita set deadline dari awal di kondisi sekarang.",
+    "ragam_slang": "deadline",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-296",
+    "konteks_percakapan": "Di office tadi, gue meeting kalau timeline-nya dimajuin tanpa kabar.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-297",
+    "konteks_percakapan": "Honestly, gue perlu meeting ke client sebelum jam makan siang biar nggak ada miskom.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-298",
+    "konteks_percakapan": "Lowkey, kalau feedback-nya sudah jelas, menurut gue meeting untuk langsung revisi.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-299",
+    "konteks_percakapan": "Meeting tadi meeting, jadi kita bisa lanjut ke task berikutnya.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-300",
+    "konteks_percakapan": "Gue meeting sama keputusan itu, terutama karena budget-nya masih aman.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-301",
+    "konteks_percakapan": "Jujur gue meeting kalau diminta handle semuanya sendirian sih.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-302",
+    "konteks_percakapan": "Presentasi tadi meeting; tinggal rapihin deck sebelum dikirim.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-303",
+    "konteks_percakapan": "Kalau bagian ini sudah di-approve, gue langsung meeting ke tim finance kalau menurut gue.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Netral / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-304",
+    "konteks_percakapan": "Gue masih butuh satu meeting lagi sebelum finalisasi proposal.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-305",
+    "konteks_percakapan": "Daripada bolak-balik revisi, mending kita set meeting dari awal di kondisi sekarang.",
+    "ragam_slang": "meeting",
+    "sentimen_emosi": "Positif / Profesional",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-306",
+    "konteks_percakapan": "Bestie, gue langsung bestie pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-307",
+    "konteks_percakapan": "Honestly, gue nggak mau bestie, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-308",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu bestie.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-309",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya bestie banget.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-310",
+    "konteks_percakapan": "Jangan bestie dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-311",
+    "konteks_percakapan": "Gue bestie sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-312",
+    "konteks_percakapan": "Kalau mau cerita, bestie aja di group chat nanti.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-313",
+    "konteks_percakapan": "Gue bisa bestie sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-314",
+    "konteks_percakapan": "Teman gue bilang gue bestie, padahal gue cuma penasaran.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-315",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi bestie dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "bestie",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-316",
+    "konteks_percakapan": "Bestie, gue langsung spill pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-317",
+    "konteks_percakapan": "Honestly, gue nggak mau spill, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-318",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu spill.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-319",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya spill banget.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-320",
+    "konteks_percakapan": "Jangan spill dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-321",
+    "konteks_percakapan": "Gue spill sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-322",
+    "konteks_percakapan": "Kalau mau cerita, spill aja di group chat nanti.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-323",
+    "konteks_percakapan": "Gue bisa spill sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-324",
+    "konteks_percakapan": "Teman gue bilang gue spill, padahal gue cuma penasaran.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-325",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi spill dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "spill",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-326",
+    "konteks_percakapan": "Bestie, gue langsung spill tea pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-327",
+    "konteks_percakapan": "Honestly, gue nggak mau spill tea, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-328",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu spill tea.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-329",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya spill tea banget.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-330",
+    "konteks_percakapan": "Jangan spill tea dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-331",
+    "konteks_percakapan": "Gue spill tea sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-332",
+    "konteks_percakapan": "Kalau mau cerita, spill tea aja di group chat nanti.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-333",
+    "konteks_percakapan": "Gue bisa spill tea sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-334",
+    "konteks_percakapan": "Teman gue bilang gue spill tea, padahal gue cuma penasaran.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-335",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi spill tea dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "spill tea",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-336",
+    "konteks_percakapan": "Bestie, gue langsung relate pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-337",
+    "konteks_percakapan": "Honestly, gue nggak mau relate, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-338",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu relate.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-339",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya relate banget.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-340",
+    "konteks_percakapan": "Jangan relate dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-341",
+    "konteks_percakapan": "Gue relate sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-342",
+    "konteks_percakapan": "Kalau mau cerita, relate aja di group chat nanti.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-343",
+    "konteks_percakapan": "Gue bisa relate sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-344",
+    "konteks_percakapan": "Teman gue bilang gue relate, padahal gue cuma penasaran.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-345",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi relate dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "relate",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-346",
+    "konteks_percakapan": "Bestie, gue langsung relatable pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-347",
+    "konteks_percakapan": "Honestly, gue nggak mau relatable, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-348",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu relatable.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-349",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya relatable banget.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-350",
+    "konteks_percakapan": "Jangan relatable dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-351",
+    "konteks_percakapan": "Gue relatable sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-352",
+    "konteks_percakapan": "Kalau mau cerita, relatable aja di group chat nanti.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-353",
+    "konteks_percakapan": "Gue bisa relatable sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-354",
+    "konteks_percakapan": "Teman gue bilang gue relatable, padahal gue cuma penasaran.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-355",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi relatable dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "relatable",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-356",
+    "konteks_percakapan": "Bestie, gue langsung baper pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-357",
+    "konteks_percakapan": "Honestly, gue nggak mau baper, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-358",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu baper.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-359",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya baper banget.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-360",
+    "konteks_percakapan": "Jangan baper dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-361",
+    "konteks_percakapan": "Gue baper sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-362",
+    "konteks_percakapan": "Kalau mau cerita, baper aja di group chat nanti.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-363",
+    "konteks_percakapan": "Gue bisa baper sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-364",
+    "konteks_percakapan": "Teman gue bilang gue baper, padahal gue cuma penasaran.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-365",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi baper dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "baper",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-366",
+    "konteks_percakapan": "Bestie, gue langsung salting pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "salting",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-367",
+    "konteks_percakapan": "Honestly, gue nggak mau salting, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "salting",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-368",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu salting.",
+    "ragam_slang": "salting",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-369",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya salting banget.",
+    "ragam_slang": "salting",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-370",
+    "konteks_percakapan": "Jangan salting dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "salting",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-371",
+    "konteks_percakapan": "Gue salting sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "salting",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-372",
+    "konteks_percakapan": "Kalau mau cerita, salting aja di group chat nanti.",
+    "ragam_slang": "salting",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-373",
+    "konteks_percakapan": "Gue bisa salting sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "salting",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-374",
+    "konteks_percakapan": "Teman gue bilang gue salting, padahal gue cuma penasaran.",
+    "ragam_slang": "salting",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-375",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi salting dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "salting",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-376",
+    "konteks_percakapan": "Bestie, gue langsung ghosting pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-377",
+    "konteks_percakapan": "Honestly, gue nggak mau ghosting, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-378",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu ghosting.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-379",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya ghosting banget.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-380",
+    "konteks_percakapan": "Jangan ghosting dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-381",
+    "konteks_percakapan": "Gue ghosting sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-382",
+    "konteks_percakapan": "Kalau mau cerita, ghosting aja di group chat nanti.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-383",
+    "konteks_percakapan": "Gue bisa ghosting sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-384",
+    "konteks_percakapan": "Teman gue bilang gue ghosting, padahal gue cuma penasaran.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-385",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi ghosting dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "ghosting",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-386",
+    "konteks_percakapan": "Bestie, gue langsung red flag pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-387",
+    "konteks_percakapan": "Honestly, gue nggak mau red flag, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-388",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu red flag.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-389",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya red flag banget.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-390",
+    "konteks_percakapan": "Jangan red flag dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-391",
+    "konteks_percakapan": "Gue red flag sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-392",
+    "konteks_percakapan": "Kalau mau cerita, red flag aja di group chat nanti.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-393",
+    "konteks_percakapan": "Gue bisa red flag sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-394",
+    "konteks_percakapan": "Teman gue bilang gue red flag, padahal gue cuma penasaran.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-395",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi red flag dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "red flag",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-396",
+    "konteks_percakapan": "Bestie, gue langsung green flag pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-397",
+    "konteks_percakapan": "Honestly, gue nggak mau green flag, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-398",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu green flag.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-399",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya green flag banget.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-400",
+    "konteks_percakapan": "Jangan green flag dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-401",
+    "konteks_percakapan": "Gue green flag sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-402",
+    "konteks_percakapan": "Kalau mau cerita, green flag aja di group chat nanti.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-403",
+    "konteks_percakapan": "Gue bisa green flag sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-404",
+    "konteks_percakapan": "Teman gue bilang gue green flag, padahal gue cuma penasaran.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-405",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi green flag dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "green flag",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-406",
+    "konteks_percakapan": "Bestie, gue langsung toxic pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "toxic",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-407",
+    "konteks_percakapan": "Honestly, gue nggak mau toxic, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "toxic",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-408",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu toxic.",
+    "ragam_slang": "toxic",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-409",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya toxic banget.",
+    "ragam_slang": "toxic",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-410",
+    "konteks_percakapan": "Jangan toxic dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "toxic",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-411",
+    "konteks_percakapan": "Gue toxic sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "toxic",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-412",
+    "konteks_percakapan": "Kalau mau cerita, toxic aja di group chat nanti.",
+    "ragam_slang": "toxic",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-413",
+    "konteks_percakapan": "Gue bisa toxic sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "toxic",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-414",
+    "konteks_percakapan": "Teman gue bilang gue toxic, padahal gue cuma penasaran.",
+    "ragam_slang": "toxic",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-415",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi toxic dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "toxic",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-416",
+    "konteks_percakapan": "Bestie, gue langsung cringe pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-417",
+    "konteks_percakapan": "Honestly, gue nggak mau cringe, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-418",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu cringe.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-419",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya cringe banget.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-420",
+    "konteks_percakapan": "Jangan cringe dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-421",
+    "konteks_percakapan": "Gue cringe sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-422",
+    "konteks_percakapan": "Kalau mau cerita, cringe aja di group chat nanti.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-423",
+    "konteks_percakapan": "Gue bisa cringe sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-424",
+    "konteks_percakapan": "Teman gue bilang gue cringe, padahal gue cuma penasaran.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-425",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi cringe dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "cringe",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-426",
+    "konteks_percakapan": "Bestie, gue langsung awkward pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-427",
+    "konteks_percakapan": "Honestly, gue nggak mau awkward, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-428",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu awkward.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-429",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya awkward banget.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-430",
+    "konteks_percakapan": "Jangan awkward dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-431",
+    "konteks_percakapan": "Gue awkward sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-432",
+    "konteks_percakapan": "Kalau mau cerita, awkward aja di group chat nanti.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-433",
+    "konteks_percakapan": "Gue bisa awkward sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-434",
+    "konteks_percakapan": "Teman gue bilang gue awkward, padahal gue cuma penasaran.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-435",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi awkward dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "awkward",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-436",
+    "konteks_percakapan": "Bestie, gue langsung random pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-437",
+    "konteks_percakapan": "Honestly, gue nggak mau random, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-438",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu random.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-439",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya random banget.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-440",
+    "konteks_percakapan": "Jangan random dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-441",
+    "konteks_percakapan": "Gue random sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-442",
+    "konteks_percakapan": "Kalau mau cerita, random aja di group chat nanti.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-443",
+    "konteks_percakapan": "Gue bisa random sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-444",
+    "konteks_percakapan": "Teman gue bilang gue random, padahal gue cuma penasaran.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-445",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi random dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "random",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-446",
+    "konteks_percakapan": "Bestie, gue langsung julid pas lihat chat itu masuk jam segini.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-447",
+    "konteks_percakapan": "Honestly, gue nggak mau julid, tapi ceritanya memang agak suspicious.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-448",
+    "konteks_percakapan": "Lowkey, kalau dia konsisten begini, menurut gue itu julid.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-449",
+    "konteks_percakapan": "Gue cuma ketawa, tapi jujur situasinya julid banget.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-450",
+    "konteks_percakapan": "Jangan julid dulu, kita belum dengar versi lengkapnya.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-451",
+    "konteks_percakapan": "Gue julid sama kejadian tadi karena timing-nya awkward banget sih.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-452",
+    "konteks_percakapan": "Kalau mau cerita, julid aja di group chat nanti.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Sindiran",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-453",
+    "konteks_percakapan": "Gue bisa julid sama pengalaman itu karena pernah ngalamin juga kalau menurut gue.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-454",
+    "konteks_percakapan": "Teman gue bilang gue julid, padahal gue cuma penasaran.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-455",
+    "konteks_percakapan": "Setelah kejadian itu, vibes-nya jadi julid dan semua orang diam di kondisi sekarang.",
+    "ragam_slang": "julid",
+    "sentimen_emosi": "Positif / Akrab",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-456",
+    "konteks_percakapan": "Weekend ini gue pengin kepoan tanpa agenda yang terlalu padat.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-457",
+    "konteks_percakapan": "Honestly, tempat ini punya kepoan yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-458",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke kepoan, tapi belum tentu beli.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-459",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya kepoan.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-460",
+    "konteks_percakapan": "Hari ini gue cuma kepoan di rumah karena energi lagi low.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-461",
+    "konteks_percakapan": "Kalau sore begini, enaknya kepoan di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-462",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang kepoan tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-463",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya kepoan, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-464",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat kepoan sebentar.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-465",
+    "konteks_percakapan": "Gue pengin kepoan dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "kepoan",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-466",
+    "konteks_percakapan": "Weekend ini gue pengin halu tanpa agenda yang terlalu padat.",
+    "ragam_slang": "halu",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-467",
+    "konteks_percakapan": "Honestly, tempat ini punya halu yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "halu",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-468",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke halu, tapi belum tentu beli.",
+    "ragam_slang": "halu",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-469",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya halu.",
+    "ragam_slang": "halu",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-470",
+    "konteks_percakapan": "Hari ini gue cuma halu di rumah karena energi lagi low.",
+    "ragam_slang": "halu",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-471",
+    "konteks_percakapan": "Kalau sore begini, enaknya halu di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "halu",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-472",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang halu tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "halu",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-473",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya halu, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "halu",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-474",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat halu sebentar.",
+    "ragam_slang": "halu",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-475",
+    "konteks_percakapan": "Gue pengin halu dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "halu",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-476",
+    "konteks_percakapan": "Weekend ini gue pengin bucin tanpa agenda yang terlalu padat.",
+    "ragam_slang": "bucin",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-477",
+    "konteks_percakapan": "Honestly, tempat ini punya bucin yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "bucin",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-478",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke bucin, tapi belum tentu beli.",
+    "ragam_slang": "bucin",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-479",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya bucin.",
+    "ragam_slang": "bucin",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-480",
+    "konteks_percakapan": "Hari ini gue cuma bucin di rumah karena energi lagi low.",
+    "ragam_slang": "bucin",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-481",
+    "konteks_percakapan": "Kalau sore begini, enaknya bucin di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "bucin",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-482",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang bucin tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "bucin",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-483",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya bucin, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "bucin",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-484",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat bucin sebentar.",
+    "ragam_slang": "bucin",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-485",
+    "konteks_percakapan": "Gue pengin bucin dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "bucin",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-486",
+    "konteks_percakapan": "Weekend ini gue pengin salfok tanpa agenda yang terlalu padat.",
+    "ragam_slang": "salfok",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-487",
+    "konteks_percakapan": "Honestly, tempat ini punya salfok yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "salfok",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-488",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke salfok, tapi belum tentu beli.",
+    "ragam_slang": "salfok",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-489",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya salfok.",
+    "ragam_slang": "salfok",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-490",
+    "konteks_percakapan": "Hari ini gue cuma salfok di rumah karena energi lagi low.",
+    "ragam_slang": "salfok",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-491",
+    "konteks_percakapan": "Kalau sore begini, enaknya salfok di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "salfok",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-492",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang salfok tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "salfok",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-493",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya salfok, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "salfok",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-494",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat salfok sebentar.",
+    "ragam_slang": "salfok",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-495",
+    "konteks_percakapan": "Gue pengin salfok dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "salfok",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-496",
+    "konteks_percakapan": "Weekend ini gue pengin healing tanpa agenda yang terlalu padat.",
+    "ragam_slang": "healing",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-497",
+    "konteks_percakapan": "Honestly, tempat ini punya healing yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "healing",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-498",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke healing, tapi belum tentu beli.",
+    "ragam_slang": "healing",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-499",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya healing.",
+    "ragam_slang": "healing",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-500",
+    "konteks_percakapan": "Hari ini gue cuma healing di rumah karena energi lagi low.",
+    "ragam_slang": "healing",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-501",
+    "konteks_percakapan": "Kalau sore begini, enaknya healing di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "healing",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-502",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang healing tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "healing",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-503",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya healing, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "healing",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-504",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat healing sebentar.",
+    "ragam_slang": "healing",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-505",
+    "konteks_percakapan": "Gue pengin healing dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "healing",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-506",
+    "konteks_percakapan": "Weekend ini gue pengin self reward tanpa agenda yang terlalu padat.",
+    "ragam_slang": "self reward",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-507",
+    "konteks_percakapan": "Honestly, tempat ini punya self reward yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "self reward",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-508",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke self reward, tapi belum tentu beli.",
+    "ragam_slang": "self reward",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-509",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya self reward.",
+    "ragam_slang": "self reward",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-510",
+    "konteks_percakapan": "Hari ini gue cuma self reward di rumah karena energi lagi low.",
+    "ragam_slang": "self reward",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-511",
+    "konteks_percakapan": "Kalau sore begini, enaknya self reward di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "self reward",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-512",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang self reward tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "self reward",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-513",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya self reward, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "self reward",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-514",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat self reward sebentar.",
+    "ragam_slang": "self reward",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-515",
+    "konteks_percakapan": "Gue pengin self reward dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "self reward",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-516",
+    "konteks_percakapan": "Weekend ini gue pengin wishlist tanpa agenda yang terlalu padat.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-517",
+    "konteks_percakapan": "Honestly, tempat ini punya wishlist yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-518",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke wishlist, tapi belum tentu beli.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-519",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya wishlist.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-520",
+    "konteks_percakapan": "Hari ini gue cuma wishlist di rumah karena energi lagi low.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-521",
+    "konteks_percakapan": "Kalau sore begini, enaknya wishlist di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-522",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang wishlist tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-523",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya wishlist, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-524",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat wishlist sebentar.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-525",
+    "konteks_percakapan": "Gue pengin wishlist dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "wishlist",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-526",
+    "konteks_percakapan": "Weekend ini gue pengin worth it tanpa agenda yang terlalu padat.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-527",
+    "konteks_percakapan": "Honestly, tempat ini punya worth it yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-528",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke worth it, tapi belum tentu beli.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-529",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya worth it.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-530",
+    "konteks_percakapan": "Hari ini gue cuma worth it di rumah karena energi lagi low.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-531",
+    "konteks_percakapan": "Kalau sore begini, enaknya worth it di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-532",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang worth it tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-533",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya worth it, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-534",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat worth it sebentar.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-535",
+    "konteks_percakapan": "Gue pengin worth it dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "worth it",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-536",
+    "konteks_percakapan": "Weekend ini gue pengin vibes tanpa agenda yang terlalu padat.",
+    "ragam_slang": "vibes",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-537",
+    "konteks_percakapan": "Honestly, tempat ini punya vibes yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "vibes",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-538",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke vibes, tapi belum tentu beli.",
+    "ragam_slang": "vibes",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-539",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya vibes.",
+    "ragam_slang": "vibes",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-540",
+    "konteks_percakapan": "Hari ini gue cuma vibes di rumah karena energi lagi low.",
+    "ragam_slang": "vibes",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-541",
+    "konteks_percakapan": "Kalau sore begini, enaknya vibes di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "vibes",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-542",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang vibes tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "vibes",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-543",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya vibes, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "vibes",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-544",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat vibes sebentar.",
+    "ragam_slang": "vibes",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-545",
+    "konteks_percakapan": "Gue pengin vibes dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "vibes",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-546",
+    "konteks_percakapan": "Weekend ini gue pengin core tanpa agenda yang terlalu padat.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-547",
+    "konteks_percakapan": "Honestly, tempat ini punya core yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-548",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke core, tapi belum tentu beli.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-549",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya core.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-550",
+    "konteks_percakapan": "Hari ini gue cuma core di rumah karena energi lagi low.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-551",
+    "konteks_percakapan": "Kalau sore begini, enaknya core di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-552",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang core tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-553",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya core, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-554",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat core sebentar.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-555",
+    "konteks_percakapan": "Gue pengin core dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "core",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-556",
+    "konteks_percakapan": "Weekend ini gue pengin glow up tanpa agenda yang terlalu padat.",
+    "ragam_slang": "glow up",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-557",
+    "konteks_percakapan": "Honestly, tempat ini punya glow up yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "glow up",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-558",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke glow up, tapi belum tentu beli.",
+    "ragam_slang": "glow up",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-559",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya glow up.",
+    "ragam_slang": "glow up",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-560",
+    "konteks_percakapan": "Hari ini gue cuma glow up di rumah karena energi lagi low.",
+    "ragam_slang": "glow up",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-561",
+    "konteks_percakapan": "Kalau sore begini, enaknya glow up di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "glow up",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-562",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang glow up tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "glow up",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-563",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya glow up, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "glow up",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-564",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat glow up sebentar.",
+    "ragam_slang": "glow up",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-565",
+    "konteks_percakapan": "Gue pengin glow up dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "glow up",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-566",
+    "konteks_percakapan": "Weekend ini gue pengin main character tanpa agenda yang terlalu padat.",
+    "ragam_slang": "main character",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-567",
+    "konteks_percakapan": "Honestly, tempat ini punya main character yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "main character",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-568",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke main character, tapi belum tentu beli.",
+    "ragam_slang": "main character",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-569",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya main character.",
+    "ragam_slang": "main character",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-570",
+    "konteks_percakapan": "Hari ini gue cuma main character di rumah karena energi lagi low.",
+    "ragam_slang": "main character",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-571",
+    "konteks_percakapan": "Kalau sore begini, enaknya main character di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "main character",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-572",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang main character tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "main character",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-573",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya main character, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "main character",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-574",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat main character sebentar.",
+    "ragam_slang": "main character",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-575",
+    "konteks_percakapan": "Gue pengin main character dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "main character",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-576",
+    "konteks_percakapan": "Weekend ini gue pengin mager tanpa agenda yang terlalu padat.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-577",
+    "konteks_percakapan": "Honestly, tempat ini punya mager yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-578",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke mager, tapi belum tentu beli.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-579",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya mager.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-580",
+    "konteks_percakapan": "Hari ini gue cuma mager di rumah karena energi lagi low.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-581",
+    "konteks_percakapan": "Kalau sore begini, enaknya mager di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-582",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang mager tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-583",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya mager, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-584",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat mager sebentar.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-585",
+    "konteks_percakapan": "Gue pengin mager dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "mager",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-586",
+    "konteks_percakapan": "Weekend ini gue pengin gabut tanpa agenda yang terlalu padat.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-587",
+    "konteks_percakapan": "Honestly, tempat ini punya gabut yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-588",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke gabut, tapi belum tentu beli.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-589",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya gabut.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-590",
+    "konteks_percakapan": "Hari ini gue cuma gabut di rumah karena energi lagi low.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-591",
+    "konteks_percakapan": "Kalau sore begini, enaknya gabut di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-592",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang gabut tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-593",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya gabut, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-594",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat gabut sebentar.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-595",
+    "konteks_percakapan": "Gue pengin gabut dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "gabut",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-596",
+    "konteks_percakapan": "Weekend ini gue pengin nongki tanpa agenda yang terlalu padat.",
+    "ragam_slang": "nongki",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-597",
+    "konteks_percakapan": "Honestly, tempat ini punya nongki yang cocok banget buat ngobrol lama.",
+    "ragam_slang": "nongki",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-598",
+    "konteks_percakapan": "Lowkey, gue sudah masukin barang itu ke nongki, tapi belum tentu beli.",
+    "ragam_slang": "nongki",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-599",
+    "konteks_percakapan": "Setelah lihat hasil akhirnya, menurut gue semuanya nongki.",
+    "ragam_slang": "nongki",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-600",
+    "konteks_percakapan": "Hari ini gue cuma nongki di rumah karena energi lagi low.",
+    "ragam_slang": "nongki",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-601",
+    "konteks_percakapan": "Kalau sore begini, enaknya nongki di cafe yang nggak terlalu ramai sih.",
+    "ragam_slang": "nongki",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-602",
+    "konteks_percakapan": "Gue lagi cari aktivitas yang nongki tapi tetap worth it buat waktu gue.",
+    "ragam_slang": "nongki",
+    "sentimen_emosi": "Positif / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-603",
+    "konteks_percakapan": "Outfit dan tempatnya sama-sama punya nongki, jadi fotonya masuk banget kalau menurut gue.",
+    "ragam_slang": "nongki",
+    "sentimen_emosi": "Netral / Santai",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-604",
+    "konteks_percakapan": "Setelah sebulan hectic, gue butuh waktu buat nongki sebentar.",
+    "ragam_slang": "nongki",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-605",
+    "konteks_percakapan": "Gue pengin nongki dulu sebelum balik ke rutinitas Senin di kondisi sekarang.",
+    "ragam_slang": "nongki",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-606",
+    "konteks_percakapan": "Timeline gue langsung rame gara-gara satu video, sabi banget.",
+    "ragam_slang": "sabi",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-607",
+    "konteks_percakapan": "Honestly, gue sabi kalau semua orang di circle tiba-tiba bahas hal yang sama.",
+    "ragam_slang": "sabi",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-608",
+    "konteks_percakapan": "Lowkey, kalau server sudah normal, nanti kita sabi lagi malam ini.",
+    "ragam_slang": "sabi",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-609",
+    "konteks_percakapan": "Video itu masuk sabi tanpa gue sangka sama sekali.",
+    "ragam_slang": "sabi",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-610",
+    "konteks_percakapan": "Begitu lihat harganya, gue sabi cari opsi lain.",
+    "ragam_slang": "sabi",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-611",
+    "konteks_percakapan": "Kalau sudah jam segini, sabi kita mulai sekarang daripada molor sih.",
+    "ragam_slang": "sabi",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-612",
+    "konteks_percakapan": "Jujur caption-nya bikin gue sabi, tapi tetap gue baca sampai habis.",
+    "ragam_slang": "sabi",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-613",
+    "konteks_percakapan": "Komentarnya rame banget sampai gue cuma bisa bilang sabi kalau menurut gue.",
+    "ragam_slang": "sabi",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-614",
+    "konteks_percakapan": "Kalau hasilnya sebagus ini, sabi gue share ke group.",
+    "ragam_slang": "sabi",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-615",
+    "konteks_percakapan": "Gue sabi sama hasil akhirnya; effort-nya kelihatan banget di kondisi sekarang.",
+    "ragam_slang": "sabi",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-616",
+    "konteks_percakapan": "Timeline gue langsung rame gara-gara satu video, santuy banget.",
+    "ragam_slang": "santuy",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-617",
+    "konteks_percakapan": "Honestly, gue santuy kalau semua orang di circle tiba-tiba bahas hal yang sama.",
+    "ragam_slang": "santuy",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-618",
+    "konteks_percakapan": "Lowkey, kalau server sudah normal, nanti kita santuy lagi malam ini.",
+    "ragam_slang": "santuy",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-619",
+    "konteks_percakapan": "Video itu masuk santuy tanpa gue sangka sama sekali.",
+    "ragam_slang": "santuy",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-620",
+    "konteks_percakapan": "Begitu lihat harganya, gue santuy cari opsi lain.",
+    "ragam_slang": "santuy",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-621",
+    "konteks_percakapan": "Kalau sudah jam segini, santuy kita mulai sekarang daripada molor sih.",
+    "ragam_slang": "santuy",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-622",
+    "konteks_percakapan": "Jujur caption-nya bikin gue santuy, tapi tetap gue baca sampai habis.",
+    "ragam_slang": "santuy",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-623",
+    "konteks_percakapan": "Komentarnya rame banget sampai gue cuma bisa bilang santuy kalau menurut gue.",
+    "ragam_slang": "santuy",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-624",
+    "konteks_percakapan": "Kalau hasilnya sebagus ini, santuy gue share ke group.",
+    "ragam_slang": "santuy",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-625",
+    "konteks_percakapan": "Gue santuy sama hasil akhirnya; effort-nya kelihatan banget di kondisi sekarang.",
+    "ragam_slang": "santuy",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-626",
+    "konteks_percakapan": "Timeline gue langsung rame gara-gara satu video, gas banget.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-627",
+    "konteks_percakapan": "Honestly, gue gas kalau semua orang di circle tiba-tiba bahas hal yang sama.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-628",
+    "konteks_percakapan": "Lowkey, kalau server sudah normal, nanti kita gas lagi malam ini.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-629",
+    "konteks_percakapan": "Video itu masuk gas tanpa gue sangka sama sekali.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-630",
+    "konteks_percakapan": "Begitu lihat harganya, gue gas cari opsi lain.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-631",
+    "konteks_percakapan": "Kalau sudah jam segini, gas kita mulai sekarang daripada molor sih.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-632",
+    "konteks_percakapan": "Jujur caption-nya bikin gue gas, tapi tetap gue baca sampai habis.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-633",
+    "konteks_percakapan": "Komentarnya rame banget sampai gue cuma bisa bilang gas kalau menurut gue.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-634",
+    "konteks_percakapan": "Kalau hasilnya sebagus ini, gas gue share ke group.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-635",
+    "konteks_percakapan": "Gue gas sama hasil akhirnya; effort-nya kelihatan banget di kondisi sekarang.",
+    "ragam_slang": "gas",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-636",
+    "konteks_percakapan": "Timeline gue langsung rame gara-gara satu video, FOMO banget.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-637",
+    "konteks_percakapan": "Honestly, gue FOMO kalau semua orang di circle tiba-tiba bahas hal yang sama.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-638",
+    "konteks_percakapan": "Lowkey, kalau server sudah normal, nanti kita FOMO lagi malam ini.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-639",
+    "konteks_percakapan": "Video itu masuk FOMO tanpa gue sangka sama sekali.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-640",
+    "konteks_percakapan": "Begitu lihat harganya, gue FOMO cari opsi lain.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-641",
+    "konteks_percakapan": "Kalau sudah jam segini, FOMO kita mulai sekarang daripada molor sih.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-642",
+    "konteks_percakapan": "Jujur caption-nya bikin gue FOMO, tapi tetap gue baca sampai habis.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-643",
+    "konteks_percakapan": "Komentarnya rame banget sampai gue cuma bisa bilang FOMO kalau menurut gue.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-644",
+    "konteks_percakapan": "Kalau hasilnya sebagus ini, FOMO gue share ke group.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-645",
+    "konteks_percakapan": "Gue FOMO sama hasil akhirnya; effort-nya kelihatan banget di kondisi sekarang.",
+    "ragam_slang": "FOMO",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-646",
+    "konteks_percakapan": "Timeline gue langsung rame gara-gara satu video, YOLO banget.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-647",
+    "konteks_percakapan": "Honestly, gue YOLO kalau semua orang di circle tiba-tiba bahas hal yang sama.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-648",
+    "konteks_percakapan": "Lowkey, kalau server sudah normal, nanti kita YOLO lagi malam ini.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-649",
+    "konteks_percakapan": "Video itu masuk YOLO tanpa gue sangka sama sekali.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-650",
+    "konteks_percakapan": "Begitu lihat harganya, gue YOLO cari opsi lain.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-651",
+    "konteks_percakapan": "Kalau sudah jam segini, YOLO kita mulai sekarang daripada molor sih.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-652",
+    "konteks_percakapan": "Jujur caption-nya bikin gue YOLO, tapi tetap gue baca sampai habis.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-653",
+    "konteks_percakapan": "Komentarnya rame banget sampai gue cuma bisa bilang YOLO kalau menurut gue.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-654",
+    "konteks_percakapan": "Kalau hasilnya sebagus ini, YOLO gue share ke group.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-655",
+    "konteks_percakapan": "Gue YOLO sama hasil akhirnya; effort-nya kelihatan banget di kondisi sekarang.",
+    "ragam_slang": "YOLO",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-656",
+    "konteks_percakapan": "Timeline gue langsung rame gara-gara satu video, FYP banget.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-657",
+    "konteks_percakapan": "Honestly, gue FYP kalau semua orang di circle tiba-tiba bahas hal yang sama.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-658",
+    "konteks_percakapan": "Lowkey, kalau server sudah normal, nanti kita FYP lagi malam ini.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-659",
+    "konteks_percakapan": "Video itu masuk FYP tanpa gue sangka sama sekali.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-660",
+    "konteks_percakapan": "Begitu lihat harganya, gue FYP cari opsi lain.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-661",
+    "konteks_percakapan": "Kalau sudah jam segini, FYP kita mulai sekarang daripada molor sih.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-662",
+    "konteks_percakapan": "Jujur caption-nya bikin gue FYP, tapi tetap gue baca sampai habis.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-663",
+    "konteks_percakapan": "Komentarnya rame banget sampai gue cuma bisa bilang FYP kalau menurut gue.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-664",
+    "konteks_percakapan": "Kalau hasilnya sebagus ini, FYP gue share ke group.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-665",
+    "konteks_percakapan": "Gue FYP sama hasil akhirnya; effort-nya kelihatan banget di kondisi sekarang.",
+    "ragam_slang": "FYP",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-666",
+    "konteks_percakapan": "Timeline gue langsung rame gara-gara satu video, auto banget.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-667",
+    "konteks_percakapan": "Honestly, gue auto kalau semua orang di circle tiba-tiba bahas hal yang sama.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-668",
+    "konteks_percakapan": "Lowkey, kalau server sudah normal, nanti kita auto lagi malam ini.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-669",
+    "konteks_percakapan": "Video itu masuk auto tanpa gue sangka sama sekali.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-670",
+    "konteks_percakapan": "Begitu lihat harganya, gue auto cari opsi lain.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-671",
+    "konteks_percakapan": "Kalau sudah jam segini, auto kita mulai sekarang daripada molor sih.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-672",
+    "konteks_percakapan": "Jujur caption-nya bikin gue auto, tapi tetap gue baca sampai habis.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-673",
+    "konteks_percakapan": "Komentarnya rame banget sampai gue cuma bisa bilang auto kalau menurut gue.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-674",
+    "konteks_percakapan": "Kalau hasilnya sebagus ini, auto gue share ke group.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-675",
+    "konteks_percakapan": "Gue auto sama hasil akhirnya; effort-nya kelihatan banget di kondisi sekarang.",
+    "ragam_slang": "auto",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-676",
+    "konteks_percakapan": "Timeline gue langsung rame gara-gara satu video, gercep banget.",
+    "ragam_slang": "gercep",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-677",
+    "konteks_percakapan": "Honestly, gue gercep kalau semua orang di circle tiba-tiba bahas hal yang sama.",
+    "ragam_slang": "gercep",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-678",
+    "konteks_percakapan": "Lowkey, kalau server sudah normal, nanti kita gercep lagi malam ini.",
+    "ragam_slang": "gercep",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-679",
+    "konteks_percakapan": "Video itu masuk gercep tanpa gue sangka sama sekali.",
+    "ragam_slang": "gercep",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-680",
+    "konteks_percakapan": "Begitu lihat harganya, gue gercep cari opsi lain.",
+    "ragam_slang": "gercep",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-681",
+    "konteks_percakapan": "Kalau sudah jam segini, gercep kita mulai sekarang daripada molor sih.",
+    "ragam_slang": "gercep",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-682",
+    "konteks_percakapan": "Jujur caption-nya bikin gue gercep, tapi tetap gue baca sampai habis.",
+    "ragam_slang": "gercep",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-683",
+    "konteks_percakapan": "Komentarnya rame banget sampai gue cuma bisa bilang gercep kalau menurut gue.",
+    "ragam_slang": "gercep",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-684",
+    "konteks_percakapan": "Kalau hasilnya sebagus ini, gercep gue share ke group.",
+    "ragam_slang": "gercep",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-685",
+    "konteks_percakapan": "Gue gercep sama hasil akhirnya; effort-nya kelihatan banget di kondisi sekarang.",
+    "ragam_slang": "gercep",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-686",
+    "konteks_percakapan": "Timeline gue langsung rame gara-gara satu video, sat set banget.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-687",
+    "konteks_percakapan": "Honestly, gue sat set kalau semua orang di circle tiba-tiba bahas hal yang sama.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-688",
+    "konteks_percakapan": "Lowkey, kalau server sudah normal, nanti kita sat set lagi malam ini.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-689",
+    "konteks_percakapan": "Video itu masuk sat set tanpa gue sangka sama sekali.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-690",
+    "konteks_percakapan": "Begitu lihat harganya, gue sat set cari opsi lain.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-691",
+    "konteks_percakapan": "Kalau sudah jam segini, sat set kita mulai sekarang daripada molor sih.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-692",
+    "konteks_percakapan": "Jujur caption-nya bikin gue sat set, tapi tetap gue baca sampai habis.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-693",
+    "konteks_percakapan": "Komentarnya rame banget sampai gue cuma bisa bilang sat set kalau menurut gue.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-694",
+    "konteks_percakapan": "Kalau hasilnya sebagus ini, sat set gue share ke group.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-695",
+    "konteks_percakapan": "Gue sat set sama hasil akhirnya; effort-nya kelihatan banget di kondisi sekarang.",
+    "ragam_slang": "sat set",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-696",
+    "konteks_percakapan": "Timeline gue langsung rame gara-gara satu video, menyala abangkuh banget.",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-697",
+    "konteks_percakapan": "Honestly, gue menyala abangkuh kalau semua orang di circle tiba-tiba bahas hal yang sama.",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-698",
+    "konteks_percakapan": "Lowkey, kalau server sudah normal, nanti kita menyala abangkuh lagi malam ini.",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-699",
+    "konteks_percakapan": "Video itu masuk menyala abangkuh tanpa gue sangka sama sekali.",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-700",
+    "konteks_percakapan": "Begitu lihat harganya, gue menyala abangkuh cari opsi lain.",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  },
+  {
+    "id": "ID-NLP-701",
+    "konteks_percakapan": "Kalau sudah jam segini, menyala abangkuh kita mulai sekarang daripada molor sih.",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan"
+  },
+  {
+    "id": "ID-NLP-702",
+    "konteks_percakapan": "Jujur caption-nya bikin gue menyala abangkuh, tapi tetap gue baca sampai habis.",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "Positif / Antusias",
+    "lokasi_dominan": "Jakarta Selatan / Urban"
+  },
+  {
+    "id": "ID-NLP-703",
+    "konteks_percakapan": "Komentarnya rame banget sampai gue cuma bisa bilang menyala abangkuh kalau menurut gue.",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Jakarta Selatan / Profesional Muda"
+  },
+  {
+    "id": "ID-NLP-704",
+    "konteks_percakapan": "Kalau hasilnya sebagus ini, menyala abangkuh gue share ke group.",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Selatan / Media Sosial"
+  },
+  {
+    "id": "ID-NLP-705",
+    "konteks_percakapan": "Gue menyala abangkuh sama hasil akhirnya; effort-nya kelihatan banget di kondisi sekarang.",
+    "ragam_slang": "menyala abangkuh",
+    "sentimen_emosi": "FOMO",
+    "lokasi_dominan": "Jakarta Selatan / Komunitas Kreatif"
+  }
+]
