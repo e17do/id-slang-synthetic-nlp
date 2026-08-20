@@ -1,0 +1,31 @@
+name: Validate Dataset
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate-dataset:
+    name: Validate Indonesian Slang Dataset
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate JSON syntax
+        run: |
+          python -m json.tool dataset/dataset_slang_indonesia.json > /dev/null
+
+      - name: Run dataset validator
+        run: |
+          python validation/validator.py
