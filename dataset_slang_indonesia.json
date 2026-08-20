@@ -19154,3 +19154,708 @@
     "lokasi_dominan": "Jakarta Selatan / Media Sosial"
   }
 ]
+```json
+[
+  {
+    "id": "ID-NLP-3201",
+    "konteks_percakapan": "Harga turun sampai level yang gue tunggu, jadi gue mulai serok bawah pelan-pelan.",
+    "ragam_slang": "serok bawah",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bekasi"
+  },
+  {
+    "id": "ID-NLP-3202",
+    "konteks_percakapan": "Teman gue yakin koin itu bakal to the moon, padahal chart-nya masih naik turun.",
+    "ragam_slang": "to the moon",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Depok"
+  },
+  {
+    "id": "ID-NLP-3203",
+    "konteks_percakapan": "Komunitasnya mendadak sepi setelah likuiditas ditarik; banyak yang curiga proyeknya rugpull.",
+    "ragam_slang": "rugpull",
+    "sentimen_emosi": "Cemas",
+    "lokasi_dominan": "Sidoarjo"
+  },
+  {
+    "id": "ID-NLP-3204",
+    "konteks_percakapan": "Gue sekarang masuk kaum mendang-mending, beli kopi saja dibandingkan dulu sudah mulai dihitung lagi.",
+    "ragam_slang": "kaum mendang-mending",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Tangerang"
+  },
+  {
+    "id": "ID-NLP-3205",
+    "konteks_percakapan": "Sudah nunggu profit naik, eh biaya transaksi dan spread malah bikin posisi gue boncos.",
+    "ragam_slang": "boncos",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3206",
+    "konteks_percakapan": "Bulan ini orderan masuk terus sampai gue bilang cuan luber, tapi tetap harus disisihkan buat pajak.",
+    "ragam_slang": "cuan luber",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Gowa"
+  },
+  {
+    "id": "ID-NLP-3207",
+    "konteks_percakapan": "Untung ada dana kaget dari bonus freelance, jadi tagihan servis motor nggak terlalu bikin panik.",
+    "ragam_slang": "dana kaget",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bogor"
+  },
+  {
+    "id": "ID-NLP-3208",
+    "konteks_percakapan": "Dia berhenti pakai pinjol setelah sadar cicilan kecil yang numpuk ternyata berat juga tiap bulan.",
+    "ragam_slang": "pinjol",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-3209",
+    "konteks_percakapan": "Paylater memang praktis buat checkout, tapi gue cuma pakai kalau uang bulan depan sudah jelas.",
+    "ragam_slang": "paylater",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3210",
+    "konteks_percakapan": "Sebagai sandwich generation, dia harus bantu orang tua sambil tetap nyiapin kebutuhan rumah sendiri.",
+    "ragam_slang": "sandwich generation",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-3211",
+    "konteks_percakapan": "Sejak coba frugal living, dia lebih sering masak sendiri dan berhenti langganan aplikasi yang jarang dipakai.",
+    "ragam_slang": "frugal living",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Malang"
+  },
+  {
+    "id": "ID-NLP-3212",
+    "konteks_percakapan": "Target financial freedom gue bukan pensiun muda, cukup punya pilihan kerja tanpa takut saldo habis.",
+    "ragam_slang": "financial freedom",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3213",
+    "konteks_percakapan": "Baru tanggal lima tapi rasanya gaji numpang lewat karena semua tagihan jatuh tempo hampir bersamaan.",
+    "ragam_slang": "gaji numpang lewat",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Tangerang Selatan"
+  },
+  {
+    "id": "ID-NLP-3214",
+    "konteks_percakapan": "Teman kantor lagi bahas cashflow karena pemasukan bulan ini ternyata lebih lambat dari perkiraan.",
+    "ragam_slang": "cashflow",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3215",
+    "konteks_percakapan": "Gue sengaja bikin dana darurat terpisah supaya tabungan utama nggak gampang kepakai.",
+    "ragam_slang": "dana darurat",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bekasi"
+  },
+  {
+    "id": "ID-NLP-3216",
+    "konteks_percakapan": "Kalau setiap bonus langsung masuk lifestyle inflation, kenaikan gaji juga cepat terasa biasa.",
+    "ragam_slang": "lifestyle inflation",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Depok"
+  },
+  {
+    "id": "ID-NLP-3217",
+    "konteks_percakapan": "Gue lagi belajar bedain kebutuhan sama wants biar budget bulanan nggak bocor terus.",
+    "ragam_slang": "wants",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Sleman"
+  },
+  {
+    "id": "ID-NLP-3218",
+    "konteks_percakapan": "Begitu invoice cair, sebagian langsung gue parkir ke rekening tabungan sebelum dipakai buat nongkrong.",
+    "ragam_slang": "parkir dana",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Cimahi"
+  },
+  {
+    "id": "ID-NLP-3219",
+    "konteks_percakapan": "Teman gue bilang cash is king setelah beberapa kali kesulitan mencairkan aset pas lagi butuh.",
+    "ragam_slang": "cash is king",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Semarang"
+  },
+  {
+    "id": "ID-NLP-3220",
+    "konteks_percakapan": "Gue nggak mau all-in cuma karena influencer itu bilang asetnya bakal naik.",
+    "ragam_slang": "all-in",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-3221",
+    "konteks_percakapan": "Daripada kejar harga, dia pilih DCA setiap bulan dengan nominal yang sudah ditentukan.",
+    "ragam_slang": "DCA",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Palembang"
+  },
+  {
+    "id": "ID-NLP-3222",
+    "konteks_percakapan": "Pas pasar merah, timeline langsung penuh orang yang bilang buy the dip.",
+    "ragam_slang": "buy the dip",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Komunitas Crypto"
+  },
+  {
+    "id": "ID-NLP-3223",
+    "konteks_percakapan": "Gue cuma punya uang dingin sedikit, jadi nggak berani ikut setiap token baru.",
+    "ragam_slang": "uang dingin",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Pontianak"
+  },
+  {
+    "id": "ID-NLP-3224",
+    "konteks_percakapan": "Profitnya sudah lumayan, tapi dia tetap pasang stop loss supaya nggak kehilangan kendali.",
+    "ragam_slang": "stop loss",
+    "sentimen_emosi": "Disiplin",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3225",
+    "konteks_percakapan": "Dia baru sadar leverage tinggi bisa bikin posisi kecil berubah jadi kerugian besar dalam waktu singkat.",
+    "ragam_slang": "leverage",
+    "sentimen_emosi": "Cemas",
+    "lokasi_dominan": "Banjarmasin"
+  },
+  {
+    "id": "ID-NLP-3226",
+    "konteks_percakapan": "Kalau mau masuk saham itu, gue lebih nyaman nunggu pullback daripada ngejar candle hijau.",
+    "ragam_slang": "pullback",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Bandar Lampung"
+  },
+  {
+    "id": "ID-NLP-3227",
+    "konteks_percakapan": "Portfolio gue memang belum besar, tapi sekarang sudah mulai kelihatan pembagiannya.",
+    "ragam_slang": "portfolio",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Solo"
+  },
+  {
+    "id": "ID-NLP-3228",
+    "konteks_percakapan": "Gue lagi belajar diversifikasi karena nggak mau semua uang bergantung pada satu aset.",
+    "ragam_slang": "diversifikasi",
+    "sentimen_emosi": "Edukasi",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-3229",
+    "konteks_percakapan": "Begitu suku bunga berubah, yield obligasi langsung jadi bahan obrolan di grup investasi.",
+    "ragam_slang": "yield",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Surakarta"
+  },
+  {
+    "id": "ID-NLP-3230",
+    "konteks_percakapan": "Gue pilih instrumen yang likuid karena mungkin saja uangnya diperlukan mendadak.",
+    "ragam_slang": "likuid",
+    "sentimen_emosi": "Hati-hati",
+    "lokasi_dominan": "Depok"
+  },
+  {
+    "id": "ID-NLP-3231",
+    "konteks_percakapan": "Teman gue lagi ngitung compounding sambil bilang efeknya baru terasa kalau konsisten bertahun-tahun.",
+    "ragam_slang": "compounding",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3232",
+    "konteks_percakapan": "Dia mulai budgeting pakai metode sederhana supaya tahu uang paling banyak lari ke mana.",
+    "ragam_slang": "budgeting",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Sidoarjo"
+  },
+  {
+    "id": "ID-NLP-3233",
+    "konteks_percakapan": "Setiap gajian, gue langsung bikin sinking fund buat servis kendaraan dan kebutuhan tahunan.",
+    "ragam_slang": "sinking fund",
+    "sentimen_emosi": "Disiplin",
+    "lokasi_dominan": "Tangerang"
+  },
+  {
+    "id": "ID-NLP-3234",
+    "konteks_percakapan": "Gue mulai tracking expense karena ternyata kopi kecil-kecil itu kalau dikumpulin lumayan juga.",
+    "ragam_slang": "expense tracking",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bogor"
+  },
+  {
+    "id": "ID-NLP-3235",
+    "konteks_percakapan": "Bulan ini gue lagi fokus cash stuffing supaya uang untuk kebutuhan tertentu nggak kecampur.",
+    "ragam_slang": "cash stuffing",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bekasi"
+  },
+  {
+    "id": "ID-NLP-3236",
+    "konteks_percakapan": "Setelah hitung ulang, ternyata no spend challenge seminggu cukup membantu saldo bertahan.",
+    "ragam_slang": "no spend challenge",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Tangerang Selatan"
+  },
+  {
+    "id": "ID-NLP-3237",
+    "konteks_percakapan": "Teman gue lagi decluttering sambil jual barang yang sudah bertahun-tahun cuma memenuhi lemari.",
+    "ragam_slang": "decluttering",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3238",
+    "konteks_percakapan": "Gue pilih mindful spending daripada tiap lihat diskon langsung masuk keranjang.",
+    "ragam_slang": "mindful spending",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Malang"
+  },
+  {
+    "id": "ID-NLP-3239",
+    "konteks_percakapan": "Promo cashback memang menarik, tapi gue tetap lihat harga akhirnya setelah semua biaya.",
+    "ragam_slang": "cashback",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-3240",
+    "konteks_percakapan": "Gue pindah ke bank digital karena fitur budgeting dan notifikasinya lebih gampang dipantau.",
+    "ragam_slang": "bank digital",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-3241",
+    "konteks_percakapan": "QRIS bikin gue jarang bawa uang cash kalau cuma keluar sebentar.",
+    "ragam_slang": "QRIS",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-3242",
+    "konteks_percakapan": "Pedagang dekat rumah sekarang sudah QRIS semua, jadi bayar sarapan makin praktis.",
+    "ragam_slang": "cashless",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Gowa"
+  },
+  {
+    "id": "ID-NLP-3243",
+    "konteks_percakapan": "Gue sempat panik karena transfer pending, ternyata sistemnya memang sedang maintenance.",
+    "ragam_slang": "transfer pending",
+    "sentimen_emosi": "Cemas",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3244",
+    "konteks_percakapan": "Saldo e-wallet gue selalu gue top up secukupnya supaya nggak gampang impulsif belanja.",
+    "ragam_slang": "top up",
+    "sentimen_emosi": "Disiplin",
+    "lokasi_dominan": "Depok"
+  },
+  {
+    "id": "ID-NLP-3245",
+    "konteks_percakapan": "Ada biaya admin kecil yang baru kelihatan setelah transaksi selesai, lumayan bikin sebel.",
+    "ragam_slang": "biaya admin",
+    "sentimen_emosi": "Kesal",
+    "lokasi_dominan": "Samarinda"
+  },
+  {
+    "id": "ID-NLP-3246",
+    "konteks_percakapan": "Gue cek mutasi rekening tiap beberapa hari supaya transaksi aneh bisa cepat ketahuan.",
+    "ragam_slang": "mutasi rekening",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Palembang"
+  },
+  {
+    "id": "ID-NLP-3247",
+    "konteks_percakapan": "Teman gue pakai auto debit buat tagihan rutin karena sering lupa tanggal jatuh tempo.",
+    "ragam_slang": "auto debit",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Tangerang"
+  },
+  {
+    "id": "ID-NLP-3248",
+    "konteks_percakapan": "Pas saldo nggak cukup, transaksi langsung gagal dan gue baru sadar auto debit-nya aktif.",
+    "ragam_slang": "auto debit",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Bekasi"
+  },
+  {
+    "id": "ID-NLP-3249",
+    "konteks_percakapan": "Gue lagi nunggu refund marketplace masuk sebelum mutusin belanja barang pengganti.",
+    "ragam_slang": "refund",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Sidoarjo"
+  },
+  {
+    "id": "ID-NLP-3250",
+    "konteks_percakapan": "Chargeback jadi opsi terakhir setelah transaksi kartu gue ternyata bukan dilakukan sendiri.",
+    "ragam_slang": "chargeback",
+    "sentimen_emosi": "Cemas",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3251",
+    "konteks_percakapan": "Gue selalu cek OTP sebelum lanjut, apalagi kalau transaksinya muncul dari perangkat baru.",
+    "ragam_slang": "OTP",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Banjarmasin"
+  },
+  {
+    "id": "ID-NLP-3252",
+    "konteks_percakapan": "Notifikasi transaksi masuk beberapa detik setelah bayar, jadi lebih gampang ngecek nominalnya.",
+    "ragam_slang": "notifikasi transaksi",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Pontianak"
+  },
+  {
+    "id": "ID-NLP-3253",
+    "konteks_percakapan": "Gue sempat salah input nominal, untung sebelum konfirmasi masih bisa dibatalkan.",
+    "ragam_slang": "salah input",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3254",
+    "konteks_percakapan": "Teman gue suka bilang saldo ngendap sebagai uang yang lagi parkir dan nggak disentuh.",
+    "ragam_slang": "saldo ngendap",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Solo"
+  },
+  {
+    "id": "ID-NLP-3255",
+    "konteks_percakapan": "Kalau sudah masuk tanggal tua, gue lebih sering buka aplikasi catatan daripada aplikasi belanja.",
+    "ragam_slang": "tanggal tua",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-3256",
+    "konteks_percakapan": "Gajian baru masuk kemarin, hari ini cicilan dan tagihan sudah antre semua.",
+    "ragam_slang": "tanggal muda",
+    "sentimen_emosi": "Frustrasi",
+    "lokasi_dominan": "Tangerang Selatan"
+  },
+  {
+    "id": "ID-NLP-3257",
+    "konteks_percakapan": "Gue sengaja bikin rekening khusus operasional supaya uang bisnis nggak campur sama uang pribadi.",
+    "ragam_slang": "uang usaha",
+    "sentimen_emosi": "Disiplin",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-3258",
+    "konteks_percakapan": "Omzet kelihatan besar, tapi setelah biaya dipotong ternyata margin-nya tipis.",
+    "ragam_slang": "margin tipis",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Sidoarjo"
+  },
+  {
+    "id": "ID-NLP-3259",
+    "konteks_percakapan": "Begitu repeat order naik, cashflow usaha kecil itu mulai terasa lebih sehat.",
+    "ragam_slang": "repeat order",
+    "sentimen_emosi": "Optimistis",
+    "lokasi_dominan": "Gowa"
+  },
+  {
+    "id": "ID-NLP-3260",
+    "konteks_percakapan": "Gue lagi cari side hustle yang nggak mengganggu pekerjaan utama.",
+    "ragam_slang": "side hustle",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bekasi"
+  },
+  {
+    "id": "ID-NLP-3261",
+    "konteks_percakapan": "Freelance bulan ini lumayan, jadi gue bisa nambah pos tabungan tanpa menyentuh gaji utama.",
+    "ragam_slang": "freelance",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Depok"
+  },
+  {
+    "id": "ID-NLP-3262",
+    "konteks_percakapan": "Fee project ternyata kepotong platform, jadi angka bersih yang masuk nggak sebesar estimasi awal.",
+    "ragam_slang": "fee platform",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Cimahi"
+  },
+  {
+    "id": "ID-NLP-3263",
+    "konteks_percakapan": "Gue mulai bikin invoice lebih rapi supaya pembayaran client nggak sering kelewat.",
+    "ragam_slang": "invoice",
+    "sentimen_emosi": "Profesional",
+    "lokasi_dominan": "Jakarta Pusat"
+  },
+  {
+    "id": "ID-NLP-3264",
+    "konteks_percakapan": "Client belum bayar invoice kedua, jadi gue harus lebih ketat ngatur cash reserve.",
+    "ragam_slang": "cash reserve",
+    "sentimen_emosi": "Cemas",
+    "lokasi_dominan": "Malang"
+  },
+  {
+    "id": "ID-NLP-3265",
+    "konteks_percakapan": "Teman gue nego rate bukan karena pelit, tapi memang tahu value kerjaannya.",
+    "ragam_slang": "nego rate",
+    "sentimen_emosi": "Percaya diri",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3266",
+    "konteks_percakapan": "Kalau workload naik tapi rate tetap, menurut gue waktunya renegotiate.",
+    "ragam_slang": "renegotiate",
+    "sentimen_emosi": "Tegas",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-3267",
+    "konteks_percakapan": "Bonus tahunan gue nggak langsung dibelanjakan; sebagian masuk investasi jangka panjang.",
+    "ragam_slang": "investasi jangka panjang",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Tangerang"
+  },
+  {
+    "id": "ID-NLP-3268",
+    "konteks_percakapan": "Gue lebih tenang setelah tahu net worth sendiri, bukan cuma hafal angka gaji bulanan.",
+    "ragam_slang": "net worth",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3269",
+    "konteks_percakapan": "Target tabungan gue akhirnya tercapai setelah beberapa bulan konsisten nabung di awal gajian.",
+    "ragam_slang": "pay yourself first",
+    "sentimen_emosi": "Bangga",
+    "lokasi_dominan": "Bekasi"
+  },
+  {
+    "id": "ID-NLP-3270",
+    "konteks_percakapan": "Teman gue bilang budgeting itu bukan bikin hidup sengsara, cuma menentukan uang mau dipakai ke mana.",
+    "ragam_slang": "budgeting",
+    "sentimen_emosi": "Edukasi",
+    "lokasi_dominan": "Depok"
+  },
+  {
+    "id": "ID-NLP-3271",
+    "konteks_percakapan": "Setelah lihat tagihan, gue langsung sadar subscription kecil ternyata totalnya lumayan.",
+    "ragam_slang": "subscription",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Sidoarjo"
+  },
+  {
+    "id": "ID-NLP-3272",
+    "konteks_percakapan": "Gue cancel beberapa subscription yang sudah berbulan-bulan nggak pernah dibuka.",
+    "ragam_slang": "cancel subscription",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Tangerang Selatan"
+  },
+  {
+    "id": "ID-NLP-3273",
+    "konteks_percakapan": "Kalau promo cuma bikin gue membeli barang yang nggak diperlukan, diskonnya tetap bukan penghematan.",
+    "ragam_slang": "diskon semu",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Bogor"
+  },
+  {
+    "id": "ID-NLP-3274",
+    "konteks_percakapan": "Gue sekarang lebih sering bandingin harga per unit daripada terpaku sama persentase diskon.",
+    "ragam_slang": "harga per unit",
+    "sentimen_emosi": "Rasional",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-3275",
+    "konteks_percakapan": "Teman gue sampai bikin spreadsheet buat ngecek pengeluaran makan selama sebulan.",
+    "ragam_slang": "expense sheet",
+    "sentimen_emosi": "Humor",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-3276",
+    "konteks_percakapan": "Begitu harga bensin naik, budget transport langsung harus disesuaikan lagi.",
+    "ragam_slang": "budget transport",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Palembang"
+  },
+  {
+    "id": "ID-NLP-3277",
+    "konteks_percakapan": "Gue mulai bawa bekal karena makan siang dekat kantor makin sering lewat budget.",
+    "ragam_slang": "lewat budget",
+    "sentimen_emosi": "Praktis",
+    "lokasi_dominan": "Tangerang"
+  },
+  {
+    "id": "ID-NLP-3278",
+    "konteks_percakapan": "Teman gue sudah punya target saving rate sendiri dan selalu ngecek setiap akhir bulan.",
+    "ragam_slang": "saving rate",
+    "sentimen_emosi": "Disiplin",
+    "lokasi_dominan": "Surabaya"
+  },
+  {
+    "id": "ID-NLP-3279",
+    "konteks_percakapan": "Kalau income naik tapi saving rate tetap, berarti gaya hidup ikut naik juga.",
+    "ragam_slang": "saving rate",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Yogyakarta"
+  },
+  {
+    "id": "ID-NLP-3280",
+    "konteks_percakapan": "Gue lagi ngejar emergency fund enam bulan supaya lebih aman kalau tiba-tiba kehilangan pemasukan.",
+    "ragam_slang": "emergency fund",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Bekasi"
+  },
+  {
+    "id": "ID-NLP-3281",
+    "konteks_percakapan": "Setelah cicilan lunas, dia bilang cashflow bulanannya langsung terasa lebih lega.",
+    "ragam_slang": "cashflow lega",
+    "sentimen_emosi": "Lega",
+    "lokasi_dominan": "Sidoarjo"
+  },
+  {
+    "id": "ID-NLP-3282",
+    "konteks_percakapan": "Gue nggak mau ngejar return tinggi kalau risikonya bikin tidur nggak tenang.",
+    "ragam_slang": "return tinggi",
+    "sentimen_emosi": "Hati-hati",
+    "lokasi_dominan": "Bandung"
+  },
+  {
+    "id": "ID-NLP-3283",
+    "konteks_percakapan": "Dia masih muda tapi sudah mulai mikirin risk profile sebelum pilih investasi.",
+    "ragam_slang": "risk profile",
+    "sentimen_emosi": "Positif",
+    "lokasi_dominan": "Depok"
+  },
+  {
+    "id": "ID-NLP-3284",
+    "konteks_percakapan": "Teman gue nggak tertarik FOMO investasi karena lebih nyaman ngerti produknya dulu.",
+    "ragam_slang": "FOMO investasi",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-3285",
+    "konteks_percakapan": "Begitu influencer mulai flexing profit, kolom komentar langsung penuh ajakan ikut beli.",
+    "ragam_slang": "flexing profit",
+    "sentimen_emosi": "Skeptis",
+    "lokasi_dominan": "Komunitas Crypto"
+  },
+  {
+    "id": "ID-NLP-3286",
+    "konteks_percakapan": "Gue selalu cek fundamental sebelum ikut narasi saham yang lagi ramai.",
+    "ragam_slang": "fundamental",
+    "sentimen_emosi": "Rasional",
+    "lokasi_dominan": "Semarang"
+  },
+  {
+    "id": "ID-NLP-3287",
+    "konteks_percakapan": "Narasi AI lagi panas, tapi gue tetap lihat revenue perusahaan sebelum ambil keputusan.",
+    "ragam_slang": "narasi",
+    "sentimen_emosi": "Rasional",
+    "lokasi_dominan": "Jakarta Timur"
+  },
+  {
+    "id": "ID-NLP-3288",
+    "konteks_percakapan": "Harga tokennya naik cepat setelah listing, lalu beberapa jam kemudian langsung retrace.",
+    "ragam_slang": "listing",
+    "sentimen_emosi": "Terkejut",
+    "lokasi_dominan": "Komunitas Crypto"
+  },
+  {
+    "id": "ID-NLP-3289",
+    "konteks_percakapan": "Dia berhasil ambil profit sebelum harga balik arah, jadi kali ini exit-nya cukup rapi.",
+    "ragam_slang": "exit",
+    "sentimen_emosi": "Puas",
+    "lokasi_dominan": "Makassar"
+  },
+  {
+    "id": "ID-NLP-3290",
+    "konteks_percakapan": "Gue nggak masalah ambil profit kecil asal posisi tetap sesuai rencana.",
+    "ragam_slang": "take profit",
+    "sentimen_emosi": "Disiplin",
+    "lokasi_dominan": "Malang"
+  },
+  {
+    "id": "ID-NLP-3291",
+    "konteks_percakapan": "Teman gue kena floating loss cukup dalam dan akhirnya belajar soal manajemen risiko.",
+    "ragam_slang": "floating loss",
+    "sentimen_emosi": "Kecewa",
+    "lokasi_dominan": "Binjai"
+  },
+  {
+    "id": "ID-NLP-3292",
+    "konteks_percakapan": "Floating profit jangan langsung dianggap uang belanja sebelum benar-benar direalisasikan.",
+    "ragam_slang": "floating profit",
+    "sentimen_emosi": "Edukasi",
+    "lokasi_dominan": "Pontianak"
+  },
+  {
+    "id": "ID-NLP-3293",
+    "konteks_percakapan": "Dia bilang portfolio merah bukan berarti semuanya gagal, selama horizon investasinya masih panjang.",
+    "ragam_slang": "portfolio merah",
+    "sentimen_emosi": "Menenangkan",
+    "lokasi_dominan": "Tangerang"
+  },
+  {
+    "id": "ID-NLP-3294",
+    "konteks_percakapan": "Pas pasar hijau, grup investasi mendadak jauh lebih ramai daripada biasanya.",
+    "ragam_slang": "pasar hijau",
+    "sentimen_emosi": "Antusias",
+    "lokasi_dominan": "Bekasi"
+  },
+  {
+    "id": "ID-NLP-3295",
+    "konteks_percakapan": "Gue justru belajar paling banyak ketika pasar merah dan semua orang mulai panik.",
+    "ragam_slang": "pasar merah",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Depok"
+  },
+  {
+    "id": "ID-NLP-3296",
+    "konteks_percakapan": "Kalau volume tiba-tiba meledak, gue biasanya cek berita dulu sebelum ikut gerakan harga.",
+    "ragam_slang": "volume meledak",
+    "sentimen_emosi": "Waspada",
+    "lokasi_dominan": "Sidoarjo"
+  },
+  {
+    "id": "ID-NLP-3297",
+    "konteks_percakapan": "Order book-nya kelihatan tebal, tapi gue tetap nggak mau asal masuk.",
+    "ragam_slang": "order book",
+    "sentimen_emosi": "Hati-hati",
+    "lokasi_dominan": "Medan"
+  },
+  {
+    "id": "ID-NLP-3298",
+    "konteks_percakapan": "Spread-nya terlalu lebar buat nominal kecil, jadi gue pilih tunggu kondisi lebih tenang.",
+    "ragam_slang": "spread lebar",
+    "sentimen_emosi": "Netral",
+    "lokasi_dominan": "Balikpapan"
+  },
+  {
+    "id": "ID-NLP-3299",
+    "konteks_percakapan": "Gue baru sadar fee trading bisa lumayan kalau terlalu sering buka-tutup posisi.",
+    "ragam_slang": "fee trading",
+    "sentimen_emosi": "Reflektif",
+    "lokasi_dominan": "Batam"
+  },
+  {
+    "id": "ID-NLP-3300",
+    "konteks_percakapan": "Teman gue lebih suka hold daripada tiap hari mantengin candle sampai kurang tidur.",
+    "ragam_slang": "hold",
+    "sentimen_emosi": "Santai",
+    "lokasi_dominan": "Yogyakarta"
+  }
+]
+```
+
