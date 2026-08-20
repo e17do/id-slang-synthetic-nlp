@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "title": "Indonesian Slang Dataset External Annotation Schema",
+  "description": "External annotation schema for enriching dataset records without modifying the core five-field dataset structure.",
+  "record_reference": {
+    "field": "id",
+    "description": "References the corresponding record in dataset/dataset_slang_indonesia.json."
+  },
+  "annotation_fields": {
+    "regional_cluster": {
+      "type": "string",
+      "description": "Regional linguistic-style cluster.",
+      "reference": "../linguistic_clusters/regional_clusters.json"
+    },
+    "domain": {
+      "type": "string",
+      "description": "Primary contextual domain of the utterance.",
+      "reference": "../linguistic_taxonomy/taxonomy.json"
+    },
+    "generation": {
+      "type": "string",
+      "description": "Estimated generational language-style category.",
+      "reference": "../linguistic_taxonomy/taxonomy.json"
+    },
+    "register": {
+      "type": "string",
+      "description": "Communication register or stylistic category.",
+      "reference": "../linguistic_taxonomy/taxonomy.json"
+    },
+    "code_switching": {
+      "type": "string",
+      "description": "Language-switching pattern.",
+      "reference": "../linguistic_taxonomy/taxonomy.json"
+    }
+  },
+  "annotation_principles": [
+    "Annotations describe linguistic characteristics of synthetic records and must not be interpreted as verified demographic identity.",
+    "Regional classification represents simulated linguistic style rather than confirmed speaker origin.",
+    "One dataset record must have at most one primary value for each annotation dimension.",
+    "Annotation identifiers must reference valid identifiers defined in the corresponding taxonomy files.",
+    "The external annotation layer must not modify the original five-field dataset schema.",
+    "Synthetic records must not contain real-world personally identifiable information."
+  ],
+  "validation_requirements": [
+    "Every annotation record must reference an existing dataset ID.",
+    "Dataset IDs must be unique within the annotation file.",
+    "Regional cluster identifiers must exist in regional_clusters.json.",
+    "Domain identifiers must exist in taxonomy.json.",
+    "Generation identifiers must exist in taxonomy.json.",
+    "Register identifiers must exist in taxonomy.json.",
+    "Code-switching identifiers must exist in taxonomy.json."
+  ]
+}
