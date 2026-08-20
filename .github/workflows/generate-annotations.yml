@@ -1,0 +1,53 @@
+name: Generate Dataset Annotations
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "dataset/dataset_slang_indonesia.json"
+      - "annotations/annotation_schema.json"
+      - "annotations/generate_annotations.py"
+      - "linguistic_clusters/regional_clusters.json"
+      - "linguistic_taxonomy/taxonomy.json"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-annotations:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate annotations
+        run: |
+          python annotations/generate_annotations.py
+
+      - name: Validate generated annotations
+        run: |
+          python -m json.tool annotations/record_annotations.json > /dev/null
+
+      - name: Check generated file
+        run: |
+          test -s annotations/record_annotations.json
+
+      - name: Commit generated annotations
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add annotations/record_annotations.json
+
+          if git diff --cached --quiet; then
+            echo "No annotation changes detected."
+          else
+            git commit -m "chore: update dataset annotations"
+            git push
+          fi
