@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/e17do/id-slang-synthetic-nlp/blob/main/schema/dataset_schema.json",
+  "title": "id-slang-synthetic-nlp Dataset Schema",
+  "description": "Strict schema for the Indonesian Casual Language & Slang Synthetic Dataset.",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "konteks_percakapan",
+      "ragam_slang",
+      "sentimen_emosi",
+      "lokasi_dominan"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^ID-NLP-[0-9]{3,6}$",
+        "description": "Unique sequential dataset identifier."
+      },
+      "konteks_percakapan": {
+        "type": "string",
+        "minLength": 3,
+        "description": "Natural synthetic Indonesian casual conversation or sentence."
+      },
+      "ragam_slang": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Slang word, phrase, internet expression, regional expression, or informal linguistic feature."
+      },
+      "sentimen_emosi": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Sentiment or emotional label associated with the conversational context."
+      },
+      "lokasi_dominan": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Dominant geographic, demographic, community, or linguistic context."
+      }
+    }
+  }
+}
