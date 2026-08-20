@@ -10,6 +10,7 @@ from collections import Counter
 # ============================================================
 
 DATASET_PATH = Path("dataset/dataset_slang_indonesia.json")
+REPORT_PATH = Path("reports/dataset_quality_report.json")
 
 REQUIRED_FIELDS = {
     "id",
@@ -23,7 +24,6 @@ ID_PATTERN = re.compile(r"^ID-NLP-(\d{3,6})$")
 
 
 def normalize_text(text):
-    """Normalize text for duplicate / near-duplicate detection."""
     text = text.lower().strip()
     text = re.sub(r"\s+", " ", text)
     text = re.sub(r"[^\w\s]", "", text)
@@ -31,28 +31,10 @@ def normalize_text(text):
 
 
 def tokenize(text):
-    """Simple whitespace tokenizer."""
     return normalize_text(text).split()
 
 
-def similarity_score(a, b):
-    """
-    Jaccard similarity based on word sets.
-    Used as a lightweight near-duplicate detector.
-    """
-    a_tokens = set(tokenize(a))
-    b_tokens = set(tokenize(b))
-
-    if not a_tokens or not b_tokens:
-        return 0.0
-
-    intersection = len(a_tokens & b_tokens)
-    union = len(a_tokens | b_tokens)
-
-    return intersection / union
-
-
-def validate_json_structure(data):
+def validate_structure(data):
     errors = []
 
     if not isinstance(data, list):
@@ -79,31 +61,36 @@ def validate_json_structure(data):
 
         if extra:
             errors.append(
-                f"Record #{index}: field tambahan tidak diizinkan: {sorted(extra)}"
+                f"Record #{index}: field tambahan: {sorted(extra)}"
             )
 
         for field in REQUIRED_FIELDS:
+
             if field not in record:
                 continue
 
-            if not isinstance(record[field], str):
+            value = record[field]
+
+            if not isinstance(value, str):
                 errors.append(
-                    f"Record #{index}: '{field}' harus berupa string."
+                    f"Record #{index}: '{field}' harus string."
                 )
 
-            elif not record[field].strip():
+            elif not value.strip():
                 errors.append(
-                    f"Record #{index}: '{field}' tidak boleh kosong."
+                    f"Record #{index}: '{field}' kosong."
                 )
 
     return errors
 
 
 def validate_ids(data):
+
     errors = []
     ids = []
 
     for index, record in enumerate(data, start=1):
+
         record_id = record.get("id")
 
         if not isinstance(record_id, str):
@@ -119,113 +106,100 @@ def validate_ids(data):
 
         ids.append(int(match.group(1)))
 
-    # Duplicate ID
-    counts = Counter(ids)
+    counter = Counter(ids)
 
-    duplicates = [
-        value for value, count in counts.items()
+    duplicate_ids = sorted(
+        value
+        for value, count in counter.items()
         if count > 1
-    ]
+    )
 
-    if duplicates:
+    if duplicate_ids:
         errors.append(
-            f"Duplicate ID ditemukan: {duplicates[:20]}"
+            f"Duplicate ID ditemukan: {duplicate_ids[:20]}"
         )
 
-    # Sequential ID
-    if ids:
-        expected = list(range(ids[0], ids[0] + len(ids)))
+    sequence_errors = []
 
-        if ids != expected:
-            for position, (actual, wanted) in enumerate(
-                zip(ids, expected),
-                start=1
-            ):
-                if actual != wanted:
-                    errors.append(
-                        f"ID tidak berurutan pada posisi #{position}: "
-                        f"ditemukan ID-NLP-{actual:03d}, "
-                        f"seharusnya ID-NLP-{wanted:03d}"
-                    )
+    if ids:
+
+        for position, actual in enumerate(ids):
+
+            expected = ids[0] + position
+
+            if actual != expected:
+                sequence_errors.append({
+                    "position": position + 1,
+                    "expected": expected,
+                    "actual": actual
+                })
+
+                if len(sequence_errors) >= 20:
                     break
 
-    return errors
+    if sequence_errors:
+        errors.append(
+            "ID tidak berurutan."
+        )
+
+    return errors, ids, duplicate_ids, sequence_errors
 
 
-def validate_exact_duplicates(data):
-    errors = []
+def duplicate_contexts(data):
 
-    fields_to_check = [
-        "konteks_percakapan",
-    ]
+    mapping = {}
 
-    for field in fields_to_check:
-
-        normalized_values = {}
-
-        for index, record in enumerate(data, start=1):
-            value = record.get(field)
-
-            if not isinstance(value, str):
-                continue
-
-            normalized = normalize_text(value)
-
-            if normalized in normalized_values:
-                errors.append(
-                    f"Duplicate {field}: "
-                    f"record #{normalized_values[normalized]} "
-                    f"dan #{index}"
-                )
-            else:
-                normalized_values[normalized] = index
-
-    return errors
-
-
-def detect_near_duplicates(data, threshold=0.85, max_reports=100):
-    warnings = []
-
-    texts = []
+    duplicates = []
 
     for index, record in enumerate(data, start=1):
+
         text = record.get("konteks_percakapan")
 
-        if isinstance(text, str):
-            texts.append((index, text))
+        if not isinstance(text, str):
+            continue
 
-    # Lightweight O(n²) comparison.
-    # Suitable for moderate datasets.
-    # For very large datasets this should later be replaced
-    # with MinHash / locality-sensitive hashing.
-    for i in range(len(texts)):
-        index_a, text_a = texts[i]
+        normalized = normalize_text(text)
 
-        for j in range(i + 1, len(texts)):
-            index_b, text_b = texts[j]
+        if normalized in mapping:
 
-            score = similarity_score(text_a, text_b)
+            duplicates.append({
+                "record_1": mapping[normalized],
+                "record_2": index,
+                "context": text
+            })
 
-            if score >= threshold:
+        else:
+            mapping[normalized] = index
 
-                warnings.append(
-                    f"Near-duplicate kandidat: "
-                    f"record #{index_a} dan #{index_b} "
-                    f"(similarity={score:.2f})"
-                )
-
-                if len(warnings) >= max_reports:
-                    return warnings
-
-    return warnings
+    return duplicates
 
 
-def detect_repeated_templates(data):
-    warnings = []
+def distribution(data, field):
 
-    first_patterns = Counter()
+    counter = Counter()
 
     for record in data:
+
+        value = record.get(field)
+
+        if isinstance(value, str):
+            counter[value] += 1
+
+    return dict(
+        sorted(
+            counter.items(),
+            key=lambda item: item[1],
+            reverse=True
+        )
+    )
+
+
+def repeated_openings(data):
+
+    counter = Counter()
+
+    for record in data:
+
         text = record.get("konteks_percakapan")
 
         if not isinstance(text, str):
@@ -234,61 +208,121 @@ def detect_repeated_templates(data):
         tokens = tokenize(text)
 
         if len(tokens) >= 5:
-            pattern = " ".join(tokens[:5])
-            first_patterns[pattern] += 1
 
-    repeated = [
-        (pattern, count)
-        for pattern, count in first_patterns.items()
-        if count >= 5
-    ]
+            opening = " ".join(tokens[:5])
 
-    for pattern, count in sorted(
-        repeated,
-        key=lambda x: x[1],
-        reverse=True
-    ):
-        warnings.append(
-            f"Template pembuka berulang {count}x: '{pattern} ...'"
-        )
-
-    return warnings
-
-
-def generate_statistics(data):
-    sentiment_counter = Counter()
-    location_counter = Counter()
-    slang_counter = Counter()
-
-    for record in data:
-        sentiment_counter[
-            record.get("sentimen_emosi", "")
-        ] += 1
-
-        location_counter[
-            record.get("lokasi_dominan", "")
-        ] += 1
-
-        slang_counter[
-            record.get("ragam_slang", "")
-        ] += 1
+            counter[opening] += 1
 
     return {
-        "total_records": len(data),
-        "unique_ids": len({
-            record.get("id")
-            for record in data
-        }),
-        "unique_contexts": len({
-            normalize_text(
-                record.get("konteks_percakapan", "")
-            )
-            for record in data
-        }),
-        "sentiment_distribution": dict(sentiment_counter),
-        "location_distribution": dict(location_counter),
-        "top_slang": slang_counter.most_common(20),
+        phrase: count
+        for phrase, count in counter.items()
+        if count >= 5
     }
+
+
+def build_report(
+    data,
+    ids,
+    duplicate_ids,
+    sequence_errors,
+    duplicate_context_list,
+    template_warnings,
+    errors
+):
+
+    report = {
+
+        "dataset": {
+            "path": str(DATASET_PATH),
+            "total_records": len(data),
+            "first_id": (
+                f"ID-NLP-{ids[0]:03d}"
+                if ids else None
+            ),
+            "last_id": (
+                f"ID-NLP-{ids[-1]:03d}"
+                if ids else None
+            )
+        },
+
+        "integrity": {
+
+            "unique_ids": len(set(ids)),
+
+            "duplicate_id_count":
+                len(duplicate_ids),
+
+            "duplicate_ids":
+                [
+                    f"ID-NLP-{value:03d}"
+                    for value in duplicate_ids
+                ],
+
+            "sequence_error_count":
+                len(sequence_errors),
+
+            "sequence_errors":
+                sequence_errors,
+
+            "unique_context_count":
+                len({
+                    normalize_text(
+                        record.get(
+                            "konteks_percakapan",
+                            ""
+                        )
+                    )
+                    for record in data
+                }),
+
+            "duplicate_context_count":
+                len(duplicate_context_list)
+        },
+
+        "distribution": {
+
+            "sentimen_emosi":
+                distribution(
+                    data,
+                    "sentimen_emosi"
+                ),
+
+            "lokasi_dominan":
+                distribution(
+                    data,
+                    "lokasi_dominan"
+                ),
+
+            "ragam_slang":
+                distribution(
+                    data,
+                    "ragam_slang"
+                )
+        },
+
+        "quality": {
+
+            "template_warning_count":
+                len(template_warnings),
+
+            "template_warnings":
+                template_warnings,
+
+            "duplicate_context_examples":
+                duplicate_context_list[:50]
+        },
+
+        "validation": {
+
+            "error_count":
+                len(errors),
+
+            "status":
+                "FAIL" if errors else "PASS"
+        }
+    }
+
+    return report
 
 
 def main():
@@ -298,192 +332,128 @@ def main():
     print("=" * 70)
 
     if not DATASET_PATH.exists():
-        print()
-        print(f"ERROR: Dataset tidak ditemukan:")
-        print(f"       {DATASET_PATH}")
+
+        print(
+            f"ERROR: Dataset tidak ditemukan: "
+            f"{DATASET_PATH}"
+        )
+
         sys.exit(1)
 
-    # --------------------------------------------------------
-    # Load JSON
-    # --------------------------------------------------------
-
     try:
+
         with DATASET_PATH.open(
             "r",
             encoding="utf-8"
         ) as file:
+
             data = json.load(file)
 
     except json.JSONDecodeError as error:
-        print()
+
         print("ERROR: JSON tidak valid.")
-        print()
-        print(f"Line   : {error.lineno}")
-        print(f"Column : {error.colno}")
-        print(f"Message: {error.msg}")
+
+        print(
+            f"Line: {error.lineno}"
+        )
+
+        print(
+            f"Column: {error.colno}"
+        )
+
+        print(
+            f"Message: {error.msg}"
+        )
+
         sys.exit(1)
 
-    except Exception as error:
-        print()
-        print(f"ERROR saat membaca dataset: {error}")
-        sys.exit(1)
+    structure_errors = validate_structure(data)
 
-    print()
-    print(f"Dataset : {DATASET_PATH}")
-    print(f"Records : {len(data)}")
-
-    # --------------------------------------------------------
-    # Structural validation
-    # --------------------------------------------------------
-
-    errors = []
-
-    errors.extend(
-        validate_json_structure(data)
-    )
-
-    errors.extend(
+    id_errors, ids, duplicate_ids, sequence_errors = (
         validate_ids(data)
     )
 
-    errors.extend(
-        validate_exact_duplicates(data)
+    duplicate_context_list = duplicate_contexts(data)
+
+    template_warnings = repeated_openings(data)
+
+    errors = (
+        structure_errors
+        + id_errors
     )
 
-    # --------------------------------------------------------
-    # Warnings
-    # --------------------------------------------------------
+    report = build_report(
+        data,
+        ids,
+        duplicate_ids,
+        sequence_errors,
+        duplicate_context_list,
+        template_warnings,
+        errors
+    )
 
-    near_duplicates = detect_near_duplicates(data)
+    REPORT_PATH.parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
 
-    template_warnings = detect_repeated_templates(data)
+    with REPORT_PATH.open(
+        "w",
+        encoding="utf-8"
+    ) as file:
 
-    # --------------------------------------------------------
-    # Statistics
-    # --------------------------------------------------------
+        json.dump(
+            report,
+            file,
+            ensure_ascii=False,
+            indent=2
+        )
 
-    statistics = generate_statistics(data)
-
-    # --------------------------------------------------------
-    # Output
-    # --------------------------------------------------------
+        file.write("\n")
 
     print()
-    print("-" * 70)
-    print("STATISTICS")
-    print("-" * 70)
+    print(
+        f"Records: {len(data)}"
+    )
 
     print(
-        f"Total records      : "
-        f"{statistics['total_records']}"
+        f"Unique IDs: {len(set(ids))}"
     )
 
     print(
-        f"Unique IDs         : "
-        f"{statistics['unique_ids']}"
+        f"Duplicate IDs: {len(duplicate_ids)}"
     )
 
     print(
-        f"Unique contexts    : "
-        f"{statistics['unique_contexts']}"
+        f"Duplicate contexts: "
+        f"{len(duplicate_context_list)}"
+    )
+
+    print(
+        f"Template warnings: "
+        f"{len(template_warnings)}"
     )
 
     print()
-    print("Sentiment:")
-    for label, count in sorted(
-        statistics["sentiment_distribution"].items(),
-        key=lambda x: x[1],
-        reverse=True
-    ):
-        print(f"  - {label}: {count}")
-
-    print()
-    print("Lokasi:")
-    for location, count in sorted(
-        statistics["location_distribution"].items(),
-        key=lambda x: x[1],
-        reverse=True
-    )[:20]:
-        print(f"  - {location}: {count}")
-
-    # --------------------------------------------------------
-    # Errors
-    # --------------------------------------------------------
-
-    print()
-    print("-" * 70)
-    print("VALIDATION")
-    print("-" * 70)
 
     if errors:
 
-        print()
-        print(f"FAILED: {len(errors)} error ditemukan.")
+        print(
+            f"RESULT: FAIL "
+            f"({len(errors)} errors)"
+        )
 
-        for error in errors[:100]:
-            print(f"  [ERROR] {error}")
+        for error in errors[:50]:
 
-        if len(errors) > 100:
             print(
-                f"  ... dan {len(errors) - 100} error lainnya."
+                f"[ERROR] {error}"
             )
 
         sys.exit(1)
 
-    print()
-    print("PASS: Struktur dasar dataset valid.")
-
-    # --------------------------------------------------------
-    # Warnings
-    # --------------------------------------------------------
-
-    if near_duplicates:
-        print()
-        print(
-            f"WARNING: {len(near_duplicates)} "
-            "kandidat near-duplicate ditemukan."
-        )
-
-        for warning in near_duplicates[:20]:
-            print(f"  [WARNING] {warning}")
-
-    else:
-        print()
-        print("PASS: Tidak ditemukan near-duplicate signifikan.")
-
-    if template_warnings:
-        print()
-        print(
-            f"WARNING: {len(template_warnings)} "
-            "pola template berulang ditemukan."
-        )
-
-        for warning in template_warnings[:20]:
-            print(f"  [WARNING] {warning}")
-
-    else:
-        print()
-        print("PASS: Tidak ditemukan template pembuka berulang.")
-
-    # --------------------------------------------------------
-    # Final result
-    # --------------------------------------------------------
-
-    print()
-    print("=" * 70)
-
-    if errors:
-        print("RESULT: FAIL")
-        sys.exit(1)
-
-    if near_duplicates or template_warnings:
-        print(
-            "RESULT: PASS WITH WARNINGS"
-        )
-    else:
-        print("RESULT: PASS")
-
-    print("=" * 70)
+    print(
+        "RESULT: PASS"
+    )
 
 
 if __name__ == "__main__":
