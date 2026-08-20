@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "id-slang-synthetic-nlp"
+message: "If you use this dataset in your research, publication, model, benchmark, or derivative work, please cite this repository."
+type: dataset
+
+authors:
+  - name: "e17do"
+
+version: "1.0.0"
+date-released: "2026-08-20"
+
+repository-code: "https://github.com/e17do/id-slang-synthetic-nlp"
+url: "https://github.com/e17do/id-slang-synthetic-nlp"
+
+abstract: >
+  A structured synthetic corpus of Indonesian slang, informal language,
+  internet expressions, regional language styles, code-switching, and
+  conversational language for NLP research and AI development.
+
+keywords:
+  - Indonesian
+  - Bahasa Indonesia
+  - NLP
+  - natural language processing
+  - Indonesian slang
+  - synthetic dataset
+  - conversational AI
+  - sentiment analysis
+  - emotion classification
+  - code-switching
+  - regional language
+  - machine learning
+
+license: "MIT"
