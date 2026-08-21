@@ -1,0 +1,34 @@
+{
+  "release_version": "v1.0.0",
+  "release_date": "2026-08-20",
+  "project": "id-slang-synthetic-nlp",
+  "release_type": "initial",
+  "description": "Initial release of the Indonesian synthetic informal-language NLP dataset.",
+  "dataset": {
+    "records": 20000,
+    "synthetic": true,
+    "language": "Indonesian",
+    "primary_task": [
+      "text-classification",
+      "token-classification"
+    ]
+  },
+  "documentation": [
+    "README.md",
+    "docs/DATA_DICTIONARY.md",
+    "docs/DATA_PROVENANCE.md",
+    "docs/KNOWN_LIMITATIONS.md"
+  ],
+  "integrity": {
+    "checksums_file": "CHECKSUMS.sha256",
+    "algorithm": "SHA-256"
+  },
+  "validation": {
+    "ci_validation": true,
+    "release_validated": true
+  },
+  "notes": [
+    "Regional metadata is contextual annotation and must not be interpreted as verified speaker origin.",
+    "The dataset is synthetic and is not a transcript corpus of real conversations."
+  ]
+}
