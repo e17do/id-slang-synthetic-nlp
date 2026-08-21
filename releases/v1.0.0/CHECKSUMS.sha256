@@ -1,0 +1,8 @@
+# SHA-256 checksums for release v1.0.0
+# Replace/add hashes for the exact distributable dataset files before publishing a commercial release.
+#
+# Format:
+# <sha256>  <relative-path>
+#
+# This file intentionally does not invent hashes for files that are not available
+# in this working environment.
