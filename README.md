@@ -2,57 +2,55 @@
 
 **Indonesian Casual Language & Slang Synthetic Dataset for NLP and AI**
 
-A structured synthetic dataset of Indonesian informal language, slang, internet expressions, conversational patterns, regional language styles, and Indonesian-English code-switching for NLP research, machine learning, and AI development.
+A structured synthetic dataset of Indonesian informal language, slang, internet expressions, conversational patterns, regional/context-associated language styles, and Indonesian-English code-switching for NLP research, machine learning, and AI development.
 
-> **Current release:** `v1.0.0`
-> **Dataset size:** **20,000 records**
-> **Primary language:** Bahasa Indonesia
-> **Data type:** Synthetic
+> **Current release:** `v1.0.0`  
+> **Dataset size:** **20,000 records**  
+> **Primary language:** Indonesian (`id`)  
+> **Data type:** Synthetic  
 > **Repository:** `e17do/id-slang-synthetic-nlp`
 
 ---
 
-## 🇮🇩 Tentang Proyek
+## About
 
-`id-slang-synthetic-nlp` adalah dataset sintetis terstruktur yang berfokus pada bahasa Indonesia informal, bahasa gaul, ekspresi internet, percakapan kasual, variasi regional, dan penggunaan bahasa campuran Indonesia–Inggris.
+`id-slang-synthetic-nlp` is a structured synthetic resource focused on Indonesian informal and conversational language.
 
-Dataset ini dibuat sebagai resource untuk eksperimen dan pengembangan sistem NLP/AI yang membutuhkan pemahaman terhadap bahasa Indonesia informal dan conversational language.
+It is designed for experimentation involving:
 
-Beberapa area penggunaan yang ditargetkan meliputi:
+- Indonesian slang classification;
+- informal-language classification;
+- sentiment and emotion experiments;
+- conversational AI;
+- text classification;
+- slang normalization research;
+- intent-related experiments;
+- code-switching research;
+- regional/contextual language analysis;
+- data augmentation;
+- Indonesian NLP experimentation;
+- language-model development and evaluation.
 
-* Indonesian slang classification
-* sentiment analysis
-* emotion classification
-* conversational AI
-* text classification
-* slang normalization
-* intent detection
-* code-switching research
-* regional language research
-* data augmentation
-* Indonesian NLP experimentation
-* language-model development and evaluation
-
-Dataset ini **bersifat sintetis** dan tidak dimaksudkan sebagai representasi statistik sempurna dari seluruh penutur, daerah, komunitas, atau variasi bahasa Indonesia.
+The dataset is **synthetic** and is not intended to be a statistically representative model of all Indonesian speakers, regions, communities, or linguistic varieties.
 
 ---
 
 ## Dataset Overview
 
-| Attribute               | Value                         |
-| ----------------------- | ----------------------------- |
-| Current version         | `v1.0.0`                      |
-| Records                 | **20,000**                    |
-| ID range                | `ID-NLP-001` – `ID-NLP-20000` |
-| Primary language        | Indonesian                    |
-| Data type               | Synthetic                     |
-| Main format             | JSON                          |
-| Schema                  | JSON Schema                   |
-| Unique IDs              | Yes                           |
-| Duplicate context check | Included in validation        |
-| Validation tooling      | Included                      |
-| Dataset license         | See `DATASET_LICENSE.md`      |
-| Code license            | MIT                           |
+| Attribute | Value |
+|---|---|
+| Current version | `v1.0.0` |
+| Records | **20,000** |
+| ID range | `ID-NLP-0001` – `ID-NLP-20000` |
+| Primary language | Indonesian (`id`) |
+| Data type | Synthetic |
+| Main format | JSON |
+| Schema | `schema/dataset_schema.json` |
+| Unique IDs | Yes |
+| Validation tooling | Included |
+| Quality audit | Included |
+| Dataset license | See `DATASET_LICENSE.md` |
+| Code license | MIT |
 
 ---
 
@@ -70,49 +68,44 @@ The current release contains five core fields per record:
 }
 ```
 
-### Fields
+Detailed definitions are available in `DATA_DICTIONARY.md`.
 
-| Field                | Description                                                                          |
-| -------------------- | ------------------------------------------------------------------------------------ |
-| `id`                 | Unique sequential identifier for each record.                                        |
-| `konteks_percakapan` | Synthetic Indonesian casual conversation or sentence.                                |
-| `ragam_slang`        | Slang, internet expression, informal expression, idiom, or other linguistic feature. |
-| `sentimen_emosi`     | Sentiment or emotional label associated with the context.                            |
-| `lokasi_dominan`     | Dominant geographic, demographic, community, or linguistic context.                  |
+The machine-readable contract is defined in:
 
-The schema is defined in:
-
-`schema/dataset_schema.json`
+```text
+schema/dataset_schema.json
+```
 
 ---
 
 ## Linguistic Coverage
 
-The dataset is designed to cover a broad range of Indonesian informal-language contexts, including:
+The dataset is designed to cover a range of Indonesian informal-language contexts, including:
 
-* Indonesian internet slang
-* casual conversational language
-* social media expressions
-* youth-oriented expressions
-* Indonesian-English code-switching
-* gaming language
-* workplace and professional casual language
-* relationship and friendship language
-* e-commerce language
-* fintech-related language
-* financial terminology
-* crypto terminology
-* creator-economy language
-* regional and location-associated language styles
-* urban Indonesian conversational patterns
+- Indonesian internet slang;
+- casual conversational language;
+- social-media expressions;
+- youth-oriented expressions;
+- Indonesian-English code-switching;
+- gaming language;
+- workplace and professional casual language;
+- relationship and friendship language;
+- e-commerce language;
+- fintech-related language;
+- financial terminology;
+- crypto terminology;
+- creator-economy language;
+- regional/context-associated language styles;
+- urban Indonesian conversational patterns.
 
-Regional and contextual linguistic metadata is additionally represented through:
+Supporting resources:
 
-`linguistic_clusters/regional_clusters.json`
+```text
+linguistic_clusters/regional_clusters.json
+linguistic_taxonomy/taxonomy.json
+```
 
-The project also maintains a linguistic taxonomy in:
-
-`linguistic_taxonomy/taxonomy.json`
+Coverage is not intended to imply equal representation of every region, community, generation, or domain.
 
 ---
 
@@ -120,28 +113,27 @@ The project also maintains a linguistic taxonomy in:
 
 ### NLP Classification
 
-The dataset can be used as a resource for experiments involving:
+The dataset can support experiments involving:
 
-* slang detection
-* informal-language classification
-* sentiment classification
-* emotion classification
-* conversational intent classification
-* text classification
+- slang detection;
+- informal-language classification;
+- sentiment classification;
+- emotion classification;
+- conversational text classification.
 
 ### Conversational AI
 
-Potential applications include experimentation with systems that need to understand:
+Potential applications include systems that need to process:
 
-* casual Indonesian
-* internet expressions
-* slang-heavy messages
-* informal conversations
-* Indonesian-English mixed language
+- casual Indonesian;
+- internet expressions;
+- slang-heavy messages;
+- informal conversations;
+- Indonesian-English mixed language.
 
 ### Language Normalization
 
-The dataset may also be useful for research into transforming informal Indonesian into more standardized or normalized language.
+The dataset may be useful for research into normalization of informal Indonesian.
 
 Example:
 
@@ -153,7 +145,7 @@ Possible normalized form:
 "Saya tidak mengerti mengapa dia menghilang tanpa kabar."
 ```
 
-Normalization outputs are application-dependent and should not be interpreted as the only correct linguistic transformation.
+A normalized output is application-dependent and is not asserted as the only correct transformation.
 
 ---
 
@@ -161,77 +153,63 @@ Normalization outputs are application-dependent and should not be interpreted as
 
 This is a **synthetic dataset**.
 
-The records are generated for linguistic coverage and NLP experimentation rather than collected as a direct transcription of real-world conversations.
+The records were generated for linguistic coverage and NLP experimentation rather than collected as direct transcripts of real-world conversations.
 
 Therefore:
 
-* records should not be interpreted as real conversations;
-* slang frequency must not be interpreted as population frequency;
-* geographic labels do not identify the actual location of a person;
-* synthetic expressions may contain generation artifacts;
-* some expressions may not perfectly represent how a particular community speaks;
-* the dataset should be evaluated against appropriate real-world or human-validated data before production use.
+- records should not be interpreted as real conversations;
+- record frequency should not be interpreted as population frequency;
+- geographic/context labels do not identify a real person's location;
+- synthetic examples may contain generation artifacts;
+- examples may not perfectly represent how a particular community speaks;
+- production users should perform independent evaluation against appropriate external or human-reviewed data.
 
-Synthetic data should be treated as a training or experimentation resource rather than as a definitive linguistic authority.
+For provenance details, see:
+
+```text
+docs/DATA_PROVENANCE.md
+```
+
+For known limitations, see:
+
+```text
+docs/KNOWN_LIMITATIONS.md
+```
 
 ---
 
 ## Privacy & PII
 
-The dataset is designed around synthetic generation and is intended to avoid real-world personally identifiable information (PII).
+The dataset is designed as synthetic data and is not intended to contain real private conversations or personally identifiable information.
 
-However, synthetic generation alone should not be interpreted as a universal legal guarantee.
-
-Users and organizations remain responsible for conducting their own:
-
-* privacy assessment
-* security assessment
-* legal review
-* regulatory compliance review
-* fitness-for-purpose assessment
-
-according to their intended use and jurisdiction.
+Synthetic status is not a universal legal guarantee. Users remain responsible for their own privacy, security, legal, regulatory, and fitness-for-purpose review.
 
 ---
 
 ## Quality Control
 
-The repository includes validation and quality-control tooling.
+The repository includes validation and quality-audit tooling.
 
-Current validation infrastructure includes checks related to:
+Validation infrastructure includes checks related to:
 
-* JSON/schema validity
-* required fields
-* ID format
-* unique identifiers
-* missing fields
-* duplicate contexts
-* dataset consistency
-* annotation structure
+- JSON/schema validity;
+- required fields;
+- ID format;
+- unique identifiers;
+- missing fields;
+- duplicate contexts;
+- annotation structure;
+- dataset consistency.
 
-Validation code is available under:
+Relevant directories:
 
 ```text
 validation/
-```
-
-Quality-audit tooling is available under:
-
-```text
 quality/
+reports/
 ```
 
-The project also maintains a machine-readable quality report under:
-
-```text
-reports/dataset_quality_report.json
-```
-
-### Important
-
-Passing automated validation does **not** mean that every record is linguistically perfect.
-
-Automated validation verifies structural and selected quality properties. Human linguistic evaluation and real-world benchmarking are planned as future quality improvements.
+Passing automated validation does **not** guarantee that every record is linguistically natural or semantically correct.
 
 ---
 
@@ -243,9 +221,14 @@ id-slang-synthetic-nlp/
 ├── README.md
 ├── LICENSE
 ├── DATASET_LICENSE.md
+├── DATASET_CARD.md
+├── DATA_DICTIONARY.md
 ├── CHANGELOG.md
 ├── CITATION.cff
-├── .gitignore
+│
+├── docs/
+│   ├── DATA_PROVENANCE.md
+│   └── KNOWN_LIMITATIONS.md
 │
 ├── dataset/
 │   └── dataset_slang_indonesia.json
@@ -280,246 +263,182 @@ id-slang-synthetic-nlp/
 
 ## Versioning
 
-Dataset releases use explicit version numbers.
+The current published release is:
 
-### Current release
+```text
+v1.0.0
+```
 
-`v1.0.0`
+It contains **20,000 records**.
 
-This release contains the initial structured synthetic corpus with **20,000 records**.
+Future releases may add records, annotations, metadata, formats, validation, and quality improvements.
 
-Future releases may include:
+Published releases should remain identifiable and should not be silently overwritten.
 
-* expanded datasets
-* improved annotations
-* additional metadata
-* improved taxonomy
-* human validation
-* benchmark datasets
-* additional formats
-* improved regional coverage
-* improved linguistic quality controls
+All material changes should be documented in:
 
-Significant changes should be documented in:
-
-`CHANGELOG.md`
-
-Released versions should remain identifiable and should not be silently overwritten.
+```text
+CHANGELOG.md
+```
 
 ---
 
-## Roadmap
+## Quality and Release Practice
 
-The long-term goal is to develop this project into a high-quality Indonesian informal-language resource suitable for research and commercial AI/NLP development.
+A future release should be treated as a versioned artifact rather than simply a larger JSON file.
 
-Planned improvements include:
+Recommended release flow:
 
-### v1.x
+```text
+Dataset update
+      ↓
+Schema validation
+      ↓
+Duplicate / consistency checks
+      ↓
+Quality audit
+      ↓
+Documentation update
+      ↓
+Versioned release
+      ↓
+Checksum / integrity verification
+```
 
-* improved label consistency
-* expanded metadata
-* improved dataset statistics
-* additional quality checks
-* JSONL and Parquet distributions
-* clearer annotation guidelines
-* improved documentation
-
-### v2.x
-
-* human linguistic evaluation
-* real-world evaluation benchmark
-* stronger sentiment/emotion taxonomy
-* train/dev/test splits
-* baseline NLP benchmarks
-* quality scoring per record
-* improved slang normalization resources
-* expanded regional and community coverage
-
-### Future Commercial Releases
-
-Potential commercial editions may provide additional capabilities such as:
-
-* larger datasets
-* commercial training rights
-* production-use licensing
-* extended annotations
-* custom domain coverage
-* custom dataset generation
-* private datasets
-* enterprise support
-* negotiated redistribution rights
-* specialized Indonesian NLP datasets
-
-Commercial features are not automatically included in the public community release.
+The repository includes supporting documentation for provenance and limitations.
 
 ---
 
 ## Commercial Licensing & Access
 
-The public repository does **not automatically grant commercial rights to the dataset**.
+The public repository provides access to the published dataset under the terms stated in:
 
-The dataset and source code are licensed separately.
+```text
+DATASET_LICENSE.md
+```
 
-### Code
+The repository's source code is licensed separately under:
 
-Repository code is licensed under the MIT License.
+```text
+LICENSE
+```
 
-See:
+Access to the public repository should not be interpreted as granting rights beyond the applicable dataset license.
 
-`LICENSE`
+For commercial use, enterprise deployment, redistribution, custom datasets, or other licensing arrangements, review the applicable license and contact the project owner.
 
-### Dataset
+Potential future commercial offerings may include:
 
-Dataset-specific rights are governed by:
+- larger datasets;
+- extended annotations;
+- domain-specific datasets;
+- custom dataset development;
+- production-use licensing;
+- enterprise access;
+- negotiated redistribution rights.
 
-`DATASET_LICENSE.md`
-
-Commercial use may require a separate commercial license.
-
-Examples of commercial use include:
-
-* training a commercial AI model;
-* fine-tuning a production model;
-* incorporating the dataset into a commercial product;
-* using the dataset for a paid AI/NLP service;
-* internal enterprise model development;
-* redistributing the dataset as part of a commercial product;
-* creating a commercial derivative dataset where this dataset is a material component.
-
-If you are interested in **commercial access, enterprise usage, licensing, custom datasets, extended annotations, or collaboration**, please contact the project owner.
-
-### Contact
-
-**Project owner:** `e17do`
-
-**GitHub:**
-https://github.com/e17do
-
-**Repository:**
-https://github.com/e17do/id-slang-synthetic-nlp
-
-For licensing or commercial inquiries, please open an issue in the repository or contact the project owner through GitHub.
-
-> A dedicated business email may be added to this section in a future release.
-
----
-
-## Community / Research Use
-
-Researchers, students, developers, and organizations are encouraged to inspect and experiment with the public repository according to the applicable dataset license.
-
-If you use the dataset in:
-
-* research
-* publications
-* benchmarks
-* models
-* demonstrations
-* derivative research
-
-please provide appropriate attribution and cite the project.
-
-See `CITATION.cff`.
+Commercial offerings are not automatically included in the public community release.
 
 ---
 
 ## Citation
 
-If you use this dataset in research, publications, models, benchmarks, or derivative work, please cite the repository using the included `CITATION.cff`.
+If you use this dataset in research, benchmarks, demonstrations, or other public work, please provide attribution.
+
+Citation metadata:
+
+```text
+CITATION.cff
+```
 
 Project:
 
+**Indonesian Casual Language & Slang Synthetic Dataset**
+
+Repository:
+
 `e17do/id-slang-synthetic-nlp`
 
-Title:
+---
 
-**Indonesian Casual Language & Slang Synthetic Dataset for NLP and AI**
+## Roadmap
+
+### v1.x
+
+- improved label consistency;
+- expanded metadata;
+- additional quality checks;
+- dataset statistics;
+- JSONL and Parquet distributions;
+- clearer annotation documentation;
+- improved regional/contextual coverage.
+
+### v2.x and beyond
+
+- human linguistic evaluation;
+- external real-world evaluation benchmarks where appropriate and legally available;
+- stronger sentiment/emotion taxonomy;
+- train/dev/test benchmark resources;
+- baseline NLP benchmarks;
+- quality scoring;
+- expanded slang normalization resources;
+- broader regional and community coverage.
+
+The project is intended to evolve through versioned releases rather than silently modifying historical releases.
 
 ---
 
-## Limitations
+## Documentation
 
-This project has several important limitations.
+| Document | Purpose |
+|---|---|
+| `DATASET_CARD.md` | Dataset summary, intended use, limitations, and metadata |
+| `DATA_DICTIONARY.md` | Formal field definitions and data-type contract |
+| `DATASET_LICENSE.md` | Dataset licensing terms |
+| `docs/DATA_PROVENANCE.md` | Provenance and synthetic-data policy |
+| `docs/KNOWN_LIMITATIONS.md` | Known limitations and usage cautions |
+| `CHANGELOG.md` | Version history |
+| `CITATION.cff` | Citation metadata |
 
-1. The dataset is synthetic rather than a direct collection of naturally occurring conversations.
-2. It should not be treated as a statistically representative corpus of Indonesian speakers.
-3. Regional labels represent linguistic/contextual association and should not be interpreted as precise geographic identification.
-4. Slang and informal language evolve rapidly.
-5. Some labels and linguistic categories may be revised in future releases.
-6. Automated validation cannot guarantee linguistic naturalness.
-7. Production systems should be evaluated against appropriate real-world and human-reviewed data.
-8. Users are responsible for assessing legal, privacy, safety, and regulatory requirements for their own applications.
+Technical resources:
 
----
-
-## Contribution
-
-Contributions are welcome when they improve the quality, reproducibility, documentation, or usefulness of the project.
-
-Contributions should preserve:
-
-* schema integrity
-* unique identifiers
-* dataset provenance
-* reproducibility
-* privacy-conscious practices
-* linguistic quality
-* documentation quality
-* clear versioning
-
-Before submitting a dataset-related change, contributors should run the available validation tools.
+```text
+schema/
+annotations/
+linguistic_taxonomy/
+linguistic_clusters/
+validation/
+quality/
+reports/
+```
 
 ---
 
-## License Summary
+## Disclaimer
 
-| Component       | License / Terms                       |
-| --------------- | ------------------------------------- |
-| Repository code | MIT License                           |
-| Dataset         | `DATASET_LICENSE.md`                  |
-| Schema          | Subject to repository licensing terms |
-| Annotations     | Dataset-specific terms                |
-| Documentation   | Repository licensing terms            |
+This dataset is provided as a research and development resource.
 
-**Dataset rights are separate from software/code rights.**
+Users are responsible for determining whether it is suitable for their intended application.
 
-Please read `DATASET_LICENSE.md` before using the dataset.
+The dataset creator does not guarantee that the dataset is:
 
----
+- complete;
+- error-free;
+- representative of all Indonesian speakers;
+- representative of all Indonesian regions;
+- suitable for every NLP task;
+- suitable for production deployment without additional evaluation.
 
-## Project Status
-
-**Status: Active Development**
-
-`id-slang-synthetic-nlp` is an evolving Indonesian NLP data project.
-
-The current `v1.0.0` release establishes the initial 20,000-record synthetic corpus and its supporting schema, annotation, taxonomy, validation, and quality infrastructure.
-
-Future releases will focus on stronger linguistic validation, more consistent annotation, real-world evaluation, benchmarking, and commercial-grade dataset packaging.
+Production systems should undergo appropriate independent evaluation, testing, safety assessment, and legal review.
 
 ---
 
-## Contact / Licensing Inquiries
+## Current Status
 
-For questions regarding:
+**Status:** Active Development
 
-* commercial licensing
-* enterprise access
-* dataset usage
-* custom dataset development
-* custom annotations
-* research collaboration
-* partnership
-* data licensing
+**Release:** `v1.0.0`
 
-please contact:
+**Records:** **20,000**
 
-**e17do**
-
-GitHub:
-https://github.com/e17do/id-slang-synthetic-nlp
-
-GitHub profile:
-https://github.com/e17do
-
-A dedicated business contact email: aljawi.fm@gmail.com
+The current release establishes the initial structured synthetic corpus and its supporting validation, quality, and documentation infrastructure.
