@@ -7,7 +7,7 @@ All notable changes to this project are documented in this file.
 ### Added
 
 - Initial structured synthetic Indonesian casual-language dataset.
-- 10,000 synthetic language records.
+- 20,000 synthetic language records.
 - Sequential `ID-NLP-*` identifiers.
 - Indonesian slang and internet expressions.
 - Regional and demographic language variation.
